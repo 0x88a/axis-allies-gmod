@@ -1,0 +1,18 @@
+Sun Apr 11 21:57:59 2021	Alien (STEAM_0:1:81122596) has joined the game
+Sun Apr 11 21:57:59 2021	Alien (STEAM_0:1:81122596) spawned
+Sun Apr 11 21:59:11 2021	Alien (STEAM_0:1:81122596) disconnected
+Sun Apr 11 22:55:04 2021	Jefff (STEAM_0:1:217228381) has joined the game
+Sun Apr 11 22:55:04 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 22:59:15 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 22:59:59 2021	Jefff (STEAM_0:1:217228381): /name oberst
+Sun Apr 11 22:59:59 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 23:00:15 2021	Jefff (STEAM_0:1:217228381): /forcerpname Jefff Oberst Willhelm von Duseldorf
+Sun Apr 11 23:00:15 2021	Jefff (STEAM_0:1:217228381) set Jefff's name to Oberst Willhelm von Duseldorf
+Sun Apr 11 23:00:18 2021	Jefff (STEAM_0:1:217228381): pog
+Sun Apr 11 23:00:22 2021	Jefff (STEAM_0:1:217228381): !setname
+Sun Apr 11 23:00:25 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 23:00:28 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 23:02:38 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 23:03:26 2021	Jefff (STEAM_0:1:217228381): /name niggger
+Sun Apr 11 23:03:33 2021	Jefff (STEAM_0:1:217228381): /forcerpname pog nigger
+Sun Apr 11 23:03:40 2021	Jefff (STEAM_0:1:217228381): 

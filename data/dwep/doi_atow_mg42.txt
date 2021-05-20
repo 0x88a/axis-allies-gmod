@@ -1,0 +1,1 @@
+{"CSMuzzleFlashes":true,"Damage":15.0,"MuzzleEffect":"muzzleflash_pistol"}

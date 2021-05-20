@@ -1,0 +1,70 @@
+Wed Apr 14 02:28:28 2021	Jefff (STEAM_0:1:217228381) has joined the game
+Wed Apr 14 02:28:29 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Wed Apr 14 02:31:16 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 02:31:43 2021	Bot01 (BOT) has joined the game
+Wed Apr 14 02:31:43 2021	Bot01 (BOT) spawned
+Wed Apr 14 02:31:57 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Wed Apr 14 02:32:11 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 02:35:20 2021	Sturmbannfuhrer Willhelm von Duseldorf was killed by Entity [0][worldspawn] with a unknown
+Wed Apr 14 02:35:21 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Wed Apr 14 02:36:11 2021	Bot01 was killed by Sturmbannfuhrer Willhelm von Duseldorf with a doi_atow_p08
+Wed Apr 14 02:36:12 2021	Bot01 (BOT) spawned
+Wed Apr 14 02:36:30 2021	Bot01 was killed by Sturmbannfuhrer Willhelm von Duseldorf with a doi_atow_p08
+Wed Apr 14 02:36:31 2021	Bot01 (BOT) spawned
+Wed Apr 14 02:36:42 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 02:36:54 2021	Bot01 was killed by Sturmbannfuhrer Willhelm von Duseldorf with a doi_atow_p08
+Wed Apr 14 02:36:55 2021	Bot01 (BOT) spawned
+Wed Apr 14 02:37:01 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 02:37:17 2021	Bot01 was killed by Sturmbannfuhrer Willhelm von Duseldorf with a wz35
+Wed Apr 14 02:37:18 2021	Bot01 (BOT) spawned
+Wed Apr 14 02:37:32 2021	Sturmbannfuhrer Willhelm von Duseldorf was killed by Himself with a suicide trick
+Wed Apr 14 02:37:32 2021	Bot01 was killed by Himself with a suicide trick
+Wed Apr 14 02:37:32 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 02:37:33 2021	Bot01 (BOT) spawned
+Wed Apr 14 02:37:34 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Wed Apr 14 02:37:45 2021	Bot01 was killed by Sturmbannfuhrer Willhelm von Duseldorf with a tankgewehr
+Wed Apr 14 02:37:46 2021	Bot01 (BOT) spawned
+Wed Apr 14 02:39:10 2021	Bot01 was killed by Sturmbannfuhrer Willhelm von Duseldorf with a tankgewehr
+Wed Apr 14 02:39:11 2021	Bot01 (BOT) spawned
+Wed Apr 14 02:39:29 2021	Bot01 was killed by Sturmbannfuhrer Willhelm von Duseldorf with a tankgewehr
+Wed Apr 14 02:39:30 2021	Bot01 (BOT) spawned
+Wed Apr 14 02:39:37 2021	Bot01 was killed by Sturmbannfuhrer Willhelm von Duseldorf with a doi_atow_p08
+Wed Apr 14 02:39:38 2021	Bot01 (BOT) spawned
+Wed Apr 14 02:40:08 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) spawned SENT ent_unlimited_cw_ammo
+Wed Apr 14 02:40:12 2021	Bot01 was killed by Sturmbannfuhrer Willhelm von Duseldorf with a doi_atow_p08
+Wed Apr 14 02:40:13 2021	Bot01 (BOT) spawned
+Wed Apr 14 02:40:45 2021	Bot01 was killed by Sturmbannfuhrer Willhelm von Duseldorf with a doi_atow_p08
+Wed Apr 14 02:40:46 2021	Bot01 (BOT) spawned
+Wed Apr 14 02:41:08 2021	Sturmbannfuhrer Willhelm von Duseldorf was killed by Himself with a suicide trick
+Wed Apr 14 02:41:09 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Wed Apr 14 02:41:16 2021	Bot01 was killed by Sturmbannfuhrer Willhelm von Duseldorf with a cw_ak74
+Wed Apr 14 02:41:17 2021	Bot01 (BOT) spawned
+Wed Apr 14 02:41:46 2021	Bot01 was killed by Sturmbannfuhrer Willhelm von Duseldorf with a cw_ak74
+Wed Apr 14 02:41:47 2021	Bot01 (BOT) spawned
+Wed Apr 14 02:41:51 2021	Bot01 was killed by Sturmbannfuhrer Willhelm von Duseldorf with a cw_ak74
+Wed Apr 14 02:41:52 2021	Bot01 (BOT) spawned
+Wed Apr 14 02:41:55 2021	Bot01 was killed by Sturmbannfuhrer Willhelm von Duseldorf with a cw_ak74
+Wed Apr 14 02:41:56 2021	Bot01 (BOT) spawned
+Wed Apr 14 02:42:36 2021	Bot01 was killed by Sturmbannfuhrer Willhelm von Duseldorf with a cw_ak74
+Wed Apr 14 02:42:37 2021	Bot01 (BOT) spawned
+Wed Apr 14 02:44:02 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 02:44:07 2021	Bot01 was killed by Sturmbannfuhrer Willhelm von Duseldorf with a cw_ak74
+Wed Apr 14 02:44:08 2021	Bot01 (BOT) spawned
+Wed Apr 14 02:44:26 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 02:44:28 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 02:44:36 2021	Bot01 was killed by Sturmbannfuhrer Willhelm von Duseldorf with a cw_ak74
+Wed Apr 14 02:44:37 2021	Bot01 (BOT) spawned
+Wed Apr 14 02:44:55 2021	Bot01 was killed by Sturmbannfuhrer Willhelm von Duseldorf with a cw_ak74
+Wed Apr 14 02:44:56 2021	Bot01 (BOT) spawned
+Wed Apr 14 02:45:09 2021	Bot01 was killed by Sturmbannfuhrer Willhelm von Duseldorf with a cw_ak74
+Wed Apr 14 02:45:10 2021	Bot01 (BOT) spawned
+Wed Apr 14 02:47:42 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): !breakcuff
+Wed Apr 14 02:47:46 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 02:57:28 2021	Bot01 was killed by Sturmbannfuhrer Willhelm von Duseldorf with a doi_atow_p08
+Wed Apr 14 02:57:29 2021	Bot01 (BOT) spawned
+Wed Apr 14 03:00:09 2021	Bot01 was killed by Sturmbannfuhrer Willhelm von Duseldorf with a doi_atow_p08
+Wed Apr 14 03:00:10 2021	Bot01 (BOT) spawned
+Wed Apr 14 03:00:25 2021	Bot01 was killed by Sturmbannfuhrer Willhelm von Duseldorf with a doi_atow_p08
+Wed Apr 14 03:00:26 2021	Bot01 (BOT) spawned
+Wed Apr 14 03:04:20 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) disconnected
+Wed Apr 14 03:04:20 2021	Bot01 (BOT) disconnected

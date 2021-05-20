@@ -1,0 +1,109 @@
+Mon Apr 12 01:27:22 2021	Jefff (STEAM_0:1:217228381) has joined the game
+Mon Apr 12 01:27:22 2021	Major Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Mon Apr 12 01:28:05 2021	Major Willhelm von Duseldorf (STEAM_0:1:217228381) disconnected
+Mon Apr 12 01:29:44 2021	{VGN}Apis (STEAM_0:0:78717960) has joined the game
+Mon Apr 12 01:29:44 2021	Captain Jacob Williams (STEAM_0:0:78717960) spawned
+Mon Apr 12 01:30:28 2021	Captain Jacob Williams (STEAM_0:0:78717960) spawned
+Mon Apr 12 01:31:05 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Mon Apr 12 01:31:52 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Mon Apr 12 01:32:03 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Mon Apr 12 01:32:46 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Mon Apr 12 01:33:17 2021	Captain Jacob Williams (STEAM_0:0:78717960) spawned SENT doi_atow_ammo_9x25
+Mon Apr 12 01:33:24 2021	Captain Jacob Williams (STEAM_0:0:78717960) spawned SENT doi_atow_ammo_30carbine
+Mon Apr 12 01:33:31 2021	Captain Jacob Williams (STEAM_0:0:78717960) spawned SENT doi_atow_ammo_792x33
+Mon Apr 12 01:34:05 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Mon Apr 12 01:34:31 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Mon Apr 12 01:35:00 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Mon Apr 12 01:36:03 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Mon Apr 12 01:36:11 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Mon Apr 12 01:36:38 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Mon Apr 12 01:38:23 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Mon Apr 12 01:39:02 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Mon Apr 12 01:39:40 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Mon Apr 12 01:39:47 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Mon Apr 12 01:40:24 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Mon Apr 12 01:41:04 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Mon Apr 12 01:41:21 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Mon Apr 12 01:41:27 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Mon Apr 12 01:41:55 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Mon Apr 12 01:42:32 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Mon Apr 12 01:43:17 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Mon Apr 12 01:43:34 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Mon Apr 12 01:44:28 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Mon Apr 12 01:44:44 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Mon Apr 12 01:44:45 2021	Captain Jacob Williams was killed by Himself with a suicide trick
+Mon Apr 12 01:44:46 2021	Captain Jacob Williams (STEAM_0:0:78717960) spawned
+Mon Apr 12 01:44:55 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Mon Apr 12 01:45:00 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Mon Apr 12 01:46:24 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Mon Apr 12 01:46:50 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Mon Apr 12 01:47:19 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Mon Apr 12 01:47:25 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Mon Apr 12 01:47:30 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Mon Apr 12 01:47:34 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Mon Apr 12 01:47:46 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Mon Apr 12 01:48:11 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Mon Apr 12 01:48:38 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Mon Apr 12 01:48:51 2021	Captain Jacob Williams (STEAM_0:0:78717960) spawned
+Mon Apr 12 01:49:46 2021	Captain Jacob Williams (STEAM_0:0:78717960) spawned
+Mon Apr 12 02:01:28 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Mon Apr 12 02:02:45 2021	Captain Jacob Williams (STEAM_0:0:78717960) spawned SENT doi_atow_ammotypes_shotguns
+Mon Apr 12 02:03:56 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Mon Apr 12 02:04:00 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Mon Apr 12 02:04:15 2021	Captain Jacob Williams (STEAM_0:0:78717960) spawned
+Mon Apr 12 02:06:14 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Mon Apr 12 02:06:47 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Mon Apr 12 02:07:13 2021	Captain Jacob Williams (STEAM_0:0:78717960): !whitelist
+Mon Apr 12 02:07:17 2021	Captain Jacob Williams (STEAM_0:0:78717960): /whitelist
+Mon Apr 12 02:09:27 2021	Captain Jacob Williams (STEAM_0:0:78717960): kk
+Mon Apr 12 02:09:58 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Mon Apr 12 02:10:16 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Mon Apr 12 02:11:04 2021	Captain Jacob Williams (STEAM_0:0:78717960) disconnected
+Mon Apr 12 07:52:33 2021	LokiBlackSSR (STEAM_0:1:453797504) has joined the game
+Mon Apr 12 07:52:33 2021	LokiBlackSSR (STEAM_0:1:453797504) spawned
+Mon Apr 12 08:05:18 2021	LokiBlackSSR (STEAM_0:1:453797504) disconnected
+Mon Apr 12 14:10:39 2021	Jefff (STEAM_0:1:217228381) has joined the game
+Mon Apr 12 14:10:39 2021	Major Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Mon Apr 12 14:12:16 2021	Major Willhelm von Duseldorf (STEAM_0:1:217228381): !menu]
+Mon Apr 12 14:12:17 2021	Major Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Mon Apr 12 14:12:27 2021	Major Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Mon Apr 12 14:13:58 2021	Major Willhelm von Duseldorf was killed by Entity [0][worldspawn] with a unknown
+Mon Apr 12 14:14:01 2021	Major Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Mon Apr 12 14:14:37 2021	Major Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Mon Apr 12 14:15:43 2021	Major Willhelm von Duseldorf (STEAM_0:1:217228381) spawned SENT gred_emp_3inchmortar
+Mon Apr 12 14:15:58 2021	Major Willhelm von Duseldorf (STEAM_0:1:217228381) spawned SENT gred_emp_pm41
+Mon Apr 12 14:16:31 2021	Major Willhelm von Duseldorf (STEAM_0:1:217228381) spawned SENT gred_emp_pm41
+Mon Apr 12 14:17:00 2021	Major Willhelm von Duseldorf (STEAM_0:1:217228381) spawned SENT gred_emp_pm41
+Mon Apr 12 14:17:13 2021	Major Willhelm von Duseldorf (STEAM_0:1:217228381) spawned SENT gred_emp_lefh18
+Mon Apr 12 14:17:41 2021	Major Willhelm von Duseldorf (STEAM_0:1:217228381) spawned SENT gred_emp_flak38
+Mon Apr 12 14:17:52 2021	Major Willhelm von Duseldorf (STEAM_0:1:217228381) spawned SENT gred_emp_flak37
+Mon Apr 12 14:18:07 2021	Major Willhelm von Duseldorf (STEAM_0:1:217228381) spawned SENT gred_emp_gau19
+Mon Apr 12 14:18:17 2021	Major Willhelm von Duseldorf (STEAM_0:1:217228381) spawned SENT gred_emp_zpu4_1931
+Mon Apr 12 14:18:28 2021	Major Willhelm von Duseldorf (STEAM_0:1:217228381) spawned SENT gb_rocket_v1
+Mon Apr 12 14:18:29 2021	Major Willhelm von Duseldorf (STEAM_0:1:217228381) spawned SENT gb_rocket_rp3
+Mon Apr 12 14:18:30 2021	Major Willhelm von Duseldorf was killed by Himself with a suicide trick
+Mon Apr 12 14:18:31 2021	Major Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Mon Apr 12 14:18:33 2021	Major Willhelm von Duseldorf (STEAM_0:1:217228381) spawned SENT gb_rocket_nebel
+Mon Apr 12 14:18:35 2021	Major Willhelm von Duseldorf was killed by Himself with a suicide trick
+Mon Apr 12 14:18:36 2021	Major Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Mon Apr 12 14:18:41 2021	Major Willhelm von Duseldorf (STEAM_0:1:217228381) spawned SENT gred_emp_mg34_alt
+Mon Apr 12 14:18:46 2021	Major Willhelm von Duseldorf (STEAM_0:1:217228381) spawned SENT gred_emp_mg34
+Mon Apr 12 14:18:50 2021	Major Willhelm von Duseldorf (STEAM_0:1:217228381) spawned SENT gred_emp_zpu4_1931
+Mon Apr 12 14:18:54 2021	Major Willhelm von Duseldorf (STEAM_0:1:217228381) spawned SENT gred_emp_bren
+Mon Apr 12 14:18:58 2021	Major Willhelm von Duseldorf (STEAM_0:1:217228381) spawned SENT gred_emp_dshk
+Mon Apr 12 14:19:01 2021	Major Willhelm von Duseldorf (STEAM_0:1:217228381) spawned SENT gred_emp_flak37
+Mon Apr 12 14:19:12 2021	Major Willhelm von Duseldorf (STEAM_0:1:217228381) spawned SENT gred_emp_pm41
+Mon Apr 12 14:20:20 2021	Major Willhelm von Duseldorf (STEAM_0:1:217228381) spawned SENT gred_emp_gpf155
+Mon Apr 12 14:20:29 2021	Major Willhelm von Duseldorf was killed by Himself with a suicide trick
+Mon Apr 12 14:20:31 2021	Major Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Mon Apr 12 14:20:34 2021	Major Willhelm von Duseldorf (STEAM_0:1:217228381) spawned SENT gred_emp_gpf155
+Mon Apr 12 14:20:52 2021	Major Willhelm von Duseldorf (STEAM_0:1:217228381) spawned SENT gred_emp_m1mortar
+Mon Apr 12 14:20:55 2021	Major Willhelm von Duseldorf (STEAM_0:1:217228381) spawned SENT gred_emp_dshk
+Mon Apr 12 14:21:00 2021	Major Willhelm von Duseldorf (STEAM_0:1:217228381) spawned SENT gred_emp_dshk
+Mon Apr 12 14:29:08 2021	Major Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Mon Apr 12 14:29:50 2021	Major Willhelm von Duseldorf (STEAM_0:1:217228381) spawned SENT doi_atow_attpack_descopes
+Mon Apr 12 14:29:53 2021	Major Willhelm von Duseldorf (STEAM_0:1:217228381) spawned SENT doi_atow_ammotypes_rifles
+Mon Apr 12 14:31:01 2021	Major Willhelm von Duseldorf was killed by Himself with a suicide trick
+Mon Apr 12 14:31:02 2021	Major Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Mon Apr 12 14:31:07 2021	Major Willhelm von Duseldorf was killed by Himself with a suicide trick
+Mon Apr 12 14:31:30 2021	Major Willhelm von Duseldorf (STEAM_0:1:217228381) spawned

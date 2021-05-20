@@ -1,0 +1,31 @@
+Sun Apr 18 12:15:31 2021	Kvisten (STEAM_0:1:209890907): 
+Sun Apr 18 12:16:31 2021	Kvisten (STEAM_0:1:209890907): 
+Sun Apr 18 12:18:24 2021	Kvisten (STEAM_0:1:209890907): 
+Sun Apr 18 12:21:31 2021	Kvisten (STEAM_0:1:209890907): 
+Sun Apr 18 12:21:33 2021	Captain John Birch (STEAM_0:1:217228381): 
+Sun Apr 18 12:21:37 2021	Kvisten (STEAM_0:1:209890907): 
+Sun Apr 18 12:22:07 2021	Captain John Birch (STEAM_0:1:217228381): 
+Sun Apr 18 12:22:22 2021	Captain John Birch (STEAM_0:1:217228381): !wcd
+Sun Apr 18 12:22:56 2021	Kvisten (STEAM_0:1:209890907): Hello
+Sun Apr 18 12:23:03 2021	Kvisten (STEAM_0:1:209890907): thx
+Sun Apr 18 12:23:07 2021	Kvisten (STEAM_0:1:209890907): no
+Sun Apr 18 12:23:25 2021	Kvisten (STEAM_0:1:209890907): I can see the luftwaffe pm
+Sun Apr 18 12:23:50 2021	Captain John Birch (STEAM_0:1:217228381) spawned SENT wac_pl_p40
+Sun Apr 18 12:24:00 2021	Captain John Birch (STEAM_0:1:217228381) spawned SENT wac_pl_ju87
+Sun Apr 18 12:24:03 2021	Kvisten (STEAM_0:1:209890907): btw is there like a main discord for this community or?
+Sun Apr 18 12:24:08 2021	Captain John Birch (STEAM_0:1:217228381): ,!discord
+Sun Apr 18 12:24:10 2021	Kvisten (STEAM_0:1:209890907): oh
+Sun Apr 18 12:24:10 2021	Captain John Birch (STEAM_0:1:217228381): ,!content
+Sun Apr 18 12:24:12 2021	Kvisten (STEAM_0:1:209890907): 
+Sun Apr 18 12:25:19 2021	Kvisten (STEAM_0:1:209890907): Axis, 2nd SS
+Sun Apr 18 12:25:35 2021	Captain John Birch (STEAM_0:1:217228381) spawned
+Sun Apr 18 12:26:03 2021	Captain John Birch (STEAM_0:1:217228381): // Axis recruit
+Sun Apr 18 12:26:21 2021	Kvisten (STEAM_0:1:209890907): /ooc let me rejoin the server, some error, ill be on in like 5 min
+Sun Apr 18 12:26:24 2021	Kvisten (STEAM_0:1:209890907) disconnected
+Sun Apr 18 12:26:24 2021	Captain John Birch (STEAM_0:1:217228381): t
+Sun Apr 18 12:26:51 2021	Kvisten (STEAM_0:1:209890907) has joined the game
+Sun Apr 18 12:26:51 2021	Kvisten (STEAM_0:1:209890907) spawned
+Sun Apr 18 12:28:07 2021	Captain John Birch (STEAM_0:1:217228381): what
+Sun Apr 18 12:28:09 2021	Captain John Birch (STEAM_0:1:217228381): in tarnation
+Sun Apr 18 12:28:13 2021	Kvisten (STEAM_0:1:209890907): 
+Sun Apr 18 12:28:43 2021	Kvisten (STEAM_0:1:209890907): ¨can't become any of the recruits, just won't let me become one

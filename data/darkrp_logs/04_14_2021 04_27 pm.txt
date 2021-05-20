@@ -1,0 +1,50 @@
+Wed Apr 14 16:27:32 2021	Jefff (STEAM_0:1:217228381) has joined the game
+Wed Apr 14 16:27:33 2021	Trainee Willhelm (STEAM_0:1:217228381) spawned
+Wed Apr 14 16:27:39 2021	Ronan (STEAM_0:1:55197996) has joined the game
+Wed Apr 14 16:27:39 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 16:28:16 2021	Major Peter Steiner (STEAM_0:1:55197996): brb
+Wed Apr 14 16:32:52 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 16:35:33 2021	Trainee Willhelm (STEAM_0:1:217228381): // stil ltryna fix medkits
+Wed Apr 14 16:36:08 2021	Major Peter Steiner (STEAM_0:1:55197996): /ooc thats fine better to get it all fixed now an not when we need it during a batte lol
+Wed Apr 14 16:37:22 2021	Major Peter Steiner (STEAM_0:1:55197996): 
+Wed Apr 14 16:37:53 2021	Trainee Willhelm was killed by Entity [246][gb_bomb_sc250] with a gb_bomb_sc250
+Wed Apr 14 16:37:53 2021	Major Peter Steiner was killed by Entity [246][gb_bomb_sc250] with a gb_bomb_sc250
+Wed Apr 14 16:37:57 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 16:37:58 2021	Trainee Willhelm (STEAM_0:1:217228381): // lMFOAOOOO
+Wed Apr 14 16:38:02 2021	Trainee Willhelm (STEAM_0:1:217228381) spawned
+Wed Apr 14 16:38:05 2021	Major Peter Steiner (STEAM_0:1:55197996): 
+Wed Apr 14 16:38:10 2021	Major Peter Steiner (STEAM_0:1:55197996): /tp
+Wed Apr 14 16:38:10 2021	Major Peter Steiner was killed by Himself with a suicide trick
+Wed Apr 14 16:38:12 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 16:38:16 2021	Major Peter Steiner (STEAM_0:1:55197996): 
+Wed Apr 14 16:38:49 2021	Trainee Willhelm (STEAM_0:1:217228381): 
+Wed Apr 14 16:39:24 2021	Major Peter Steiner was killed by Himself with a suicide trick
+Wed Apr 14 16:39:26 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 16:40:30 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT sent_ball
+Wed Apr 14 16:40:36 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT fas2_ammo_bandages
+Wed Apr 14 16:40:44 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT fas2_ammo_medical
+Wed Apr 14 16:40:56 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT prop_dynamic
+Wed Apr 14 16:41:11 2021	Trainee Willhelm (STEAM_0:1:217228381): fas2_ifak
+Wed Apr 14 16:42:41 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT gred_emp_gpf155
+Wed Apr 14 16:43:07 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT gred_emp_m777
+Wed Apr 14 16:43:13 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT gred_emp_m777
+Wed Apr 14 16:43:18 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT gred_emp_m777
+Wed Apr 14 16:43:24 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT gred_emp_m777
+Wed Apr 14 16:44:00 2021	Trainee Willhelm (STEAM_0:1:217228381): 
+Wed Apr 14 16:44:34 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 16:45:27 2021	Trainee Willhelm (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 16:45:34 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 16:47:01 2021	Major Peter Steiner was killed by Himself with a suicide trick
+Wed Apr 14 16:47:04 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 16:47:10 2021	Trainee Willhelm was killed by Major Peter Steiner with a doi_atow_p08
+Wed Apr 14 16:48:03 2021	Trainee Willhelm (STEAM_0:1:217228381) spawned
+Wed Apr 14 16:49:49 2021	Major Peter Steiner was killed by Entity [244][base_gas] with a unknown
+Wed Apr 14 16:49:50 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 16:50:01 2021	Major Peter Steiner was killed by Entity [512][base_gas] with a unknown
+Wed Apr 14 16:50:03 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 16:51:21 2021	Major Peter Steiner (STEAM_0:1:55197996): /me salutes
+Wed Apr 14 16:52:12 2021	Trainee Willhelm (STEAM_0:1:217228381): // large confusion
+Wed Apr 14 16:52:22 2021	Major Peter Steiner (STEAM_0:1:55197996): /ooc with what
+Wed Apr 14 16:53:30 2021	Trainee Willhelm was killed by Himself with a suicide trick
+Wed Apr 14 16:53:31 2021	Trainee Willhelm (STEAM_0:1:217228381) spawned
+Wed Apr 14 16:53:47 2021	Trainee Willhelm (STEAM_0:1:217228381): /advert restart tim

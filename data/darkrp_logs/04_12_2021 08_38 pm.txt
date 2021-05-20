@@ -1,0 +1,19 @@
+Mon Apr 12 20:38:11 2021	Jefff (STEAM_0:1:217228381) has joined the game
+Mon Apr 12 20:38:12 2021	Major Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Mon Apr 12 20:39:15 2021	Major Willhelm von Duseldorf (STEAM_0:1:217228381): /forcerpname Willhel Sturmbannfuhrer Willhelm von Duseldorf
+Mon Apr 12 20:39:15 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) set Jefff's name to Sturmbannfuhrer Willhelm von Duseldorf
+Mon Apr 12 20:39:16 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Mon Apr 12 20:40:19 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Mon Apr 12 20:40:21 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Mon Apr 12 20:45:01 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Mon Apr 12 20:45:15 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Mon Apr 12 20:46:22 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Mon Apr 12 20:46:42 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Mon Apr 12 20:54:51 2021	Sturmbannfuhrer Willhelm von Duseldorf was killed by Entity [0][worldspawn] with a unknown
+Mon Apr 12 20:54:53 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Mon Apr 12 20:57:47 2021	Sturmbannfuhrer Willhelm von Duseldorf was killed by Entity [0][worldspawn] with a unknown
+Mon Apr 12 20:57:49 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Mon Apr 12 20:58:26 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) spawned SENT doi_atow_attpack_descopes
+Mon Apr 12 21:02:48 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) disconnected
+Mon Apr 12 21:03:09 2021	Jefff (STEAM_0:1:217228381) has joined the game
+Mon Apr 12 21:03:09 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) spawned

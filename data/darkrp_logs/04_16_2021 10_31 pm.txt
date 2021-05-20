@@ -1,0 +1,5 @@
+Fri Apr 16 22:31:25 2021	Jefff (STEAM_0:1:217228381) has joined the game
+Fri Apr 16 22:31:25 2021	Staff Sergeant John Birch (STEAM_0:1:217228381) spawned
+Fri Apr 16 22:39:19 2021	Staff Sergeant John Birch (STEAM_0:1:217228381) spawned
+Fri Apr 16 22:40:03 2021	Staff Sergeant John Birch (STEAM_0:1:217228381): /forcerpname staff Captain John Birch
+Fri Apr 16 22:40:03 2021	Captain John Birch (STEAM_0:1:217228381) set Jefff's name to Captain John Birch

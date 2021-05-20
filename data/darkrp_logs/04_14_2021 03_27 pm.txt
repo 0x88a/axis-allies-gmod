@@ -1,0 +1,120 @@
+Wed Apr 14 15:27:05 2021	Jefff (STEAM_0:1:217228381) has joined the game
+Wed Apr 14 15:27:05 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Wed Apr 14 15:28:03 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 15:28:07 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Wed Apr 14 15:28:12 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 15:28:28 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 15:28:53 2021	Oberst Willhelm von Duseldorf was killed by Himself with a suicide trick
+Wed Apr 14 15:28:54 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Wed Apr 14 15:29:26 2021	Ronan (STEAM_0:1:55197996) has joined the game
+Wed Apr 14 15:29:26 2021	Soldat Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 15:29:54 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381) spawned SENT cw_ammo_crate_regular
+Wed Apr 14 15:30:18 2021	Soldat Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 15:30:53 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 15:31:09 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 15:31:11 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 15:31:24 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 15:32:23 2021	Soldat Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 15:32:33 2021	Soldat Peter Steiner (STEAM_0:1:55197996): /me salutes
+Wed Apr 14 15:33:08 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): /forcerpname Peter Leutnant Peter Steiner
+Wed Apr 14 15:33:08 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381) set Ronan's name to Leutnant Peter Steiner
+Wed Apr 14 15:34:28 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 15:35:32 2021	Leutnant Peter Steiner was killed by Oberst Willhelm von Duseldorf with a doi_atow_m1911a1
+Wed Apr 14 15:35:35 2021	Leutnant Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 15:36:04 2021	Leutnant Peter Steiner was killed by Oberst Willhelm von Duseldorf with a base_shell
+Wed Apr 14 15:36:06 2021	Leutnant Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 15:38:20 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): /dropweapon
+Wed Apr 14 15:38:43 2021	Oberst Willhelm von Duseldorf was killed by Leutnant Peter Steiner with a tankgewehr
+Wed Apr 14 15:38:47 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Wed Apr 14 15:38:53 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): /advert This means war
+Wed Apr 14 15:39:01 2021	Leutnant Peter Steiner (STEAM_0:1:55197996): /ooc :O
+Wed Apr 14 15:39:07 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): /forcerpname Will Colonel John Birch
+Wed Apr 14 15:39:07 2021	Colonel John Birch (STEAM_0:1:217228381) set Jefff's name to Colonel John Birch
+Wed Apr 14 15:39:19 2021	Colonel John Birch (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 15:39:54 2021	Leutnant Peter Steiner (STEAM_0:1:55197996): /me Salutiert Mit Großer Ehre Und Respekt!
+Wed Apr 14 15:40:19 2021	Colonel John Birch (STEAM_0:1:217228381): // most errors should fix themsleves, if they dont lmk
+Wed Apr 14 15:40:38 2021	Colonel John Birch (STEAM_0:1:217228381): 
+Wed Apr 14 15:40:54 2021	Colonel John Birch was killed by Leutnant Peter Steiner with a tankgewehr
+Wed Apr 14 15:40:56 2021	Colonel John Birch (STEAM_0:1:217228381): / bruh
+Wed Apr 14 15:40:56 2021	Colonel John Birch (STEAM_0:1:217228381) spawned
+Wed Apr 14 15:41:01 2021	Colonel John Birch (STEAM_0:1:217228381): // :)
+Wed Apr 14 15:41:06 2021	Colonel John Birch (STEAM_0:1:217228381): // OHJ UEA
+Wed Apr 14 15:41:46 2021	Leutnant Peter Steiner was killed by Colonel John Birch with a doi_atow_m1911a1
+Wed Apr 14 15:41:49 2021	Leutnant Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 15:42:55 2021	Leutnant Peter Steiner was killed by Colonel John Birch with a base_shell
+Wed Apr 14 15:42:56 2021	Leutnant Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 15:43:04 2021	Leutnant Peter Steiner (STEAM_0:1:55197996): /ooc lol thats mad
+Wed Apr 14 15:44:44 2021	Colonel John Birch (STEAM_0:1:217228381): // gotta fix medkit
+Wed Apr 14 15:45:10 2021	Colonel John Birch (STEAM_0:1:217228381): /advert Say your prayers Nazi scum!
+Wed Apr 14 15:45:13 2021	Leutnant Peter Steiner (STEAM_0:1:55197996): /ooc is there a german version
+Wed Apr 14 15:45:17 2021	Colonel John Birch (STEAM_0:1:217228381): // ofc
+Wed Apr 14 15:45:22 2021	Leutnant Peter Steiner was killed by Colonel John Birch with a base_shell
+Wed Apr 14 15:45:34 2021	Leutnant Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 15:47:10 2021	Colonel John Birch (STEAM_0:1:217228381): 
+Wed Apr 14 15:47:31 2021	Colonel John Birch (STEAM_0:1:217228381): /forcerpname Leut Major Peter Steiner
+Wed Apr 14 15:47:31 2021	Colonel John Birch (STEAM_0:1:217228381) set Ronan's name to Major Peter Steiner
+Wed Apr 14 15:47:36 2021	Colonel John Birch (STEAM_0:1:217228381): You are now High Command.
+Wed Apr 14 15:47:44 2021	Colonel John Birch (STEAM_0:1:217228381): Dont disappoint!
+Wed Apr 14 15:48:14 2021	Colonel John Birch (STEAM_0:1:217228381): 
+Wed Apr 14 15:48:17 2021	Colonel John Birch (STEAM_0:1:217228381): 
+Wed Apr 14 15:48:19 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 15:48:45 2021	Colonel John Birch (STEAM_0:1:217228381): !killfeed
+Wed Apr 14 15:48:50 2021	Major Peter Steiner was killed by Colonel John Birch with a doi_atow_m1911a1
+Wed Apr 14 15:48:53 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 15:49:01 2021	Colonel John Birch was killed by Major Peter Steiner with a doi_atow_p08
+Wed Apr 14 15:49:04 2021	Colonel John Birch (STEAM_0:1:217228381) spawned
+Wed Apr 14 15:49:53 2021	Major Peter Steiner was killed by Colonel John Birch with a doi_atow_etoolus
+Wed Apr 14 15:49:55 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 15:50:11 2021	Colonel John Birch (STEAM_0:1:217228381): !kill
+Wed Apr 14 15:50:13 2021	Colonel John Birch was killed by Himself with a suicide trick
+Wed Apr 14 15:50:15 2021	Colonel John Birch (STEAM_0:1:217228381) spawned
+Wed Apr 14 15:50:28 2021	Colonel John Birch (STEAM_0:1:217228381): // BHAHAHHAHAHAHA
+Wed Apr 14 15:51:07 2021	Colonel John Birch was killed by Entity [629][gb_bomb_sc250] with a gb_bomb_sc250
+Wed Apr 14 15:51:30 2021	Colonel John Birch (STEAM_0:1:217228381) spawned
+Wed Apr 14 15:52:34 2021	Colonel John Birch (STEAM_0:1:217228381): /forcerpname Rottenfuhrer Willhelm von Duseldorf
+Wed Apr 14 15:52:35 2021	Colonel John Birch (STEAM_0:1:217228381): /me Salutes
+Wed Apr 14 15:52:41 2021	Colonel John Birch (STEAM_0:1:217228381): /forcerpname Birch Rottenfuhrer Willhelm von Duseldorf
+Wed Apr 14 15:52:41 2021	Rottenfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) set Jefff's name to Rottenfuhrer Willhelm von Duseldorf
+Wed Apr 14 15:53:26 2021	Rottenfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): /me Salutes
+Wed Apr 14 15:53:37 2021	Rottenfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Wed Apr 14 15:53:41 2021	Major Peter Steiner was killed by Rottenfuhrer Willhelm von Duseldorf with a doi_atow_k98k
+Wed Apr 14 15:53:43 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 15:53:48 2021	Rottenfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Wed Apr 14 15:53:54 2021	Rottenfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): /setspawn axis_recruit
+Wed Apr 14 15:54:02 2021	Rottenfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): /setspawn axis_recruit
+Wed Apr 14 15:54:06 2021	Rottenfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): /setspawn axis_rec
+Wed Apr 14 15:54:13 2021	Rottenfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Wed Apr 14 15:54:24 2021	Rottenfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Wed Apr 14 15:54:33 2021	Rottenfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): /forcerpname Rotten Trainee Willhelm
+Wed Apr 14 15:54:33 2021	Trainee Willhelm (STEAM_0:1:217228381) set Jefff's name to Trainee Willhelm
+Wed Apr 14 15:54:56 2021	Trainee Willhelm (STEAM_0:1:217228381): /me Salutes
+Wed Apr 14 15:56:19 2021	Trainee Willhelm (STEAM_0:1:217228381): 
+Wed Apr 14 15:56:24 2021	Trainee Willhelm (STEAM_0:1:217228381): 
+Wed Apr 14 15:56:35 2021	Major Peter Steiner was killed by Himself with a suicide trick
+Wed Apr 14 15:56:37 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 15:57:27 2021	Major Peter Steiner (STEAM_0:1:55197996): /demote will midge
+Wed Apr 14 15:57:31 2021	Trainee Willhelm (STEAM_0:1:217228381): // BNURH
+Wed Apr 14 15:57:32 2021	Trainee Willhelm (STEAM_0:1:217228381) spawned
+Wed Apr 14 15:57:34 2021	Trainee Willhelm (STEAM_0:1:217228381): // BRUH
+Wed Apr 14 15:57:38 2021	Major Peter Steiner (STEAM_0:1:55197996): /ooc lool
+Wed Apr 14 15:57:55 2021	Trainee Willhelm (STEAM_0:1:217228381): 
+Wed Apr 14 15:57:58 2021	Trainee Willhelm (STEAM_0:1:217228381): 
+Wed Apr 14 15:58:08 2021	Trainee Willhelm (STEAM_0:1:217228381): /dropmoney 10
+Wed Apr 14 15:58:15 2021	Trainee Willhelm (STEAM_0:1:217228381): /dropmoney100
+Wed Apr 14 15:58:20 2021	Trainee Willhelm (STEAM_0:1:217228381): /dropmoney 100
+Wed Apr 14 15:58:22 2021	Major Peter Steiner (STEAM_0:1:55197996): /dropmoney 1
+Wed Apr 14 15:58:24 2021	Trainee Willhelm (STEAM_0:1:217228381): /balance
+Wed Apr 14 15:58:28 2021	Major Peter Steiner (STEAM_0:1:55197996): /balance
+Wed Apr 14 15:58:29 2021	Trainee Willhelm (STEAM_0:1:217228381): /dropmoney 190000
+Wed Apr 14 15:58:33 2021	Trainee Willhelm (STEAM_0:1:217228381): /dropmoney 19000
+Wed Apr 14 15:58:37 2021	Trainee Willhelm (STEAM_0:1:217228381): /balance
+Wed Apr 14 15:58:49 2021	Trainee Willhelm (STEAM_0:1:217228381): /balance
+Wed Apr 14 16:02:37 2021	Trainee Willhelm (STEAM_0:1:217228381): 
+Wed Apr 14 16:02:52 2021	Trainee Willhelm (STEAM_0:1:217228381): 
+Wed Apr 14 16:03:04 2021	Trainee Willhelm (STEAM_0:1:217228381): 
+Wed Apr 14 16:04:28 2021	Trainee Willhelm (STEAM_0:1:217228381) spawned SENT fas2_ammo_medical
+Wed Apr 14 16:04:30 2021	Trainee Willhelm (STEAM_0:1:217228381) spawned SENT fas2_ammo_bandages
+Wed Apr 14 16:04:34 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT gb_bomb_mk77
+Wed Apr 14 16:04:39 2021	Trainee Willhelm (STEAM_0:1:217228381) spawned SENT gred_emp_3inchmortar
+Wed Apr 14 16:04:41 2021	Trainee Willhelm (STEAM_0:1:217228381) spawned SENT gred_emp_m2a1
+Wed Apr 14 16:04:53 2021	Trainee Willhelm (STEAM_0:1:217228381): ,!menu

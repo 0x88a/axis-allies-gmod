@@ -1,0 +1,35 @@
+Wed Apr 14 16:15:23 2021	Trainee Willhelm (STEAM_0:1:217228381): /check major 10
+Wed Apr 14 16:15:27 2021	Trainee Willhelm (STEAM_0:1:217228381): /balance
+Wed Apr 14 16:15:51 2021	Trainee Willhelm (STEAM_0:1:217228381): /give 10
+Wed Apr 14 16:15:52 2021	Trainee Willhelm (STEAM_0:1:217228381) has given $10 to Major Peter Steiner (STEAM_0:1:55197996)
+Wed Apr 14 16:15:55 2021	Trainee Willhelm (STEAM_0:1:217228381): /dropmoney 1-
+Wed Apr 14 16:15:58 2021	Trainee Willhelm (STEAM_0:1:217228381): /dropmoney 10
+Wed Apr 14 16:16:37 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT gred_emp_fnmag
+Wed Apr 14 16:16:44 2021	Major Peter Steiner was killed by Entity [538][env_explosion] with a env_explosion
+Wed Apr 14 16:16:48 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 16:16:57 2021	Major Peter Steiner (STEAM_0:1:55197996): 
+Wed Apr 14 16:17:12 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT gred_emp_mg42
+Wed Apr 14 16:17:14 2021	Trainee Willhelm (STEAM_0:1:217228381): 
+Wed Apr 14 16:17:23 2021	Major Peter Steiner was killed by Entity [475][env_explosion] with a env_explosion
+Wed Apr 14 16:17:24 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 16:17:59 2021	Trainee Willhelm (STEAM_0:1:217228381): !logs
+Wed Apr 14 16:18:00 2021	Trainee Willhelm (STEAM_0:1:217228381): 
+Wed Apr 14 16:18:04 2021	Trainee Willhelm was killed by Himself with a suicide trick
+Wed Apr 14 16:18:07 2021	Trainee Willhelm (STEAM_0:1:217228381): 
+Wed Apr 14 16:18:09 2021	Trainee Willhelm (STEAM_0:1:217228381) spawned
+Wed Apr 14 16:19:04 2021	Trainee Willhelm (STEAM_0:1:217228381): /sleep
+Wed Apr 14 16:19:08 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT gred_emp_mg34
+Wed Apr 14 16:19:09 2021	Trainee Willhelm (STEAM_0:1:217228381): /hits
+Wed Apr 14 16:19:10 2021	Trainee Willhelm (STEAM_0:1:217228381): /hit
+Wed Apr 14 16:19:12 2021	Trainee Willhelm (STEAM_0:1:217228381): /placehit
+Wed Apr 14 16:19:14 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT gred_emp_mg42
+Wed Apr 14 16:19:20 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT gred_emp_mg42
+Wed Apr 14 16:19:26 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT gred_emp_mg42
+Wed Apr 14 16:19:55 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT gred_emp_gau19
+Wed Apr 14 16:20:02 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT gred_emp_m2_low
+Wed Apr 14 16:20:28 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT gred_emp_mg81z
+Wed Apr 14 16:20:40 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT gred_emp_kwk
+Wed Apr 14 16:20:49 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT gred_emp_phalanx
+Wed Apr 14 16:21:04 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT gred_ammobox
+Wed Apr 14 16:21:31 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT sw_meteor
+Wed Apr 14 16:22:53 2021	Trainee Willhelm (STEAM_0:1:217228381): 

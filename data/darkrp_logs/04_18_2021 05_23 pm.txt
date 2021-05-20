@@ -1,0 +1,60 @@
+Sun Apr 18 17:23:01 2021	Jefff (STEAM_0:1:217228381) has joined the game
+Sun Apr 18 17:23:01 2021	Oberleutnant Willhelm Duseldorfg (STEAM_0:1:217228381) spawned
+Sun Apr 18 17:28:08 2021	Oberleutnant Willhelm Duseldorfg (STEAM_0:1:217228381) disconnected
+Sun Apr 18 17:28:31 2021	Jefff (STEAM_0:1:217228381) has joined the game
+Sun Apr 18 17:28:31 2021	Oberleutnant Willhelm Duseldorfg (STEAM_0:1:217228381) spawned
+Sun Apr 18 17:34:07 2021	Oberleutnant Willhelm Duseldorfg (STEAM_0:1:217228381) disconnected
+Sun Apr 18 17:34:31 2021	Jefff (STEAM_0:1:217228381) has joined the game
+Sun Apr 18 17:34:31 2021	Oberleutnant Willhelm Duseldorfg (STEAM_0:1:217228381) spawned
+Sun Apr 18 17:34:49 2021	Kvisten (STEAM_0:1:209890907) has joined the game
+Sun Apr 18 17:34:49 2021	Schutze Leopold Schneider (STEAM_0:1:209890907) spawned
+Sun Apr 18 17:35:09 2021	Oberleutnant Willhelm Duseldorfg (STEAM_0:1:217228381) disconnected
+Sun Apr 18 17:35:32 2021	Jefff (STEAM_0:1:217228381) has joined the game
+Sun Apr 18 17:35:32 2021	Oberleutnant Willhelm Duseldorfg (STEAM_0:1:217228381) spawned
+Sun Apr 18 17:35:43 2021	Schutze Leopold Schneider (STEAM_0:1:209890907) spawned
+Sun Apr 18 17:36:08 2021	Schutze Leopold Schneider (STEAM_0:1:209890907): 
+Sun Apr 18 17:37:35 2021	Schutze Leopold Schneider (STEAM_0:1:209890907): 
+Sun Apr 18 17:37:37 2021	Schutze Leopold Schneider (STEAM_0:1:209890907): 
+Sun Apr 18 17:38:16 2021	Oberleutnant Willhelm Duseldorfg (STEAM_0:1:217228381) disconnected
+Sun Apr 18 17:38:25 2021	Schutze Leopold Schneider (STEAM_0:1:209890907): 
+Sun Apr 18 17:38:32 2021	Schutze Leopold Schneider (STEAM_0:1:209890907): 
+Sun Apr 18 17:38:39 2021	Jefff (STEAM_0:1:217228381) has joined the game
+Sun Apr 18 17:38:39 2021	Oberleutnant Willhelm Duseldorfg (STEAM_0:1:217228381) spawned
+Sun Apr 18 17:38:47 2021	Schutze Leopold Schneider (STEAM_0:1:209890907): 
+Sun Apr 18 17:38:58 2021	Oberleutnant Willhelm Duseldorfg (STEAM_0:1:217228381): // hi :)
+Sun Apr 18 17:39:02 2021	Schutze Leopold Schneider (STEAM_0:1:209890907): /ooc hello
+Sun Apr 18 17:39:14 2021	Schutze Leopold Schneider (STEAM_0:1:209890907): /ooc the closets are gone
+Sun Apr 18 17:39:27 2021	Oberleutnant Willhelm Duseldorfg (STEAM_0:1:217228381): // ik
+Sun Apr 18 17:40:41 2021	Schutze Leopold Schneider (STEAM_0:1:209890907): 
+Sun Apr 18 17:40:42 2021	Schutze Leopold Schneider (STEAM_0:1:209890907): 
+Sun Apr 18 17:41:40 2021	Schutze Leopold Schneider (STEAM_0:1:209890907): 
+Sun Apr 18 17:41:43 2021	Schutze Leopold Schneider (STEAM_0:1:209890907): 
+Sun Apr 18 17:41:49 2021	Schutze Leopold Schneider (STEAM_0:1:209890907): 
+Sun Apr 18 17:41:58 2021	Schutze Leopold Schneider (STEAM_0:1:209890907): 
+Sun Apr 18 17:42:01 2021	Schutze Leopold Schneider (STEAM_0:1:209890907): 
+Sun Apr 18 17:42:58 2021	Oberleutnant Willhelm Duseldorfg (STEAM_0:1:217228381) disconnected
+Sun Apr 18 17:43:01 2021	Schutze Leopold Schneider (STEAM_0:1:209890907): 
+Sun Apr 18 17:43:22 2021	Jefff (STEAM_0:1:217228381) has joined the game
+Sun Apr 18 17:43:22 2021	Oberleutnant Willhelm Duseldorfg (STEAM_0:1:217228381) spawned
+Sun Apr 18 17:43:54 2021	Schutze Leopold Schneider (STEAM_0:1:209890907): 
+Sun Apr 18 17:44:31 2021	Schutze Leopold Schneider (STEAM_0:1:209890907): 
+Sun Apr 18 17:44:38 2021	Schutze Leopold Schneider (STEAM_0:1:209890907): 
+Sun Apr 18 17:44:42 2021	Schutze Leopold Schneider (STEAM_0:1:209890907): 
+Sun Apr 18 17:45:03 2021	Schutze Leopold Schneider (STEAM_0:1:209890907): 
+Sun Apr 18 17:45:04 2021	Oberleutnant Willhelm Duseldorfg (STEAM_0:1:217228381) disconnected
+Sun Apr 18 17:45:26 2021	Jefff (STEAM_0:1:217228381) has joined the game
+Sun Apr 18 17:45:26 2021	Oberleutnant Willhelm Duseldorfg (STEAM_0:1:217228381) spawned
+Sun Apr 18 17:46:43 2021	Oberleutnant Willhelm Duseldorfg (STEAM_0:1:217228381): // quick restart
+Sun Apr 18 17:46:48 2021	Oberleutnant Willhelm Duseldorfg (STEAM_0:1:217228381): 
+Sun Apr 18 17:46:53 2021	Oberleutnant Willhelm Duseldorfg (STEAM_0:1:217228381): quick restar
+Sun Apr 18 17:47:07 2021	Schutze Leopold Schneider (STEAM_0:1:209890907): 
+Sun Apr 18 17:47:08 2021	Schutze Leopold Schneider (STEAM_0:1:209890907): 
+Sun Apr 18 17:47:13 2021	Schutze Leopold Schneider (STEAM_0:1:209890907): OK
+Sun Apr 18 17:47:22 2021	Schutze Leopold Schneider (STEAM_0:1:209890907): 
+Sun Apr 18 17:47:34 2021	Oberleutnant Willhelm Duseldorfg (STEAM_0:1:217228381) disconnected
+Sun Apr 18 17:47:37 2021	Schutze Leopold Schneider (STEAM_0:1:209890907) disconnected
+Sun Apr 18 17:47:57 2021	Jefff (STEAM_0:1:217228381) has joined the game
+Sun Apr 18 17:47:57 2021	Oberleutnant Willhelm Duseldorfg (STEAM_0:1:217228381) spawned
+Sun Apr 18 17:48:33 2021	Kvisten (STEAM_0:1:209890907) has joined the game
+Sun Apr 18 17:48:33 2021	Schutze Leopold Schneider (STEAM_0:1:209890907) spawned
+Sun Apr 18 17:49:00 2021	Oberleutnant Willhelm Duseldorfg (STEAM_0:1:217228381): /advert server restat

@@ -1,0 +1,36 @@
+Sun Apr 18 13:48:19 2021	Kvisten (STEAM_0:1:209890907) has joined the game
+Sun Apr 18 13:48:19 2021	Schutze Leopold Schneider (STEAM_0:1:209890907) spawned
+Sun Apr 18 13:51:12 2021	Arizona Ranger (STEAM_0:1:235518882) has joined the game
+Sun Apr 18 13:51:12 2021	Arizona Ranger (STEAM_0:1:235518882) spawned
+Sun Apr 18 13:51:51 2021	Jefff (STEAM_0:1:217228381) has joined the game
+Sun Apr 18 13:51:51 2021	Captain John Birch (STEAM_0:1:217228381) spawned
+Sun Apr 18 13:52:47 2021	Captain John Birch (STEAM_0:1:217228381) spawned
+Sun Apr 18 13:53:01 2021	Captain John Birch (STEAM_0:1:217228381): /setspawn us_air_enlisted
+Sun Apr 18 13:53:14 2021	Captain John Birch (STEAM_0:1:217228381): /setspawn allies_air_enlisted
+Sun Apr 18 13:53:17 2021	Captain John Birch (STEAM_0:1:217228381): /setspawn allies_air_nco
+Sun Apr 18 13:53:21 2021	Captain John Birch (STEAM_0:1:217228381): /setspawn allies_air_officer
+Sun Apr 18 13:53:25 2021	Captain John Birch (STEAM_0:1:217228381): /setspawn allies_air_paratrooper
+Sun Apr 18 13:53:31 2021	Captain John Birch (STEAM_0:1:217228381): /setspawn allies_air_paratrooper_officer
+Sun Apr 18 13:53:39 2021	Captain John Birch (STEAM_0:1:217228381): /setspawn allies_air_colonel
+Sun Apr 18 13:53:45 2021	Captain John Birch (STEAM_0:1:217228381) spawned
+Sun Apr 18 13:53:57 2021	Captain John Birch (STEAM_0:1:217228381): /setspawn axis_luft_enlisted
+Sun Apr 18 13:54:00 2021	Arizona Ranger (STEAM_0:1:235518882): // can I have a whitelst?
+Sun Apr 18 13:54:04 2021	Captain John Birch (STEAM_0:1:217228381): /setspawn axis_luft_nco
+Sun Apr 18 13:54:11 2021	Captain John Birch (STEAM_0:1:217228381): /setspawn axis_luft_officer
+Sun Apr 18 13:54:15 2021	Captain John Birch (STEAM_0:1:217228381): /setspawn axis_luft_paratrooper
+Sun Apr 18 13:54:18 2021	Schutze Leopold Schneider (STEAM_0:1:209890907): /ooc force me back to 2nd SS enlisted 
+Sun Apr 18 13:54:24 2021	Captain John Birch (STEAM_0:1:217228381): /setspawn axis_luft_paratrooper_officer
+Sun Apr 18 13:54:31 2021	Captain John Birch (STEAM_0:1:217228381): /setspawn axis_paratrooper_officer
+Sun Apr 18 13:54:41 2021	Schutze Leopold Schneider (STEAM_0:1:209890907): 
+Sun Apr 18 13:54:49 2021	Captain John Birch (STEAM_0:1:217228381): /setspawn axis_falsch_officer
+Sun Apr 18 13:54:51 2021	Captain John Birch (STEAM_0:1:217228381): // why?
+Sun Apr 18 13:54:56 2021	Captain John Birch (STEAM_0:1:217228381): 
+Sun Apr 18 13:55:03 2021	Schutze Leopold Schneider (STEAM_0:1:209890907): /ooc wls still broken
+Sun Apr 18 13:55:07 2021	Captain John Birch (STEAM_0:1:217228381): // try now.
+Sun Apr 18 13:55:10 2021	Schutze Leopold Schneider (STEAM_0:1:209890907): /ooc ah
+Sun Apr 18 13:55:10 2021	Schutze Leopold Schneider (STEAM_0:1:209890907) spawned
+Sun Apr 18 13:55:14 2021	Schutze Leopold Schneider (STEAM_0:1:209890907): /ooc nice
+Sun Apr 18 13:55:22 2021	Captain John Birch (STEAM_0:1:217228381): /setspawn axis_luft_oberst
+Sun Apr 18 13:55:31 2021	Captain John Birch (STEAM_0:1:217228381): // just settings spawns, to berlin we go!
+Sun Apr 18 13:55:32 2021	Captain John Birch (STEAM_0:1:217228381) spawned
+Sun Apr 18 13:55:58 2021	Captain John Birch (STEAM_0:1:217228381): 

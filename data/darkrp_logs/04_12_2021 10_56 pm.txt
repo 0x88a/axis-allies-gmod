@@ -1,0 +1,6 @@
+Mon Apr 12 22:56:38 2021	Jefff (STEAM_0:1:217228381) has joined the game
+Mon Apr 12 22:56:39 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Mon Apr 12 22:58:01 2021	Bot01 (BOT) has joined the game
+Mon Apr 12 22:58:01 2021	Bot01 (BOT) spawned
+Mon Apr 12 22:58:10 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): /warrant Bot01 Reason:
+Mon Apr 12 22:58:16 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): /wanted Bot01 nigger

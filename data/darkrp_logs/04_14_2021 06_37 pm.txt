@@ -1,0 +1,437 @@
+Wed Apr 14 18:37:18 2021	Jefff (STEAM_0:1:217228381) has joined the game
+Wed Apr 14 18:37:18 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Wed Apr 14 18:37:53 2021	Ronan (STEAM_0:1:55197996) has joined the game
+Wed Apr 14 18:37:53 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 18:39:05 2021	Sturmbannfuhrer Willhelm von Duseldorf was killed by Entity [0][worldspawn] with a unknown
+Wed Apr 14 18:39:06 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Wed Apr 14 18:39:08 2021	Major Peter Steiner was killed by Himself with a suicide trick
+Wed Apr 14 18:39:10 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 18:39:19 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 18:39:33 2021	Major Peter Steiner (STEAM_0:1:55197996): 1goto will
+Wed Apr 14 18:40:26 2021	Major Peter Steiner (STEAM_0:1:55197996): /me Salutiert Mit Großer Ehre Und Respekt!
+Wed Apr 14 18:41:00 2021	Major Peter Steiner (STEAM_0:1:55197996): /ooc you should make your own catagory on gmod
+Wed Apr 14 18:41:05 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): why
+Wed Apr 14 18:41:07 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): if its in 1942
+Wed Apr 14 18:41:11 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): its the biggest ww2 one
+Wed Apr 14 18:41:13 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): so more people see it
+Wed Apr 14 18:41:19 2021	Major Peter Steiner (STEAM_0:1:55197996): /ooc lets then peple will see it 
+Wed Apr 14 18:41:43 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): its a nice server
+Wed Apr 14 18:41:46 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): i think people will stay
+Wed Apr 14 18:42:01 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): good good
+Wed Apr 14 18:42:13 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): i think ill keep you as major
+Wed Apr 14 18:42:18 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): second highest rank
+Wed Apr 14 18:42:35 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): double crouch
+Wed Apr 14 18:42:41 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): quickly
+Wed Apr 14 18:42:54 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): STEAM_0:1:55197996
+Wed Apr 14 18:43:25 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): i make cs cheats
+Wed Apr 14 18:45:02 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 18:45:07 2021	Major Peter Steiner (STEAM_0:1:55197996): !motd
+Wed Apr 14 18:45:19 2021	Major Peter Steiner was killed by Himself with a suicide trick
+Wed Apr 14 18:45:21 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 18:48:00 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): btw
+Wed Apr 14 18:48:04 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): if im not responding
+Wed Apr 14 18:48:07 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): im prolly tabbed fout
+Wed Apr 14 18:48:57 2021	Major Peter Steiner was killed by Sturmbannfuhrer Willhelm von Duseldorf with a cw_ak74
+Wed Apr 14 18:49:02 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 18:49:38 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT fas2_ammo_medical
+Wed Apr 14 18:49:41 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 18:49:58 2021	Sturmbannfuhrer Willhelm von Duseldorf was killed by Major Peter Steiner with a cw_ak74
+Wed Apr 14 18:50:01 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Wed Apr 14 18:50:10 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Wed Apr 14 18:50:23 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): lmfao
+Wed Apr 14 18:50:31 2021	Major Peter Steiner (STEAM_0:1:55197996): /drop
+Wed Apr 14 18:50:36 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): /dropwepaon
+Wed Apr 14 18:52:34 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT prop_dynamic
+Wed Apr 14 18:52:37 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT prop_dynamic
+Wed Apr 14 18:52:40 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT prop_dynamic
+Wed Apr 14 18:52:43 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT prop_dynamic
+Wed Apr 14 18:52:46 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT prop_dynamic
+Wed Apr 14 18:53:09 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT sent_ball
+Wed Apr 14 18:53:22 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT item_healthkit
+Wed Apr 14 18:53:34 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT item_suit
+Wed Apr 14 18:53:42 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT prop_thumper
+Wed Apr 14 18:53:58 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT grenade_helicopter
+Wed Apr 14 18:54:05 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT item_healthvial
+Wed Apr 14 18:54:15 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT bodyman_closet
+Wed Apr 14 18:54:24 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT gmod_sent_vehicle_fphysics_gaspump
+Wed Apr 14 18:55:46 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 18:56:29 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 18:56:52 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 18:58:31 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 18:58:41 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 18:58:46 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 18:58:51 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 19:10:04 2021	Sturmbannfuhrer Willhelm von Duseldorf was killed by Entity [0][worldspawn] with a unknown
+Wed Apr 14 19:10:05 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Wed Apr 14 19:16:34 2021	Major Peter Steiner was killed by Himself with a suicide trick
+Wed Apr 14 19:16:35 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 19:17:41 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 19:19:06 2021	some one (STEAM_0:1:465978133) has joined the game
+Wed Apr 14 19:19:06 2021	some one (STEAM_0:1:465978133) spawned
+Wed Apr 14 19:19:18 2021	Major Peter Steiner (STEAM_0:1:55197996): on phone
+Wed Apr 14 19:19:56 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 19:20:10 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 19:20:33 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 19:20:39 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 19:21:09 2021	some one was killed by Sturmbannfuhrer Willhelm von Duseldorf with a doi_atow_p08
+Wed Apr 14 19:21:18 2021	some one (STEAM_0:1:465978133) spawned
+Wed Apr 14 19:22:04 2021	some one was killed by Himself with a suicide trick
+Wed Apr 14 19:22:09 2021	some one (STEAM_0:1:465978133) spawned
+Wed Apr 14 19:24:06 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 19:24:43 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): /rpname Oberst Willhelm von Duseldorf
+Wed Apr 14 19:24:50 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): /forcerpname will Oberst Willhelm von Duseldorf
+Wed Apr 14 19:24:50 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381) set Jefff's name to Oberst Willhelm von Duseldorf
+Wed Apr 14 19:25:02 2021	some one was killed by Major Peter Steiner with a doi_atow_p08
+Wed Apr 14 19:25:12 2021	some one (STEAM_0:1:465978133) spawned
+Wed Apr 14 19:26:05 2021	some one was killed by Oberst Willhelm von Duseldorf with a base_shell
+Wed Apr 14 19:26:11 2021	some one (STEAM_0:1:465978133) spawned
+Wed Apr 14 19:26:42 2021	Major Peter Steiner was killed by Himself with a suicide trick
+Wed Apr 14 19:26:45 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 19:27:06 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 19:27:10 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 19:27:11 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): hello
+Wed Apr 14 19:27:14 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): take care of woman
+Wed Apr 14 19:27:16 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): train her for Us
+Wed Apr 14 19:28:07 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 19:29:34 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): yk how to force rp name rihg
+Wed Apr 14 19:29:35 2021	Major Peter Steiner (STEAM_0:1:55197996): 
+Wed Apr 14 19:30:10 2021	Major Peter Steiner (STEAM_0:1:55197996): /setname
+Wed Apr 14 19:30:14 2021	Major Peter Steiner (STEAM_0:1:55197996): /name
+Wed Apr 14 19:30:19 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): ,/forcerpname
+Wed Apr 14 19:30:40 2021	Major Peter Steiner (STEAM_0:1:55197996): /name
+Wed Apr 14 19:30:43 2021	Major Peter Steiner (STEAM_0:1:55197996): 
+Wed Apr 14 19:31:28 2021	Major Peter Steiner (STEAM_0:1:55197996): /forcerpname Fred Jones
+Wed Apr 14 19:32:01 2021	some one (STEAM_0:1:465978133): 
+Wed Apr 14 19:32:37 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): monkey
+Wed Apr 14 19:32:40 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): open !menu
+Wed Apr 14 19:32:41 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 19:32:52 2021	Major Peter Steiner (STEAM_0:1:55197996): 
+Wed Apr 14 19:32:54 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): search !forcename
+Wed Apr 14 19:33:26 2021	Major Peter Steiner (STEAM_0:1:55197996): 
+Wed Apr 14 19:33:59 2021	Major Peter Steiner (STEAM_0:1:55197996): 
+Wed Apr 14 19:34:02 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): ,!bwhitelist
+Wed Apr 14 19:34:23 2021	Major Peter Steiner (STEAM_0:1:55197996): 
+Wed Apr 14 19:34:36 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 19:34:49 2021	Major Peter Steiner (STEAM_0:1:55197996): 
+Wed Apr 14 19:35:40 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 19:35:44 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): ,!bwhitelist
+Wed Apr 14 19:35:54 2021	Major Peter Steiner (STEAM_0:1:55197996): 
+Wed Apr 14 19:36:10 2021	Major Peter Steiner (STEAM_0:1:55197996): 1menu
+Wed Apr 14 19:36:14 2021	Major Peter Steiner (STEAM_0:1:55197996): 
+Wed Apr 14 19:36:50 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 19:37:48 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 19:37:58 2021	Major Peter Steiner (STEAM_0:1:55197996): 
+Wed Apr 14 19:38:06 2021	Major Peter Steiner was killed by Private Fred Jones with a doi_atow_m1garand
+Wed Apr 14 19:38:09 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 19:38:14 2021	Major Peter Steiner (STEAM_0:1:55197996): 
+Wed Apr 14 19:39:04 2021	Private Fred Jones was killed by Major Peter Steiner with a doi_atow_p08
+Wed Apr 14 19:39:09 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 19:39:10 2021	Major Peter Steiner was killed by Private Fred Jones with a doi_atow_m1garand
+Wed Apr 14 19:39:13 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 19:39:21 2021	Major Peter Steiner (STEAM_0:1:55197996): 
+Wed Apr 14 19:39:27 2021	Major Peter Steiner (STEAM_0:1:55197996): 
+Wed Apr 14 19:39:52 2021	{VGN}Apis (STEAM_0:0:78717960) has joined the game
+Wed Apr 14 19:39:52 2021	Captain Jacob Williams (STEAM_0:0:78717960) spawned
+Wed Apr 14 19:40:26 2021	Oberst Willhelm von Duseldorf was killed by Private Fred Jones with a weapon_fists
+Wed Apr 14 19:40:39 2021	Major Peter Steiner (STEAM_0:1:55197996): /me salute
+Wed Apr 14 19:40:46 2021	Major Peter Steiner (STEAM_0:1:55197996): /me salutes
+Wed Apr 14 19:40:58 2021	Captain Jacob Williams (STEAM_0:0:78717960): /ooc oki
+Wed Apr 14 19:40:58 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Wed Apr 14 19:41:01 2021	Captain Jacob Williams (STEAM_0:0:78717960): /ooc im here
+Wed Apr 14 19:41:13 2021	Captain Jacob Williams (STEAM_0:0:78717960): /ooc re installed content
+Wed Apr 14 19:41:17 2021	Captain Jacob Williams (STEAM_0:0:78717960): /ooc and it works
+Wed Apr 14 19:41:20 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 19:41:22 2021	Captain Jacob Williams (STEAM_0:0:78717960): /ooc no more f4 erros
+Wed Apr 14 19:41:25 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 19:41:27 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 19:41:30 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 19:41:33 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 19:41:36 2021	Captain Jacob Williams (STEAM_0:0:78717960): /ooc lemme plug the mic in
+Wed Apr 14 19:41:37 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 19:41:42 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 19:41:43 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 19:41:45 2021	Private Fred Jones (STEAM_0:1:465978133): UNFREEZE MEE
+Wed Apr 14 19:42:06 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381) spawned SENT gb_bomb_2000gp
+Wed Apr 14 19:42:16 2021	Major Peter Steiner was killed by Entity [827][gb_bomb_2000gp] with a gb_bomb_2000gp
+Wed Apr 14 19:42:16 2021	Private Fred Jones was killed by Entity [827][gb_bomb_2000gp] with a gb_bomb_2000gp
+Wed Apr 14 19:42:16 2021	Oberst Willhelm von Duseldorf was killed by Entity [827][gb_bomb_2000gp] with a gb_bomb_2000gp
+Wed Apr 14 19:42:20 2021	Captain Jacob Williams (STEAM_0:0:78717960): /OOC LMAO
+Wed Apr 14 19:42:22 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 19:42:22 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Wed Apr 14 19:42:24 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 19:42:29 2021	Private Fred Jones (STEAM_0:1:465978133): :(
+Wed Apr 14 19:42:32 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 19:42:48 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): your micf
+Wed Apr 14 19:42:50 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): is kaput
+Wed Apr 14 19:42:57 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 19:43:01 2021	Oberst Willhelm von Duseldorf was killed by Private Fred Jones with a doi_atow_m1garand
+Wed Apr 14 19:43:02 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Wed Apr 14 19:43:06 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 19:43:07 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 19:43:12 2021	Captain Jacob Williams (STEAM_0:0:78717960) spawned
+Wed Apr 14 19:43:31 2021	Major Peter Steiner (STEAM_0:1:55197996): 
+Wed Apr 14 19:43:46 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 19:43:48 2021	Private Fred Jones (STEAM_0:1:465978133): let me outtt
+Wed Apr 14 19:43:49 2021	Private Fred Jones (STEAM_0:1:465978133): oh
+Wed Apr 14 19:44:22 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Wed Apr 14 19:44:33 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 19:44:38 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 19:44:40 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 19:44:44 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 19:44:45 2021	Oberst Willhelm von Duseldorf was killed by Himself with a suicide trick
+Wed Apr 14 19:44:46 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Wed Apr 14 19:44:50 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 19:45:06 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): /forcerpname oberst Rottenfuhrer Willhelm von Duseldorf
+Wed Apr 14 19:45:06 2021	Rottenfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) set Jefff's name to Rottenfuhrer Willhelm von Duseldorf
+Wed Apr 14 19:45:18 2021	Rottenfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): /advert War is declared!
+Wed Apr 14 19:45:29 2021	Private Fred Jones (STEAM_0:1:465978133): 
+Wed Apr 14 19:45:47 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Wed Apr 14 19:45:53 2021	Rottenfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 19:46:01 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Wed Apr 14 19:46:25 2021	Rottenfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 19:46:29 2021	Rottenfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 19:46:36 2021	Major Peter Steiner (STEAM_0:1:55197996): might need to relog idk
+Wed Apr 14 19:46:41 2021	Rottenfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 19:47:04 2021	Rottenfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 19:47:21 2021	Captain Jacob Williams was killed by Rottenfuhrer Willhelm von Duseldorf with a doi_atow_mg42
+Wed Apr 14 19:47:26 2021	Captain Jacob Williams (STEAM_0:0:78717960): /ooc i forgot to reload
+Wed Apr 14 19:47:27 2021	Captain Jacob Williams (STEAM_0:0:78717960) spawned
+Wed Apr 14 19:47:28 2021	Private Fred Jones was killed by Major Peter Steiner with a doi_atow_p08
+Wed Apr 14 19:47:33 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 19:47:48 2021	Rottenfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) spawned SENT gred_emp_3inchmortar
+Wed Apr 14 19:48:05 2021	Rottenfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) spawned SENT gred_emp_dshk
+Wed Apr 14 19:48:28 2021	Rottenfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): !specate
+Wed Apr 14 19:48:30 2021	Rottenfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 19:49:08 2021	Captain Jacob Williams was killed by Rottenfuhrer Willhelm von Duseldorf with a doi_atow_mg42
+Wed Apr 14 19:49:19 2021	Captain Jacob Williams (STEAM_0:0:78717960): /ooc like i said officers should get ar's
+Wed Apr 14 19:49:20 2021	Captain Jacob Williams (STEAM_0:0:78717960) spawned
+Wed Apr 14 19:49:28 2021	Captain Jacob Williams (STEAM_0:0:78717960): /ooc like i stated officers should get ars
+Wed Apr 14 19:49:30 2021	Rottenfuhrer Willhelm von Duseldorf was killed by Private Fred Jones with a doi_atow_m1garand
+Wed Apr 14 19:49:32 2021	Major Peter Steiner was killed by Private Fred Jones with a doi_atow_m1garand
+Wed Apr 14 19:49:34 2021	Rottenfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Wed Apr 14 19:49:35 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 19:50:30 2021	Rottenfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 19:50:49 2021	Rottenfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 19:51:04 2021	Rottenfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 19:51:12 2021	Rottenfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 19:51:20 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Wed Apr 14 19:51:59 2021	Private Fred Jones was killed by Major Peter Steiner with a doi_atow_p08
+Wed Apr 14 19:52:00 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 19:52:22 2021	Captain Jacob Williams was killed by Rottenfuhrer Willhelm von Duseldorf with a doi_atow_mg42
+Wed Apr 14 19:52:27 2021	Captain Jacob Williams (STEAM_0:0:78717960) spawned
+Wed Apr 14 19:52:35 2021	Rottenfuhrer Willhelm von Duseldorf was killed by Major Peter Steiner with a doi_atow_p08
+Wed Apr 14 19:52:38 2021	Rottenfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Wed Apr 14 19:53:01 2021	Rottenfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): huh
+Wed Apr 14 19:53:05 2021	Rottenfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): sowwy
+Wed Apr 14 19:53:26 2021	Captain Jacob Williams was killed by Rottenfuhrer Willhelm von Duseldorf with a doi_atow_mg42
+Wed Apr 14 19:53:28 2021	Captain Jacob Williams (STEAM_0:0:78717960) spawned
+Wed Apr 14 19:54:34 2021	Private Fred Jones (STEAM_0:1:465978133): whelp
+Wed Apr 14 19:54:49 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Wed Apr 14 19:54:51 2021	Captain Jacob Williams (STEAM_0:0:78717960): yes
+Wed Apr 14 19:54:56 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Wed Apr 14 19:54:57 2021	Major Peter Steiner (STEAM_0:1:55197996): /advert American Army we have one of your soldiers and we demand you to surrender at once!
+Wed Apr 14 19:55:09 2021	Captain Jacob Williams (STEAM_0:0:78717960): /advert no
+Wed Apr 14 19:55:26 2021	Major Peter Steiner (STEAM_0:1:55197996): /advert Then he will be lined up and shot
+Wed Apr 14 19:55:33 2021	Captain Jacob Williams (STEAM_0:0:78717960): /advert he's a private lmao
+Wed Apr 14 19:55:41 2021	Captain Jacob Williams (STEAM_0:0:78717960): /advert go for it there's plenty more out there
+Wed Apr 14 19:55:44 2021	Rottenfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): /advert No no! We have Hitler.
+Wed Apr 14 19:55:55 2021	Captain Jacob Williams (STEAM_0:0:78717960): /advert erm okay
+Wed Apr 14 19:55:58 2021	Private Fred Jones was killed by Major Peter Steiner with a doi_atow_p08
+Wed Apr 14 19:56:00 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 19:56:05 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Wed Apr 14 19:56:48 2021	Rottenfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): /rpname rott General Dwight. Eisenhower
+Wed Apr 14 19:56:53 2021	Rottenfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): /rpname rott General Dwight D Eisenhower
+Wed Apr 14 19:56:56 2021	Rottenfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): /forcerpname rott General Dwight D Eisenhower
+Wed Apr 14 19:56:56 2021	General Dwight D Eisenhower (STEAM_0:1:217228381) set Jefff's name to General Dwight D Eisenhower
+Wed Apr 14 19:57:00 2021	Captain Jacob Williams (STEAM_0:0:78717960): /advert you shot him yet?
+Wed Apr 14 19:57:04 2021	General Dwight D Eisenhower (STEAM_0:1:217228381): /forcerpname rott General Dwight.D Eisenhower
+Wed Apr 14 19:57:07 2021	Private Fred Jones (STEAM_0:1:465978133): -_-
+Wed Apr 14 19:57:09 2021	General Dwight D Eisenhower (STEAM_0:1:217228381): /advert yes Hitler is dead.
+Wed Apr 14 19:57:17 2021	General Dwight D Eisenhower (STEAM_0:1:217228381) spawned
+Wed Apr 14 19:57:20 2021	Captain Jacob Williams (STEAM_0:0:78717960): /advert okay very nice
+Wed Apr 14 19:57:26 2021	Major Peter Steiner was killed by Private Fred Jones with a doi_atow_m1garand
+Wed Apr 14 19:57:28 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 19:57:29 2021	General Dwight D Eisenhower (STEAM_0:1:217228381): /advert [Allies] All allies report to the Well!
+Wed Apr 14 19:57:29 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Wed Apr 14 19:57:37 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Wed Apr 14 19:58:11 2021	General Dwight D Eisenhower (STEAM_0:1:217228381): // at your spawn
+Wed Apr 14 19:58:14 2021	General Dwight D Eisenhower (STEAM_0:1:217228381): // not the...
+Wed Apr 14 19:58:28 2021	Captain Jacob Williams (STEAM_0:0:78717960): /me Salute
+Wed Apr 14 19:58:29 2021	General Dwight D Eisenhower (STEAM_0:1:217228381): /me Salutes
+Wed Apr 14 19:58:34 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Wed Apr 14 19:58:58 2021	General Dwight D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 19:58:59 2021	Captain Jacob Williams (STEAM_0:0:78717960): where the other guy lmao
+Wed Apr 14 19:59:01 2021	Captain Jacob Williams (STEAM_0:0:78717960): there he is
+Wed Apr 14 19:59:27 2021	Captain Jacob Williams (STEAM_0:0:78717960): 
+Wed Apr 14 19:59:35 2021	Captain Jacob Williams (STEAM_0:0:78717960): tf you crackin on about
+Wed Apr 14 19:59:41 2021	General Dwight D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 19:59:52 2021	Captain Jacob Williams (STEAM_0:0:78717960): for loosing the war?
+Wed Apr 14 19:59:56 2021	Captain Jacob Williams (STEAM_0:0:78717960): right oki
+Wed Apr 14 20:00:05 2021	General Dwight D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 20:00:09 2021	Private Fred Jones (STEAM_0:1:465978133): ik
+Wed Apr 14 20:00:16 2021	Captain Jacob Williams (STEAM_0:0:78717960) spawned
+Wed Apr 14 20:00:23 2021	Captain Jacob Williams (STEAM_0:0:78717960): /ooc gotta admit that was abit stupid
+Wed Apr 14 20:00:28 2021	General Dwight D Eisenhower (STEAM_0:1:217228381): /forcerpname priv Colonel Fred Jones
+Wed Apr 14 20:00:28 2021	General Dwight D Eisenhower (STEAM_0:1:217228381) set some one's name to Colonel Fred Jones
+Wed Apr 14 20:00:31 2021	General Dwight D Eisenhower (STEAM_0:1:217228381): /me Salutes
+Wed Apr 14 20:01:01 2021	General Dwight D Eisenhower (STEAM_0:1:217228381): /forcerpname capta Private Jacob Williams
+Wed Apr 14 20:01:01 2021	General Dwight D Eisenhower (STEAM_0:1:217228381) set {VGN}Apis's name to Private Jacob Williams
+Wed Apr 14 20:01:17 2021	General Dwight D Eisenhower (STEAM_0:1:217228381): /forcerpname Gener Oberst Willhelm von Duseldorf
+Wed Apr 14 20:01:17 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381) set Jefff's name to Oberst Willhelm von Duseldorf
+Wed Apr 14 20:01:17 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Wed Apr 14 20:01:19 2021	Colonel Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 20:01:31 2021	Private Jacob Williams (STEAM_0:0:78717960) disconnected
+Wed Apr 14 20:02:51 2021	Colonel Fred Jones was killed by Oberst Willhelm von Duseldorf with a doi_atow_p08
+Wed Apr 14 20:02:52 2021	Colonel Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 20:03:20 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 20:03:51 2021	Oberst Willhelm von Duseldorf was killed by Himself with a suicide trick
+Wed Apr 14 20:03:53 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Wed Apr 14 20:04:54 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): /forcerpname Colonel Private Fred Jones
+Wed Apr 14 20:04:54 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381) set some one's name to Private Fred Jones
+Wed Apr 14 20:04:56 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 20:04:58 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 20:05:02 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 20:05:02 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 20:05:06 2021	Oberst Willhelm von Duseldorf was killed by Private Fred Jones with a doi_atow_m1garand
+Wed Apr 14 20:05:07 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Wed Apr 14 20:06:01 2021	Private Fred Jones was killed by Himself with a suicide trick
+Wed Apr 14 20:06:07 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 20:06:07 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 20:06:07 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 20:06:19 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): STEAM_0:1:465978133
+Wed Apr 14 20:06:38 2021	Private Fred Jones was killed by Oberst Willhelm von Duseldorf with a doi_atow_p08
+Wed Apr 14 20:06:41 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 20:08:44 2021	{VGN}Apis (STEAM_0:0:78717960) has joined the game
+Wed Apr 14 20:08:44 2021	Private Jacob Williams (STEAM_0:0:78717960) spawned
+Wed Apr 14 20:09:04 2021	Private Fred Jones was killed by Entity [0][worldspawn] with a unknown
+Wed Apr 14 20:09:08 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 20:09:13 2021	Private Jacob Williams (STEAM_0:0:78717960): 
+Wed Apr 14 20:09:34 2021	Private Jacob Williams (STEAM_0:0:78717960): also
+Wed Apr 14 20:09:35 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): /forcerpname Jacob Captain Jacob Williams
+Wed Apr 14 20:09:35 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381) set {VGN}Apis's name to Captain Jacob Williams
+Wed Apr 14 20:09:38 2021	Captain Jacob Williams (STEAM_0:0:78717960): on loading screen
+Wed Apr 14 20:09:40 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): Yes
+Wed Apr 14 20:09:44 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): wdym
+Wed Apr 14 20:10:07 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): yes I know.
+Wed Apr 14 20:10:12 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): I've only set it to downlaod vital things
+Wed Apr 14 20:10:15 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): ,!content
+Wed Apr 14 20:10:21 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 20:10:30 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): !whitelist
+Wed Apr 14 20:10:32 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 20:10:55 2021	Captain Jacob Williams (STEAM_0:0:78717960): /ooc waiting for content to download sec
+Wed Apr 14 20:11:03 2021	Private Fred Jones was killed by Himself with a suicide trick
+Wed Apr 14 20:11:08 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 20:11:11 2021	Private Fred Jones was killed by Himself with a suicide trick
+Wed Apr 14 20:11:13 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 20:11:47 2021	Private Fred Jones was killed by Himself with a suicide trick
+Wed Apr 14 20:11:54 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 20:15:43 2021	Private Fred Jones (STEAM_0:1:465978133) disconnected
+Wed Apr 14 20:16:45 2021	some one (STEAM_0:1:465978133) has joined the game
+Wed Apr 14 20:16:45 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 20:16:50 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 20:17:43 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 20:17:51 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 20:17:53 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 20:18:10 2021	Captain Jacob Williams (STEAM_0:0:78717960) spawned
+Wed Apr 14 20:18:10 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 20:18:29 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): /forcerpname cap Major Jacob Williams
+Wed Apr 14 20:18:29 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381) set {VGN}Apis's name to Major Jacob Williams
+Wed Apr 14 20:18:31 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 20:18:44 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 20:18:48 2021	Major Jacob Williams (STEAM_0:0:78717960) spawned
+Wed Apr 14 20:18:48 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 20:18:59 2021	Major Jacob Williams (STEAM_0:0:78717960) disconnected
+Wed Apr 14 20:19:22 2021	{VGN}Apis (STEAM_0:0:78717960) has joined the game
+Wed Apr 14 20:19:22 2021	Major Jacob Williams (STEAM_0:0:78717960) spawned
+Wed Apr 14 20:19:53 2021	Major Jacob Williams (STEAM_0:0:78717960) spawned
+Wed Apr 14 20:20:06 2021	Oberst Willhelm von Duseldorf was killed by Entity [0][worldspawn] with a gmod_sent_vehicle_fphysics_gib
+Wed Apr 14 20:20:07 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Wed Apr 14 20:20:08 2021	Major Jacob Williams (STEAM_0:0:78717960): /ooc man got promo
+Wed Apr 14 20:20:09 2021	Major Jacob Williams (STEAM_0:0:78717960): /ooc oof
+Wed Apr 14 20:20:15 2021	Oberst Willhelm von Duseldorf was killed by Himself with a suicide trick
+Wed Apr 14 20:20:15 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 20:20:21 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): // yes you are HC
+Wed Apr 14 20:20:21 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Wed Apr 14 20:20:26 2021	Private Fred Jones (STEAM_0:1:465978133): 
+Wed Apr 14 20:21:17 2021	Private Fred Jones was killed by Himself with a suicide trick
+Wed Apr 14 20:21:28 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 20:21:33 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 20:21:40 2021	Private Fred Jones was killed by Oberst Willhelm von Duseldorf with a doi_atow_p08
+Wed Apr 14 20:21:43 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 20:21:52 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381) spawned SENT gred_emp_flak37
+Wed Apr 14 20:22:13 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381) spawned SENT gred_emp_3inchmortar
+Wed Apr 14 20:22:33 2021	Oberst Willhelm von Duseldorf was killed by Private Fred Jones with a base_shell
+Wed Apr 14 20:22:35 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Wed Apr 14 20:23:13 2021	Major Jacob Williams (STEAM_0:0:78717960): /ooc le big boom incoming
+Wed Apr 14 20:23:22 2021	Major Jacob Williams (STEAM_0:0:78717960): /ooc STATION CAN WE GET A LE BIG BOOM ON THIS LOCATION
+Wed Apr 14 20:23:34 2021	Private Fred Jones (STEAM_0:1:465978133): !conntent
+Wed Apr 14 20:23:37 2021	Major Jacob Williams (STEAM_0:0:78717960): /OOC if you ever make a rules
+Wed Apr 14 20:23:42 2021	Major Jacob Williams (STEAM_0:0:78717960): 
+Wed Apr 14 20:23:44 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): ,!content
+Wed Apr 14 20:23:48 2021	Private Fred Jones (STEAM_0:1:465978133): 
+Wed Apr 14 20:23:50 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): I will get rules.
+Wed Apr 14 20:24:06 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): It will be use with common sense
+Wed Apr 14 20:24:15 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): If your'e smart enough to get to High COmmand
+Wed Apr 14 20:24:20 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): You can use a bit of caution
+Wed Apr 14 20:24:30 2021	Private Fred Jones (STEAM_0:1:465978133): 
+Wed Apr 14 20:25:56 2021	Private Fred Jones (STEAM_0:1:465978133) disconnected
+Wed Apr 14 20:26:47 2021	Major Jacob Williams (STEAM_0:0:78717960): 
+Wed Apr 14 20:26:52 2021	Major Jacob Williams (STEAM_0:0:78717960) disconnected
+Wed Apr 14 20:27:03 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): // they getting content
+Wed Apr 14 20:29:19 2021	Oberst Willhelm von Duseldorf was killed by Entity [0][worldspawn] with a unknown
+Wed Apr 14 20:29:21 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Wed Apr 14 20:31:44 2021	some one (STEAM_0:1:465978133) has joined the game
+Wed Apr 14 20:31:44 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 20:32:17 2021	{VGN}Apis (STEAM_0:0:78717960) has joined the game
+Wed Apr 14 20:32:17 2021	Major Jacob Williams (STEAM_0:0:78717960) spawned
+Wed Apr 14 20:33:00 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 20:33:02 2021	Major Jacob Williams (STEAM_0:0:78717960) spawned
+Wed Apr 14 20:33:15 2021	Oberst Willhelm von Duseldorf was killed by Private Fred Jones with a doi_atow_m1garand
+Wed Apr 14 20:33:20 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): // demote her
+Wed Apr 14 20:33:21 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Wed Apr 14 20:33:28 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): /advert demote her
+Wed Apr 14 20:33:41 2021	Oberst Willhelm von Duseldorf (STEAM_0:1:217228381): /forcerpname oberst General Dwight.D Eisenhower
+Wed Apr 14 20:33:41 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) set Jefff's name to General Dwight.D Eisenhower
+Wed Apr 14 20:33:44 2021	Major Jacob Williams (STEAM_0:0:78717960): /advert since when did i work with wehrmacht?
+Wed Apr 14 20:33:47 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) spawned
+Wed Apr 14 20:34:22 2021	Major Jacob Williams was killed by General Dwight.D Eisenhower with a doi_atow_m1911a1
+Wed Apr 14 20:34:23 2021	Major Jacob Williams (STEAM_0:0:78717960) spawned
+Wed Apr 14 20:35:10 2021	Major Jacob Williams (STEAM_0:0:78717960): smoioth 60 fps
+Wed Apr 14 20:35:13 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): same
+Wed Apr 14 20:35:37 2021	Private Fred Jones was killed by Major Jacob Williams with a doi_atow_m1911a1
+Wed Apr 14 20:35:42 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 20:35:57 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 20:35:57 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 20:35:58 2021	Private Fred Jones (STEAM_0:1:465978133): unfreese meee
+Wed Apr 14 20:36:25 2021	Private Fred Jones (STEAM_0:1:465978133): hes a witchhh toooo
+Wed Apr 14 20:36:57 2021	Private Fred Jones (STEAM_0:1:465978133): >:(
+Wed Apr 14 20:37:13 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 20:37:18 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 20:37:23 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 20:37:25 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 20:37:32 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 20:37:35 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 20:37:36 2021	Major Jacob Williams was killed by Himself with a suicide trick
+Wed Apr 14 20:37:37 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 20:37:38 2021	Major Jacob Williams (STEAM_0:0:78717960) spawned
+Wed Apr 14 20:37:42 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 20:37:53 2021	Private Fred Jones was killed by Himself with a suicide trick
+Wed Apr 14 20:37:54 2021	Private Fred Jones (STEAM_0:1:465978133): dont burnnn meee
+Wed Apr 14 20:37:57 2021	Private Fred Jones (STEAM_0:1:465978133): oh
+Wed Apr 14 20:37:58 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 20:38:07 2021	Major Jacob Williams was killed by Himself with a suicide trick
+Wed Apr 14 20:38:08 2021	General Dwight.D Eisenhower was killed by Private Fred Jones with a doi_atow_m1garand
+Wed Apr 14 20:38:08 2021	Major Jacob Williams (STEAM_0:0:78717960) spawned
+Wed Apr 14 20:38:11 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) spawned
+Wed Apr 14 20:38:23 2021	Private Fred Jones was killed by Himself with a suicide trick
+Wed Apr 14 20:38:34 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 20:38:38 2021	Private Fred Jones was killed by Himself with a suicide trick
+Wed Apr 14 20:38:42 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 20:39:00 2021	Major Jacob Williams was killed by Himself with a suicide trick
+Wed Apr 14 20:39:15 2021	Private Fred Jones was killed by Himself with a suicide trick
+Wed Apr 14 20:39:21 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 20:39:21 2021	Major Jacob Williams (STEAM_0:0:78717960) spawned
+Wed Apr 14 20:39:58 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 20:40:04 2021	Private Fred Jones was killed by Himself with a suicide trick
+Wed Apr 14 20:40:10 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 20:40:14 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): /advert SERVER RESTARTT

@@ -1,0 +1,187 @@
+Sun Apr 11 16:04:26 2021	Jefff (STEAM_0:1:217228381) has joined the game
+Sun Apr 11 16:04:27 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381) spawned
+Sun Apr 11 16:05:01 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 16:05:03 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 16:06:40 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 16:07:38 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381) spawned SENT prop_dynamic
+Sun Apr 11 16:10:15 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): /setspawn allies_colonel
+Sun Apr 11 16:10:19 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): /setspawn allies_us_colonel
+Sun Apr 11 16:10:27 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): /setspawn allies_us_generalmajor
+Sun Apr 11 16:11:30 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381) spawned SENT bodyman_closet
+Sun Apr 11 16:12:10 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 16:12:30 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 16:12:55 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 16:13:09 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 16:13:20 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): !edirshop
+Sun Apr 11 16:13:22 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 16:13:34 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 16:14:00 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 16:15:18 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 16:15:21 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 16:15:24 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 16:15:28 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 16:15:48 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 16:16:11 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381) spawned SENT doi_atow_attpack_boltactions
+Sun Apr 11 16:16:16 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 16:16:40 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 16:17:00 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381) spawned SENT doi_atow_attpack_misc
+Sun Apr 11 16:17:04 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 16:17:27 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 16:17:54 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381) spawned SENT ent_unlimited_cw_ammo
+Sun Apr 11 16:18:28 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381) spawned SENT ent_unlimited_cw_ammo
+Sun Apr 11 16:18:53 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): /setspawn allies_us_enlisted
+Sun Apr 11 16:18:56 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): /setspawn allies_us_nco
+Sun Apr 11 16:19:00 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): /setspawn allies_us_officer
+Sun Apr 11 16:19:04 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): /setspawn allies_us_medic
+Sun Apr 11 16:19:08 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): /setspawn allies_us_mic
+Sun Apr 11 16:19:12 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): /setspawn allies_us_medic
+Sun Apr 11 16:19:15 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): /setspawn allies_us_mg
+Sun Apr 11 16:19:19 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): /setspawn allies_us_sniper
+Sun Apr 11 16:19:22 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): /setspawn allies_us_mp
+Sun Apr 11 16:20:56 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381) spawned
+Sun Apr 11 16:22:50 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 16:28:24 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381) spawned SENT bodyman_closet
+Sun Apr 11 16:29:16 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 16:29:53 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 16:30:00 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 16:34:15 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 16:34:29 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 16:34:36 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): editshop
+Sun Apr 11 16:34:38 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 16:35:25 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 16:35:41 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 16:35:49 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 16:53:35 2021	Tronik (STEAM_0:1:104899979) has joined the game
+Sun Apr 11 16:53:35 2021	Tronik (STEAM_0:1:104899979) spawned
+Sun Apr 11 16:54:19 2021	Ganilha (STEAM_0:1:80404459) has joined the game
+Sun Apr 11 16:54:19 2021	Ganilha (STEAM_0:1:80404459) spawned
+Sun Apr 11 16:55:04 2021	Ganilha (STEAM_0:1:80404459): // HELLO
+Sun Apr 11 16:55:06 2021	Tronik (STEAM_0:1:104899979): //hi
+Sun Apr 11 16:55:09 2021	Tronik (STEAM_0:1:104899979): // hi
+Sun Apr 11 16:55:10 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): // hi!
+Sun Apr 11 16:57:12 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Sun Apr 11 16:57:17 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Sun Apr 11 16:57:25 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Sun Apr 11 16:57:31 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Sun Apr 11 16:57:44 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): ,!content
+Sun Apr 11 16:57:49 2021	Ganilha (STEAM_0:1:80404459): 
+Sun Apr 11 16:57:55 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): ,!discord
+Sun Apr 11 16:59:19 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 16:59:29 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381) spawned
+Sun Apr 11 16:59:31 2021	Ganilha (STEAM_0:1:80404459) spawned
+Sun Apr 11 16:59:34 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): // gotta set spawns for this map
+Sun Apr 11 16:59:37 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): // 1 momento
+Sun Apr 11 16:59:50 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): /setspawn axis_recruit
+Sun Apr 11 16:59:56 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): /setspawn axis_generalmajor
+Sun Apr 11 16:59:59 2021	Generalmajor Willhelm Duseldorf was killed by Himself with a suicide trick
+Sun Apr 11 16:59:59 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 17:00:02 2021	Generalmajor Willhelm Duseldorf was killed by Himself with a suicide trick
+Sun Apr 11 17:00:02 2021	Tronik was killed by Himself with a suicide trick
+Sun Apr 11 17:00:02 2021	Ganilha was killed by Himself with a suicide trick
+Sun Apr 11 17:00:02 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 17:00:03 2021	Ganilha (STEAM_0:1:80404459) spawned
+Sun Apr 11 17:00:03 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381) spawned
+Sun Apr 11 17:00:05 2021	Tronik (STEAM_0:1:104899979) spawned
+Sun Apr 11 17:00:27 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 0
+Sun Apr 11 17:00:35 2021	Tronik (STEAM_0:1:104899979): 
+Sun Apr 11 17:00:37 2021	Tronik (STEAM_0:1:104899979): 
+Sun Apr 11 17:00:46 2021	Tronik (STEAM_0:1:104899979) spawned
+Sun Apr 11 17:00:59 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 17:01:29 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): PVT German Name
+Sun Apr 11 17:01:36 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): ,/anem
+Sun Apr 11 17:01:38 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): ,/name
+Sun Apr 11 17:01:55 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): /setspawn axis_ss_enlisted
+Sun Apr 11 17:02:04 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): /setspawn axis_ss_nco
+Sun Apr 11 17:02:07 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): /setspawn axis_ss_officer
+Sun Apr 11 17:02:07 2021	Ganilha (STEAM_0:1:80404459): /name PVT Hans Ganilha
+Sun Apr 11 17:02:10 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): /setspawn axis_feld
+Sun Apr 11 17:02:16 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): /setspawn axis_ss_feld
+Sun Apr 11 17:02:24 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): /setspawn axis_ss_feld_officer
+Sun Apr 11 17:02:27 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 17:02:52 2021	PVT Hans Ganilha (STEAM_0:1:80404459) spawned
+Sun Apr 11 17:03:13 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381) spawned SENT ent_unlimited_cw_ammo
+Sun Apr 11 17:03:13 2021	Tronik (STEAM_0:1:104899979): 
+Sun Apr 11 17:03:17 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381) spawned SENT ent_unlimited_cw_ammo
+Sun Apr 11 17:04:28 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): ,!discord
+Sun Apr 11 17:04:30 2021	PVT Hans Ganilha (STEAM_0:1:80404459): 
+Sun Apr 11 17:04:48 2021	PVT Hans Ganilha (STEAM_0:1:80404459) disconnected
+Sun Apr 11 17:04:57 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 17:05:07 2021	Tronik (STEAM_0:1:104899979): /name Ehrenfried Stieglitz
+Sun Apr 11 17:05:38 2021	Ehrenfried Stieglitz (STEAM_0:1:104899979): /name PVT Ehrenfried Stieglitz
+Sun Apr 11 17:05:48 2021	PVT Ehrenfried Stieglitz (STEAM_0:1:104899979) spawned
+Sun Apr 11 17:06:21 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 17:06:37 2021	PVT Ehrenfried Stieglitz (STEAM_0:1:104899979): 
+Sun Apr 11 17:07:18 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 17:07:24 2021	PVT Ehrenfried Stieglitz (STEAM_0:1:104899979): 
+Sun Apr 11 17:07:26 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): !fps
+Sun Apr 11 17:07:32 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 17:07:37 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 17:08:08 2021	PVT Ehrenfried Stieglitz (STEAM_0:1:104899979): 
+Sun Apr 11 17:08:30 2021	PVT Ehrenfried Stieglitz (STEAM_0:1:104899979) disconnected
+Sun Apr 11 17:13:09 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 17:14:15 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 17:14:51 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 17:15:18 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 17:15:37 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 17:16:58 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Sun Apr 11 17:17:33 2021	Ganilha (STEAM_0:1:80404459) has joined the game
+Sun Apr 11 17:17:33 2021	PVT Hans Ganilha (STEAM_0:1:80404459) spawned
+Sun Apr 11 17:18:15 2021	PVT Hans Ganilha (STEAM_0:1:80404459) spawned
+Sun Apr 11 17:18:22 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): /name Brigadefuhrer Willhelm Duseldorgf
+Sun Apr 11 17:18:27 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): /name Brigadefuhrer Willhelm Duseldorf
+Sun Apr 11 17:18:38 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): /forcename Will Brigadefuhrer Willhelm Duseldorf
+Sun Apr 11 17:18:42 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): /forcerpname Will Brigadefuhrer Willhelm Duseldorf
+Sun Apr 11 17:18:42 2021	Brigadefuhrer Willhelm Duseldorf (STEAM_0:1:217228381) set Jefff's name to Brigadefuhrer Willhelm Duseldorf
+Sun Apr 11 17:18:52 2021	Brigadefuhrer Willhelm Duseldorf (STEAM_0:1:217228381): /g Hello!
+Sun Apr 11 17:19:00 2021	PVT Hans Ganilha (STEAM_0:1:80404459): // HELLO
+Sun Apr 11 17:19:04 2021	Brigadefuhrer Willhelm Duseldorf (STEAM_0:1:217228381): // use /g
+Sun Apr 11 17:19:11 2021	Brigadefuhrer Willhelm Duseldorf (STEAM_0:1:217228381): // is all the content good?>
+Sun Apr 11 17:19:18 2021	PVT Hans Ganilha (STEAM_0:1:80404459): // ye
+Sun Apr 11 17:20:38 2021	Brigadefuhrer Willhelm Duseldorf (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Sun Apr 11 17:21:28 2021	Brigadefuhrer Willhelm Duseldorf (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Sun Apr 11 17:21:46 2021	Brigadefuhrer Willhelm Duseldorf (STEAM_0:1:217228381): /name Colonel John Birch
+Sun Apr 11 17:21:46 2021	Colonel John Birch (STEAM_0:1:217228381) spawned
+Sun Apr 11 17:22:01 2021	Colonel John Birch (STEAM_0:1:217228381): /advert Nazi Bastards surrender now!
+Sun Apr 11 17:22:13 2021	PVT Hans Ganilha (STEAM_0:1:80404459): /advert no
+Sun Apr 11 17:22:25 2021	Colonel John Birch (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Sun Apr 11 17:22:29 2021	PVT Hans Ganilha (STEAM_0:1:80404459): /advert never
+Sun Apr 11 17:24:16 2021	Tronik (STEAM_0:1:104899979) has joined the game
+Sun Apr 11 17:24:16 2021	PVT Ehrenfried Stieglitz (STEAM_0:1:104899979) spawned
+Sun Apr 11 17:25:19 2021	PVT Ehrenfried Stieglitz (STEAM_0:1:104899979) spawned
+Sun Apr 11 17:26:24 2021	Colonel John Birch (STEAM_0:1:217228381): /me Strips weapons, communications.
+Sun Apr 11 17:26:33 2021	Colonel John Birch (STEAM_0:1:217228381): /me Strips weapons, communications.
+Sun Apr 11 17:26:50 2021	Colonel John Birch (STEAM_0:1:217228381): /me Strips weapons, communications.
+Sun Apr 11 17:27:06 2021	Colonel John Birch (STEAM_0:1:217228381): /me Strips weapons, communications.
+Sun Apr 11 17:27:42 2021	Colonel John Birch (STEAM_0:1:217228381): /me Strips weapons, communications.
+Sun Apr 11 17:27:45 2021	Colonel John Birch (STEAM_0:1:217228381): /me Strips weapons, communications.
+Sun Apr 11 17:27:46 2021	Colonel John Birch (STEAM_0:1:217228381): /me Strips weapons, communications.
+Sun Apr 11 17:28:12 2021	Colonel John Birch (STEAM_0:1:217228381): /me Strips weapons, communications.
+Sun Apr 11 17:28:24 2021	Colonel John Birch (STEAM_0:1:217228381): /me Strips weapons, communications.
+Sun Apr 11 17:28:33 2021	Colonel John Birch (STEAM_0:1:217228381): /me Strips weapons, communications.
+Sun Apr 11 17:28:52 2021	PVT Hans Ganilha was killed by Colonel John Birch with a base_shell
+Sun Apr 11 17:28:54 2021	PVT Hans Ganilha (STEAM_0:1:80404459) spawned
+Sun Apr 11 17:28:57 2021	Colonel John Birch was killed by PVT Ehrenfried Stieglitz with a unknown
+Sun Apr 11 17:28:59 2021	Colonel John Birch (STEAM_0:1:217228381) spawned
+Sun Apr 11 17:29:09 2021	PVT Ehrenfried Stieglitz was killed by PVT Hans Ganilha with a doi_atow_k98k
+Sun Apr 11 17:29:21 2021	Colonel John Birch (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Sun Apr 11 17:29:32 2021	Colonel John Birch (STEAM_0:1:217228381): /me Strips weapons, communications.
+Sun Apr 11 17:29:34 2021	Colonel John Birch (STEAM_0:1:217228381): /me Strips weapons, communications.
+Sun Apr 11 17:29:35 2021	Colonel John Birch (STEAM_0:1:217228381): /me Strips weapons, communications.
+Sun Apr 11 17:29:36 2021	Colonel John Birch (STEAM_0:1:217228381): /me Strips weapons, communications.
+Sun Apr 11 17:29:37 2021	Colonel John Birch (STEAM_0:1:217228381): /me Strips weapons, communications.
+Sun Apr 11 17:29:39 2021	Colonel John Birch (STEAM_0:1:217228381): /me Strips weapons, communications.
+Sun Apr 11 17:30:54 2021	Colonel John Birch (STEAM_0:1:217228381): //' bruh what
+Sun Apr 11 17:30:57 2021	Colonel John Birch (STEAM_0:1:217228381): //bruh what
+Sun Apr 11 17:31:00 2021	Colonel John Birch (STEAM_0:1:217228381): // briuh waht
+Sun Apr 11 17:31:06 2021	Colonel John Birch (STEAM_0:1:217228381): /me Strips weapons, communications.
+Sun Apr 11 17:31:07 2021	Colonel John Birch (STEAM_0:1:217228381): /me Strips weapons, communications.
+Sun Apr 11 17:31:49 2021	PVT Hans Ganilha (STEAM_0:1:80404459): // i will go to diner see you soon
+Sun Apr 11 17:31:51 2021	PVT Hans Ganilha (STEAM_0:1:80404459) disconnected
+Sun Apr 11 17:32:43 2021	Colonel John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 17:35:38 2021	Colonel John Birch (STEAM_0:1:217228381): /me Strips weapons, communications.
+Sun Apr 11 17:39:08 2021	Colonel John Birch (STEAM_0:1:217228381): /me Strips weapons, communications.
+Sun Apr 11 17:42:57 2021	Colonel John Birch (STEAM_0:1:217228381): !frespawn *
+Sun Apr 11 17:43:00 2021	Colonel John Birch (STEAM_0:1:217228381) spawned
+Sun Apr 11 17:43:00 2021	PVT Ehrenfried Stieglitz (STEAM_0:1:104899979) spawned
+Sun Apr 11 17:43:00 2021	Colonel John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 17:45:17 2021	PVT Ehrenfried Stieglitz was killed by Colonel John Birch with a doi_atow_m1911a1

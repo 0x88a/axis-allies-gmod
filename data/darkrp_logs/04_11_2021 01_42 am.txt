@@ -1,0 +1,73 @@
+Sun Apr 11 01:42:23 2021	Jefff (STEAM_0:1:217228381): /credits
+Sun Apr 11 01:43:20 2021	Jefff (STEAM_0:1:217228381): !credits
+Sun Apr 11 01:43:22 2021	Jefff (STEAM_0:1:217228381): /credits
+Sun Apr 11 01:43:47 2021	Jefff (STEAM_0:1:217228381): /credits
+Sun Apr 11 01:46:47 2021	Jefff was killed by Himself with a suicide trick
+Sun Apr 11 01:46:48 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 01:48:49 2021	Jefff (STEAM_0:1:217228381) spawned SENT prop_dynamic
+Sun Apr 11 01:49:14 2021	Jefff (STEAM_0:1:217228381): pog
+Sun Apr 11 01:50:16 2021	Jefff (STEAM_0:1:217228381) spawned SENT prop_dynamic
+Sun Apr 11 01:50:46 2021	Jefff (STEAM_0:1:217228381) spawned SENT prop_dynamic
+Sun Apr 11 01:51:33 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 01:52:08 2021	Jefff (STEAM_0:1:217228381) spawned SENT prop_dynamic
+Sun Apr 11 01:52:20 2021	Jefff (STEAM_0:1:217228381) spawned SENT ent_unlimited_cw_ammo
+Sun Apr 11 01:52:22 2021	Jefff (STEAM_0:1:217228381) spawned SENT ent_unlimited_cw_ammo
+Sun Apr 11 01:52:25 2021	Jefff (STEAM_0:1:217228381) spawned SENT ent_unlimited_cw_ammo
+Sun Apr 11 01:52:27 2021	Jefff (STEAM_0:1:217228381) spawned SENT ent_unlimited_cw_ammo
+Sun Apr 11 01:52:37 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 01:52:46 2021	Jefff (STEAM_0:1:217228381): !edithop
+Sun Apr 11 01:52:48 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 01:53:30 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 01:53:42 2021	Jefff (STEAM_0:1:217228381): !editsho
+Sun Apr 11 01:53:44 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 01:53:48 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 01:55:35 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 01:55:47 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 01:56:04 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 01:56:11 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 01:56:31 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 01:57:35 2021	CM (STEAM_0:1:170475222) has joined the game
+Sun Apr 11 01:57:35 2021	CM (STEAM_0:1:170475222) spawned
+Sun Apr 11 01:58:40 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 01:58:52 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 01:59:17 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 01:59:34 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 02:00:01 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 02:02:10 2021	Jefff (STEAM_0:1:217228381): !addpoint
+Sun Apr 11 02:02:11 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 02:02:36 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 02:03:11 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 02:03:27 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 02:03:44 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 02:04:10 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 02:04:14 2021	Jefff (STEAM_0:1:217228381): Hi!
+Sun Apr 11 02:04:33 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 02:04:57 2021	Jefff (STEAM_0:1:217228381): /setspawn civ
+Sun Apr 11 02:05:14 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 02:05:27 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 02:05:54 2021	CM (STEAM_0:1:170475222): // holy shit the amount of errors
+Sun Apr 11 02:05:57 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 02:05:59 2021	Jefff (STEAM_0:1:217228381): Hello!
+Sun Apr 11 02:06:02 2021	CM (STEAM_0:1:170475222): hi
+Sun Apr 11 02:06:31 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 02:06:44 2021	CM (STEAM_0:1:170475222): 
+Sun Apr 11 02:06:45 2021	Jefff (STEAM_0:1:217228381): do !content
+Sun Apr 11 02:06:47 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 02:06:49 2021	CM (STEAM_0:1:170475222): 
+Sun Apr 11 02:07:38 2021	Jefff (STEAM_0:1:217228381): Jefff#0001
+Sun Apr 11 02:07:41 2021	CM (STEAM_0:1:170475222): 
+Sun Apr 11 02:07:47 2021	CM (STEAM_0:1:170475222): 
+Sun Apr 11 02:08:04 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 02:08:13 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 02:08:18 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 02:08:39 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 02:08:44 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 02:09:02 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 02:10:38 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 02:10:50 2021	Jefff (STEAM_0:1:217228381): /setspawn axis_oberst
+Sun Apr 11 02:10:55 2021	Jefff (STEAM_0:1:217228381): /setspawn axis_generalmajor
+Sun Apr 11 02:10:59 2021	Jefff (STEAM_0:1:217228381): /setspawn axis_brigadefuhrer
+Sun Apr 11 02:11:03 2021	Jefff (STEAM_0:1:217228381): /setspawn axis_oberfuhrer
+Sun Apr 11 02:11:04 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 02:13:39 2021	Jefff (STEAM_0:1:217228381): /setspawn axis_enlisted
+Sun Apr 11 02:14:00 2021	CM (STEAM_0:1:170475222) disconnected

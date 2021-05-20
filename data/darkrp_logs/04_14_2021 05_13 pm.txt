@@ -1,0 +1,369 @@
+Wed Apr 14 17:13:52 2021	Ronan (STEAM_0:1:55197996) has joined the game
+Wed Apr 14 17:13:53 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 17:14:16 2021	Jefff (STEAM_0:1:217228381) has joined the game
+Wed Apr 14 17:14:16 2021	Trainee Willhelm (STEAM_0:1:217228381) spawned
+Wed Apr 14 17:14:46 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 17:15:31 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 17:16:04 2021	Bot01 (BOT) has joined the game
+Wed Apr 14 17:16:04 2021	Bot01 (BOT) spawned
+Wed Apr 14 17:16:07 2021	Bot02 (BOT) has joined the game
+Wed Apr 14 17:16:07 2021	Bot02 (BOT) spawned
+Wed Apr 14 17:16:12 2021	Bot03 (BOT) has joined the game
+Wed Apr 14 17:16:12 2021	Bot03 (BOT) spawned
+Wed Apr 14 17:16:16 2021	Bot04 (BOT) has joined the game
+Wed Apr 14 17:16:16 2021	Bot04 (BOT) spawned
+Wed Apr 14 17:16:19 2021	Bot05 (BOT) has joined the game
+Wed Apr 14 17:16:19 2021	Bot05 (BOT) spawned
+Wed Apr 14 17:16:22 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 17:16:23 2021	Bot06 (BOT) has joined the game
+Wed Apr 14 17:16:23 2021	Bot06 (BOT) spawned
+Wed Apr 14 17:16:29 2021	Major Peter Steiner (STEAM_0:1:55197996): 
+Wed Apr 14 17:16:34 2021	Major Peter Steiner (STEAM_0:1:55197996): 01!goto bot
+Wed Apr 14 17:16:37 2021	Trainee Willhelm (STEAM_0:1:217228381): 
+Wed Apr 14 17:16:45 2021	Major Peter Steiner (STEAM_0:1:55197996): 01!goto bot
+Wed Apr 14 17:16:49 2021	Major Peter Steiner (STEAM_0:1:55197996): 
+Wed Apr 14 17:16:50 2021	Trainee Willhelm (STEAM_0:1:217228381): 
+Wed Apr 14 17:16:54 2021	Trainee Willhelm (STEAM_0:1:217228381): 
+Wed Apr 14 17:17:01 2021	Trainee Willhelm (STEAM_0:1:217228381): 
+Wed Apr 14 17:17:07 2021	Trainee Willhelm (STEAM_0:1:217228381): 
+Wed Apr 14 17:17:09 2021	Trainee Willhelm (STEAM_0:1:217228381): 
+Wed Apr 14 17:17:11 2021	Trainee Willhelm (STEAM_0:1:217228381): 
+Wed Apr 14 17:17:15 2021	Trainee Willhelm (STEAM_0:1:217228381): 
+Wed Apr 14 17:17:31 2021	Trainee Willhelm (STEAM_0:1:217228381) spawned SENT gb_bomb_2000gp
+Wed Apr 14 17:18:10 2021	Major Peter Steiner was killed by Entity [829][gb_bomb_2000gp] with a gb_bomb_2000gp
+Wed Apr 14 17:18:14 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 17:18:20 2021	Major Peter Steiner (STEAM_0:1:55197996): 
+Wed Apr 14 17:18:24 2021	Trainee Willhelm (STEAM_0:1:217228381): 
+Wed Apr 14 17:18:25 2021	Trainee Willhelm (STEAM_0:1:217228381) spawned SENT gb_bomb_250gp
+Wed Apr 14 17:18:26 2021	Bot04 was killed by Entity [216][gb_bomb_250gp] with a gb_bomb_250gp
+Wed Apr 14 17:18:26 2021	Bot02 was killed by Entity [216][gb_bomb_250gp] with a gb_bomb_250gp
+Wed Apr 14 17:18:26 2021	Major Peter Steiner was killed by Entity [216][gb_bomb_250gp] with a gb_bomb_250gp
+Wed Apr 14 17:18:26 2021	Bot01 was killed by Entity [216][gb_bomb_250gp] with a gb_bomb_250gp
+Wed Apr 14 17:18:26 2021	Bot05 was killed by Entity [216][gb_bomb_250gp] with a gb_bomb_250gp
+Wed Apr 14 17:18:27 2021	Bot01 (BOT) spawned
+Wed Apr 14 17:18:27 2021	Bot02 (BOT) spawned
+Wed Apr 14 17:18:27 2021	Bot04 (BOT) spawned
+Wed Apr 14 17:18:27 2021	Bot05 (BOT) spawned
+Wed Apr 14 17:18:28 2021	Trainee Willhelm (STEAM_0:1:217228381) spawned SENT gb_bomb_fab250
+Wed Apr 14 17:18:30 2021	Bot06 was killed by Entity [126][gb_bomb_fab250] with a gb_bomb_fab250
+Wed Apr 14 17:18:31 2021	Bot06 (BOT) spawned
+Wed Apr 14 17:18:32 2021	Trainee Willhelm (STEAM_0:1:217228381) spawned SENT gb_bomb_2000gp
+Wed Apr 14 17:18:33 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 17:18:36 2021	Bot03 was killed by Trainee Willhelm with a gb_bomb_2000gp
+Wed Apr 14 17:18:36 2021	Bot02 was killed by Entity [126][gb_bomb_2000gp] with a gb_bomb_2000gp
+Wed Apr 14 17:18:36 2021	Bot05 was killed by Entity [126][gb_bomb_2000gp] with a gb_bomb_2000gp
+Wed Apr 14 17:18:36 2021	Bot04 was killed by Entity [126][gb_bomb_2000gp] with a gb_bomb_2000gp
+Wed Apr 14 17:18:36 2021	Bot01 was killed by Entity [126][gb_bomb_2000gp] with a gb_bomb_2000gp
+Wed Apr 14 17:18:37 2021	Bot01 (BOT) spawned
+Wed Apr 14 17:18:37 2021	Bot02 (BOT) spawned
+Wed Apr 14 17:18:37 2021	Bot03 (BOT) spawned
+Wed Apr 14 17:18:37 2021	Bot04 (BOT) spawned
+Wed Apr 14 17:18:37 2021	Bot05 (BOT) spawned
+Wed Apr 14 17:18:38 2021	Major Peter Steiner (STEAM_0:1:55197996): 
+Wed Apr 14 17:18:43 2021	Major Peter Steiner (STEAM_0:1:55197996): 
+Wed Apr 14 17:18:43 2021	Trainee Willhelm (STEAM_0:1:217228381): // that definately did.
+Wed Apr 14 17:18:52 2021	Trainee Willhelm (STEAM_0:1:217228381) spawned SENT gb_bomb_2000gp
+Wed Apr 14 17:18:53 2021	Bot03 was killed by Entity [126][gb_bomb_2000gp] with a gb_bomb_2000gp
+Wed Apr 14 17:18:53 2021	Bot05 was killed by Entity [126][gb_bomb_2000gp] with a gb_bomb_2000gp
+Wed Apr 14 17:18:53 2021	Bot06 was killed by Entity [126][gb_bomb_2000gp] with a gb_bomb_2000gp
+Wed Apr 14 17:18:54 2021	Bot03 (BOT) spawned
+Wed Apr 14 17:18:54 2021	Bot05 (BOT) spawned
+Wed Apr 14 17:18:54 2021	Bot06 (BOT) spawned
+Wed Apr 14 17:18:56 2021	Trainee Willhelm (STEAM_0:1:217228381) spawned SENT gb_bomb_2000gp
+Wed Apr 14 17:18:57 2021	Bot06 was killed by Entity [126][gb_bomb_2000gp] with a gb_bomb_2000gp
+Wed Apr 14 17:18:57 2021	Bot03 was killed by Entity [126][gb_bomb_2000gp] with a gb_bomb_2000gp
+Wed Apr 14 17:18:57 2021	Bot02 was killed by Entity [126][gb_bomb_2000gp] with a gb_bomb_2000gp
+Wed Apr 14 17:18:58 2021	Bot02 (BOT) spawned
+Wed Apr 14 17:18:58 2021	Bot03 (BOT) spawned
+Wed Apr 14 17:18:58 2021	Bot06 (BOT) spawned
+Wed Apr 14 17:19:00 2021	Trainee Willhelm (STEAM_0:1:217228381) spawned SENT gb_bomb_2000gp
+Wed Apr 14 17:19:01 2021	Bot02 was killed by Entity [128][gb_bomb_2000gp] with a gb_bomb_2000gp
+Wed Apr 14 17:19:01 2021	Bot05 was killed by Entity [128][gb_bomb_2000gp] with a gb_bomb_2000gp
+Wed Apr 14 17:19:01 2021	Bot06 was killed by Entity [128][gb_bomb_2000gp] with a gb_bomb_2000gp
+Wed Apr 14 17:19:01 2021	Bot03 was killed by Entity [128][gb_bomb_2000gp] with a gb_bomb_2000gp
+Wed Apr 14 17:19:01 2021	Bot04 was killed by Entity [128][gb_bomb_2000gp] with a gb_bomb_2000gp
+Wed Apr 14 17:19:02 2021	Bot02 (BOT) spawned
+Wed Apr 14 17:19:02 2021	Bot03 (BOT) spawned
+Wed Apr 14 17:19:03 2021	Bot04 (BOT) spawned
+Wed Apr 14 17:19:03 2021	Bot05 (BOT) spawned
+Wed Apr 14 17:19:03 2021	Bot06 (BOT) spawned
+Wed Apr 14 17:19:09 2021	Trainee Willhelm (STEAM_0:1:217228381) spawned SENT gb_bomb_2000gp
+Wed Apr 14 17:19:15 2021	Trainee Willhelm (STEAM_0:1:217228381) spawned SENT gb_bomb_2000gp
+Wed Apr 14 17:19:24 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 17:19:26 2021	Trainee Willhelm (STEAM_0:1:217228381): // ok
+Wed Apr 14 17:19:28 2021	Trainee Willhelm (STEAM_0:1:217228381): // all ise well :0
+Wed Apr 14 17:19:51 2021	Trainee Willhelm (STEAM_0:1:217228381) disconnected
+Wed Apr 14 17:19:58 2021	Bot05 was killed by Major Peter Steiner with a doi_atow_p08
+Wed Apr 14 17:19:59 2021	Bot05 (BOT) spawned
+Wed Apr 14 17:20:13 2021	Jefff (STEAM_0:1:217228381) has joined the game
+Wed Apr 14 17:20:13 2021	Trainee Willhelm (STEAM_0:1:217228381) spawned
+Wed Apr 14 17:20:14 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT gred_emp_mg42
+Wed Apr 14 17:20:17 2021	Bot01 was killed by Major Peter Steiner with a unknown
+Wed Apr 14 17:20:18 2021	Bot01 (BOT) spawned
+Wed Apr 14 17:20:20 2021	Bot02 was killed by Major Peter Steiner with a unknown
+Wed Apr 14 17:20:22 2021	Bot02 (BOT) spawned
+Wed Apr 14 17:20:23 2021	Bot05 was killed by Major Peter Steiner with a unknown
+Wed Apr 14 17:20:24 2021	Bot05 (BOT) spawned
+Wed Apr 14 17:20:30 2021	Bot01 was killed by Major Peter Steiner with a unknown
+Wed Apr 14 17:20:31 2021	Bot01 (BOT) spawned
+Wed Apr 14 17:20:31 2021	Bot03 was killed by Major Peter Steiner with a unknown
+Wed Apr 14 17:20:32 2021	Bot03 (BOT) spawned
+Wed Apr 14 17:20:33 2021	Bot05 was killed by Himself with a suicide trick
+Wed Apr 14 17:20:34 2021	Bot05 (BOT) spawned
+Wed Apr 14 17:20:35 2021	Trainee Willhelm was killed by Major Peter Steiner with a unknown
+Wed Apr 14 17:20:37 2021	Trainee Willhelm (STEAM_0:1:217228381) spawned
+Wed Apr 14 17:20:38 2021	Bot01 was killed by Major Peter Steiner with a unknown
+Wed Apr 14 17:20:39 2021	Bot01 (BOT) spawned
+Wed Apr 14 17:20:45 2021	Trainee Willhelm (STEAM_0:1:217228381) spawned
+Wed Apr 14 17:20:46 2021	Bot03 was killed by Major Peter Steiner with a unknown
+Wed Apr 14 17:20:47 2021	Bot03 (BOT) spawned
+Wed Apr 14 17:20:51 2021	Bot01 was killed by Himself with a suicide trick
+Wed Apr 14 17:20:52 2021	Bot01 (BOT) spawned
+Wed Apr 14 17:20:53 2021	Bot05 was killed by Major Peter Steiner with a unknown
+Wed Apr 14 17:20:53 2021	Bot03 was killed by Major Peter Steiner with a unknown
+Wed Apr 14 17:20:54 2021	Bot05 (BOT) spawned
+Wed Apr 14 17:20:54 2021	Bot03 (BOT) spawned
+Wed Apr 14 17:20:57 2021	Bot01 was killed by Himself with a suicide trick
+Wed Apr 14 17:20:58 2021	Bot01 (BOT) spawned
+Wed Apr 14 17:21:00 2021	Bot05 was killed by Himself with a suicide trick
+Wed Apr 14 17:21:02 2021	Bot05 (BOT) spawned
+Wed Apr 14 17:21:04 2021	Bot01 was killed by Major Peter Steiner with a unknown
+Wed Apr 14 17:21:05 2021	Bot01 (BOT) spawned
+Wed Apr 14 17:21:05 2021	Trainee Willhelm (STEAM_0:1:217228381): are you seeing errors?
+Wed Apr 14 17:21:06 2021	Bot05 was killed by Major Peter Steiner with a unknown
+Wed Apr 14 17:21:07 2021	Bot05 (BOT) spawned
+Wed Apr 14 17:21:09 2021	Bot03 was killed by Himself with a suicide trick
+Wed Apr 14 17:21:10 2021	Bot03 (BOT) spawned
+Wed Apr 14 17:21:12 2021	Bot01 was killed by Himself with a suicide trick
+Wed Apr 14 17:21:13 2021	Bot01 (BOT) spawned
+Wed Apr 14 17:21:13 2021	Bot05 was killed by Himself with a suicide trick
+Wed Apr 14 17:21:14 2021	Bot05 (BOT) spawned
+Wed Apr 14 17:21:18 2021	Bot01 was killed by Major Peter Steiner with a unknown
+Wed Apr 14 17:21:19 2021	Trainee Willhelm (STEAM_0:1:217228381): shoulf've fixed themslves
+Wed Apr 14 17:21:19 2021	Bot01 (BOT) spawned
+Wed Apr 14 17:21:21 2021	Bot05 was killed by Himself with a suicide trick
+Wed Apr 14 17:21:22 2021	Bot05 (BOT) spawned
+Wed Apr 14 17:21:24 2021	Bot03 was killed by Himself with a suicide trick
+Wed Apr 14 17:21:25 2021	Bot03 (BOT) spawned
+Wed Apr 14 17:21:28 2021	Bot01 was killed by Major Peter Steiner with a unknown
+Wed Apr 14 17:21:29 2021	Bot01 (BOT) spawned
+Wed Apr 14 17:21:29 2021	Trainee Willhelm (STEAM_0:1:217228381): 
+Wed Apr 14 17:21:30 2021	Bot03 was killed by Major Peter Steiner with a unknown
+Wed Apr 14 17:21:31 2021	Bot03 (BOT) spawned
+Wed Apr 14 17:21:32 2021	Bot01 was killed by Major Peter Steiner with a unknown
+Wed Apr 14 17:21:33 2021	Bot01 (BOT) spawned
+Wed Apr 14 17:21:34 2021	Bot04 was killed by Major Peter Steiner with a unknown
+Wed Apr 14 17:21:35 2021	Bot04 (BOT) spawned
+Wed Apr 14 17:21:36 2021	Bot05 was killed by Himself with a suicide trick
+Wed Apr 14 17:21:36 2021	Bot06 was killed by Major Peter Steiner with a unknown
+Wed Apr 14 17:21:37 2021	Bot05 (BOT) spawned
+Wed Apr 14 17:21:37 2021	Bot06 (BOT) spawned
+Wed Apr 14 17:21:39 2021	Bot03 was killed by Himself with a suicide trick
+Wed Apr 14 17:21:40 2021	Bot03 (BOT) spawned
+Wed Apr 14 17:21:40 2021	Bot02 was killed by Major Peter Steiner with a unknown
+Wed Apr 14 17:21:40 2021	Bot01 was killed by Major Peter Steiner with a unknown
+Wed Apr 14 17:21:41 2021	Bot02 (BOT) spawned
+Wed Apr 14 17:21:41 2021	Bot01 (BOT) spawned
+Wed Apr 14 17:21:42 2021	Bot06 was killed by Major Peter Steiner with a unknown
+Wed Apr 14 17:21:42 2021	Bot05 was killed by Major Peter Steiner with a unknown
+Wed Apr 14 17:21:43 2021	Bot06 (BOT) spawned
+Wed Apr 14 17:21:43 2021	Bot05 (BOT) spawned
+Wed Apr 14 17:21:44 2021	Bot03 was killed by Major Peter Steiner with a unknown
+Wed Apr 14 17:21:45 2021	Bot03 (BOT) spawned
+Wed Apr 14 17:21:47 2021	Bot03 was killed by Himself with a suicide trick
+Wed Apr 14 17:21:47 2021	Bot05 was killed by Himself with a suicide trick
+Wed Apr 14 17:21:48 2021	Bot03 (BOT) spawned
+Wed Apr 14 17:21:48 2021	Bot05 (BOT) spawned
+Wed Apr 14 17:21:56 2021	Trainee Willhelm (STEAM_0:1:217228381) spawned SENT gred_emp_3inchmortar
+Wed Apr 14 17:22:00 2021	Bot02 was killed by Himself with a suicide trick
+Wed Apr 14 17:22:01 2021	Bot02 (BOT) spawned
+Wed Apr 14 17:22:01 2021	Bot04 was killed by Himself with a suicide trick
+Wed Apr 14 17:22:02 2021	Bot04 (BOT) spawned
+Wed Apr 14 17:22:02 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT gred_emp_mg15
+Wed Apr 14 17:22:06 2021	Bot04 was killed by Major Peter Steiner with a unknown
+Wed Apr 14 17:22:07 2021	Bot04 (BOT) spawned
+Wed Apr 14 17:22:07 2021	Bot01 was killed by Major Peter Steiner with a unknown
+Wed Apr 14 17:22:08 2021	Bot01 (BOT) spawned
+Wed Apr 14 17:22:09 2021	Bot02 was killed by Major Peter Steiner with a unknown
+Wed Apr 14 17:22:10 2021	Bot02 (BOT) spawned
+Wed Apr 14 17:22:17 2021	Bot01 was killed by Major Peter Steiner with a unknown
+Wed Apr 14 17:22:17 2021	Bot02 was killed by Major Peter Steiner with a unknown
+Wed Apr 14 17:22:18 2021	Bot01 (BOT) spawned
+Wed Apr 14 17:22:18 2021	Bot02 (BOT) spawned
+Wed Apr 14 17:22:23 2021	Bot06 was killed by Major Peter Steiner with a unknown
+Wed Apr 14 17:22:24 2021	Bot06 (BOT) spawned
+Wed Apr 14 17:22:36 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT gred_emp_flak37
+Wed Apr 14 17:22:41 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT gred_emp_grw34
+Wed Apr 14 17:22:44 2021	Bot06 was killed by Himself with a suicide trick
+Wed Apr 14 17:22:45 2021	Bot04 was killed by Himself with a suicide trick
+Wed Apr 14 17:22:45 2021	Bot06 (BOT) spawned
+Wed Apr 14 17:22:46 2021	Bot04 (BOT) spawned
+Wed Apr 14 17:22:47 2021	Bot03 was killed by Himself with a suicide trick
+Wed Apr 14 17:22:48 2021	Bot03 (BOT) spawned
+Wed Apr 14 17:22:49 2021	Bot06 was killed by Himself with a suicide trick
+Wed Apr 14 17:22:49 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT gred_emp_grw34
+Wed Apr 14 17:22:50 2021	Bot06 (BOT) spawned
+Wed Apr 14 17:23:00 2021	Bot06 was killed by Himself with a suicide trick
+Wed Apr 14 17:23:01 2021	Bot06 (BOT) spawned
+Wed Apr 14 17:23:04 2021	Bot04 was killed by Himself with a suicide trick
+Wed Apr 14 17:23:05 2021	Bot04 (BOT) spawned
+Wed Apr 14 17:23:13 2021	Bot06 was killed by Himself with a suicide trick
+Wed Apr 14 17:23:14 2021	Bot06 (BOT) spawned
+Wed Apr 14 17:23:15 2021	Bot04 was killed by Himself with a suicide trick
+Wed Apr 14 17:23:16 2021	Bot04 (BOT) spawned
+Wed Apr 14 17:23:20 2021	Bot03 was killed by Himself with a suicide trick
+Wed Apr 14 17:23:21 2021	Bot03 (BOT) spawned
+Wed Apr 14 17:23:22 2021	Bot04 was killed by Himself with a suicide trick
+Wed Apr 14 17:23:23 2021	Bot04 (BOT) spawned
+Wed Apr 14 17:23:23 2021	Bot06 was killed by Himself with a suicide trick
+Wed Apr 14 17:23:24 2021	Bot06 (BOT) spawned
+Wed Apr 14 17:23:30 2021	Bot03 was killed by Trainee Willhelm with a base_shell
+Wed Apr 14 17:23:30 2021	Bot01 was killed by Himself with a suicide trick
+Wed Apr 14 17:23:31 2021	Bot03 (BOT) spawned
+Wed Apr 14 17:23:32 2021	Bot01 (BOT) spawned
+Wed Apr 14 17:23:33 2021	Bot01 was killed by Himself with a suicide trick
+Wed Apr 14 17:23:34 2021	Bot01 (BOT) spawned
+Wed Apr 14 17:23:34 2021	Bot04 was killed by Himself with a suicide trick
+Wed Apr 14 17:23:35 2021	Bot04 (BOT) spawned
+Wed Apr 14 17:23:36 2021	Bot06 was killed by Himself with a suicide trick
+Wed Apr 14 17:23:37 2021	Bot06 (BOT) spawned
+Wed Apr 14 17:23:47 2021	Trainee Willhelm (STEAM_0:1:217228381): gosh darn medkits
+Wed Apr 14 17:23:55 2021	Bot05 was killed by Entity [539][base_gas] with a unknown
+Wed Apr 14 17:23:55 2021	Bot01 was killed by Entity [539][base_gas] with a unknown
+Wed Apr 14 17:23:55 2021	Bot03 was killed by Entity [539][base_gas] with a unknown
+Wed Apr 14 17:23:56 2021	Bot05 (BOT) spawned
+Wed Apr 14 17:23:56 2021	Bot01 (BOT) spawned
+Wed Apr 14 17:23:56 2021	Bot03 (BOT) spawned
+Wed Apr 14 17:23:57 2021	Bot04 was killed by Himself with a suicide trick
+Wed Apr 14 17:23:57 2021	Bot01 was killed by Himself with a suicide trick
+Wed Apr 14 17:23:58 2021	Bot04 (BOT) spawned
+Wed Apr 14 17:23:58 2021	Bot01 (BOT) spawned
+Wed Apr 14 17:23:59 2021	Bot01 was killed by Entity [539][base_gas] with a unknown
+Wed Apr 14 17:23:59 2021	Bot05 was killed by Entity [729][base_gas] with a unknown
+Wed Apr 14 17:24:00 2021	Bot01 (BOT) spawned
+Wed Apr 14 17:24:00 2021	Bot03 was killed by Entity [283][base_gas] with a unknown
+Wed Apr 14 17:24:00 2021	Bot05 (BOT) spawned
+Wed Apr 14 17:24:01 2021	Bot03 (BOT) spawned
+Wed Apr 14 17:24:03 2021	Bot06 was killed by Entity [729][base_gas] with a unknown
+Wed Apr 14 17:24:04 2021	Bot03 was killed by Entity [283][base_gas] with a unknown
+Wed Apr 14 17:24:04 2021	Bot06 (BOT) spawned
+Wed Apr 14 17:24:05 2021	Bot05 was killed by Entity [729][base_gas] with a unknown
+Wed Apr 14 17:24:05 2021	Bot03 (BOT) spawned
+Wed Apr 14 17:24:06 2021	Bot05 (BOT) spawned
+Wed Apr 14 17:24:07 2021	Bot06 was killed by Entity [758][base_gas] with a unknown
+Wed Apr 14 17:24:08 2021	Bot03 was killed by Entity [729][base_gas] with a unknown
+Wed Apr 14 17:24:08 2021	Bot06 (BOT) spawned
+Wed Apr 14 17:24:09 2021	Bot05 was killed by Entity [758][base_gas] with a unknown
+Wed Apr 14 17:24:09 2021	Bot03 (BOT) spawned
+Wed Apr 14 17:24:10 2021	Bot05 (BOT) spawned
+Wed Apr 14 17:24:11 2021	Bot06 was killed by Entity [240][base_gas] with a unknown
+Wed Apr 14 17:24:12 2021	Trainee Willhelm (STEAM_0:1:217228381): fas2_ifak
+Wed Apr 14 17:24:12 2021	Bot06 (BOT) spawned
+Wed Apr 14 17:24:13 2021	Bot05 was killed by Entity [283][base_gas] with a unknown
+Wed Apr 14 17:24:14 2021	Bot05 (BOT) spawned
+Wed Apr 14 17:24:16 2021	Bot06 was killed by Entity [240][base_gas] with a unknown
+Wed Apr 14 17:24:17 2021	Bot06 (BOT) spawned
+Wed Apr 14 17:24:31 2021	Bot01 was killed by Entity [520][gb_bomb_sc250] with a gb_bomb_sc250
+Wed Apr 14 17:24:32 2021	Bot01 (BOT) spawned
+Wed Apr 14 17:25:17 2021	Bot04 was killed by Entity [850][gb_bomb_sc100] with a gb_bomb_sc100
+Wed Apr 14 17:25:18 2021	Bot04 (BOT) spawned
+Wed Apr 14 17:25:50 2021	Bot03 was killed by Himself with a suicide trick
+Wed Apr 14 17:25:51 2021	Bot03 (BOT) spawned
+Wed Apr 14 17:25:52 2021	Bot04 was killed by Himself with a suicide trick
+Wed Apr 14 17:25:53 2021	Bot04 (BOT) spawned
+Wed Apr 14 17:26:09 2021	Bot06 was killed by Himself with a suicide trick
+Wed Apr 14 17:26:10 2021	Bot06 (BOT) spawned
+Wed Apr 14 17:26:19 2021	Trainee Willhelm was killed by Himself with a suicide trick
+Wed Apr 14 17:26:20 2021	Trainee Willhelm (STEAM_0:1:217228381) spawned
+Wed Apr 14 17:26:31 2021	Major Peter Steiner was killed by Himself with a suicide trick
+Wed Apr 14 17:26:33 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 17:27:58 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 17:31:11 2021	Major Peter Steiner (STEAM_0:1:55197996): /ooc brb gonna have a shower qukcly
+Wed Apr 14 17:31:15 2021	Major Peter Steiner (STEAM_0:1:55197996): 
+Wed Apr 14 17:31:19 2021	Trainee Willhelm (STEAM_0:1:217228381): all good
+Wed Apr 14 17:31:29 2021	Major Peter Steiner (STEAM_0:1:55197996): should make a afk area
+Wed Apr 14 17:31:32 2021	Major Peter Steiner (STEAM_0:1:55197996): /afk
+Wed Apr 14 17:31:36 2021	Trainee Willhelm (STEAM_0:1:217228381): ehhh
+Wed Apr 14 17:31:41 2021	Trainee Willhelm (STEAM_0:1:217228381): just lay down somewher
+Wed Apr 14 17:31:49 2021	Bot01 (BOT) disconnected
+Wed Apr 14 17:31:53 2021	Bot02 (BOT) disconnected
+Wed Apr 14 17:31:55 2021	Bot03 (BOT) disconnected
+Wed Apr 14 17:31:58 2021	Bot04 (BOT) disconnected
+Wed Apr 14 17:37:01 2021	Trainee Willhelm (STEAM_0:1:217228381): restat
+Wed Apr 14 17:37:03 2021	Trainee Willhelm (STEAM_0:1:217228381): restart
+Wed Apr 14 17:45:58 2021	Trainee Willhelm (STEAM_0:1:217228381): Do you get a noti
+Wed Apr 14 17:46:01 2021	Trainee Willhelm (STEAM_0:1:217228381): freeze me
+Wed Apr 14 17:46:04 2021	Major Peter Steiner (STEAM_0:1:55197996): im half naked here all i can hgear is that lol
+Wed Apr 14 17:46:07 2021	Trainee Willhelm (STEAM_0:1:217228381): LMFAOAOOOOo
+Wed Apr 14 17:46:12 2021	Trainee Willhelm (STEAM_0:1:217228381): freeze me
+Wed Apr 14 17:46:16 2021	Trainee Willhelm (STEAM_0:1:217228381): take yo stick out 
+Wed Apr 14 17:46:33 2021	Trainee Willhelm (STEAM_0:1:217228381): freeze me
+Wed Apr 14 17:46:43 2021	Trainee Willhelm (STEAM_0:1:217228381): Oh wonderful
+Wed Apr 14 17:46:48 2021	Trainee Willhelm (STEAM_0:1:217228381): Epic notifications
+Wed Apr 14 17:46:50 2021	Trainee Willhelm (STEAM_0:1:217228381): 
+Wed Apr 14 17:46:55 2021	Trainee Willhelm (STEAM_0:1:217228381): 
+Wed Apr 14 17:46:57 2021	Trainee Willhelm (STEAM_0:1:217228381): 
+Wed Apr 14 17:47:03 2021	Trainee Willhelm (STEAM_0:1:217228381): so the tables have turned!
+Wed Apr 14 17:47:12 2021	Major Peter Steiner (STEAM_0:1:55197996): 
+Wed Apr 14 17:47:35 2021	Major Peter Steiner (STEAM_0:1:55197996): right brb cos i got my other stick hanging out 
+Wed Apr 14 17:54:37 2021	Trainee Willhelm (STEAM_0:1:217228381): nuts
+Wed Apr 14 17:54:39 2021	Trainee Willhelm (STEAM_0:1:217228381): 
+Wed Apr 14 17:55:52 2021	Major Peter Steiner (STEAM_0:1:55197996): /demote will lol
+Wed Apr 14 17:55:54 2021	Trainee Willhelm (STEAM_0:1:217228381): STEAM_0:1:55197996
+Wed Apr 14 17:56:02 2021	Trainee Willhelm (STEAM_0:1:217228381): You cant do that
+Wed Apr 14 17:56:03 2021	Trainee Willhelm (STEAM_0:1:217228381): Im in the SS
+Wed Apr 14 17:56:15 2021	Trainee Willhelm (STEAM_0:1:217228381): /forcerpname Will Sturmbannfuhrer Willhelm von Duseldorf
+Wed Apr 14 17:56:15 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) set Jefff's name to Sturmbannfuhrer Willhelm von Duseldorf
+Wed Apr 14 17:56:17 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): We're the same rank!
+Wed Apr 14 17:56:28 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): /me becomes hitler.
+Wed Apr 14 17:56:50 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): gonna make it harder to escape
+Wed Apr 14 17:57:27 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): cuff ff me
+Wed Apr 14 17:57:37 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): cuff me
+Wed Apr 14 17:57:45 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): ok
+Wed Apr 14 17:57:46 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): ty
+Wed Apr 14 17:57:48 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): jsut keep me like this
+Wed Apr 14 17:58:01 2021	Major Peter Steiner (STEAM_0:1:55197996): /me salutes
+Wed Apr 14 17:58:03 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): /me Salutes
+Wed Apr 14 17:58:21 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): recuff me
+Wed Apr 14 17:58:40 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): ok
+Wed Apr 14 17:58:45 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): release me
+Wed Apr 14 17:58:57 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 17:59:00 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): again
+Wed Apr 14 17:59:05 2021	Sturmbannfuhrer Willhelm von Duseldorf was killed by Himself with a suicide trick
+Wed Apr 14 17:59:06 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Wed Apr 14 17:59:19 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): release
+Wed Apr 14 17:59:28 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): cuff
+Wed Apr 14 17:59:52 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 17:59:54 2021	Sturmbannfuhrer Willhelm von Duseldorf was killed by Himself with a suicide trick
+Wed Apr 14 17:59:55 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Wed Apr 14 18:00:07 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): OOOOH
+Wed Apr 14 18:00:36 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 18:00:37 2021	Sturmbannfuhrer Willhelm von Duseldorf was killed by Himself with a suicide trick
+Wed Apr 14 18:00:39 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Wed Apr 14 18:00:46 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): i wanna make it really hard to escape
+Wed Apr 14 18:00:49 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): but possible
+Wed Apr 14 18:00:51 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): again!
+Wed Apr 14 18:01:06 2021	Major Peter Steiner was killed by Himself with a suicide trick
+Wed Apr 14 18:01:12 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 18:01:28 2021	Major Peter Steiner was killed by Himself with a suicide trick
+Wed Apr 14 18:01:29 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 18:01:30 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): great
+Wed Apr 14 18:01:33 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): ok cuff me
+Wed Apr 14 18:01:34 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): ;)
+Wed Apr 14 18:01:55 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): to eas
+Wed Apr 14 18:02:05 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): cuff pls
+Wed Apr 14 18:02:18 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): not happening
+Wed Apr 14 18:02:26 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): 
+Wed Apr 14 18:02:27 2021	Sturmbannfuhrer Willhelm von Duseldorf was killed by Himself with a suicide trick
+Wed Apr 14 18:02:28 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381) spawned
+Wed Apr 14 18:02:36 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): you're promoted
+Wed Apr 14 18:02:43 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): just kidding
+Wed Apr 14 18:02:47 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): you're demoted to soldat
+Wed Apr 14 18:03:15 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): ok thats pretty hard
+Wed Apr 14 18:03:21 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): ok ill just make it impossibel
+Wed Apr 14 18:03:22 2021	Major Peter Steiner (STEAM_0:1:55197996): /me salutes
+Wed Apr 14 18:03:23 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): acc nah
+Wed Apr 14 18:03:26 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): thats good enough
+Wed Apr 14 18:03:39 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): gonna make a hitler job
+Wed Apr 14 18:03:40 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): anyway
+Wed Apr 14 18:03:42 2021	Sturmbannfuhrer Willhelm von Duseldorf (STEAM_0:1:217228381): restart time

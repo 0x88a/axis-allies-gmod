@@ -1,0 +1,4 @@
+Wed Apr 14 16:14:26 2021	Trainee Willhelm (STEAM_0:1:217228381): /dropmoney 10
+Wed Apr 14 16:14:29 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT gred_emp_nebelwerfer
+Wed Apr 14 16:14:49 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT gred_emp_2a65
+Wed Apr 14 16:15:02 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT gred_emp_flak38

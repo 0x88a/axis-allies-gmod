@@ -1,0 +1,12 @@
+"AddonInfo"
+{
+	"name"			"bodyGroupr"
+	"version"		"1.1.1"
+	"up_date"		"15/05/2014"
+	"author_name"		"Arizard"
+	"author_email"		"arieoldman@gmail.com"
+	"author_url"		""
+	"info"			""
+	"override"		"0"
+}
+

@@ -1,0 +1,10 @@
+Sun Apr 18 11:28:49 2021	Jefff (STEAM_0:1:217228381) has joined the game
+Sun Apr 18 11:28:49 2021	Captain John Birch (STEAM_0:1:217228381) spawned
+Sun Apr 18 11:31:17 2021	Captain John Birch (STEAM_0:1:217228381): models/weapons/v_pzb39.mdl
+Sun Apr 18 11:31:42 2021	Captain John Birch (STEAM_0:1:217228381): 
+Sun Apr 18 11:31:54 2021	Captain John Birch (STEAM_0:1:217228381): 
+Sun Apr 18 11:31:58 2021	Captain John Birch (STEAM_0:1:217228381): 
+Sun Apr 18 11:32:03 2021	Captain John Birch (STEAM_0:1:217228381): 
+Sun Apr 18 11:32:07 2021	Captain John Birch (STEAM_0:1:217228381): 
+Sun Apr 18 11:32:11 2021	Captain John Birch (STEAM_0:1:217228381): 
+Sun Apr 18 11:32:18 2021	Captain John Birch (STEAM_0:1:217228381): 

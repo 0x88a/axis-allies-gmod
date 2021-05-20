@@ -1,0 +1,32 @@
+Wed Apr 14 17:02:07 2021	Jefff (STEAM_0:1:217228381) has joined the game
+Wed Apr 14 17:02:07 2021	Trainee Willhelm (STEAM_0:1:217228381) spawned
+Wed Apr 14 17:02:55 2021	Ronan (STEAM_0:1:55197996) has joined the game
+Wed Apr 14 17:02:55 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 17:03:17 2021	Trainee Willhelm (STEAM_0:1:217228381): // im gonna shoot myself
+Wed Apr 14 17:03:26 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 17:03:28 2021	Trainee Willhelm (STEAM_0:1:217228381): // fuck this fucking medkit
+Wed Apr 14 17:03:31 2021	Trainee Willhelm (STEAM_0:1:217228381): // im getting another one
+Wed Apr 14 17:03:33 2021	Major Peter Steiner (STEAM_0:1:55197996): 
+Wed Apr 14 17:04:20 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 17:05:18 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT gb_bomb_cbu
+Wed Apr 14 17:05:29 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT gb_rocket_nebel
+Wed Apr 14 17:05:33 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT gb_rocket_nebel
+Wed Apr 14 17:05:39 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT gred_emp_vickers
+Wed Apr 14 17:05:40 2021	Trainee Willhelm (STEAM_0:1:217228381): i have found another medkit
+Wed Apr 14 17:05:44 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 17:05:53 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT gred_emp_vickers
+Wed Apr 14 17:06:13 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT gred_emp_mg81z
+Wed Apr 14 17:06:38 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT gred_emp_pak40
+Wed Apr 14 17:07:14 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT gred_emp_pak40
+Wed Apr 14 17:08:19 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT gred_emp_pak40
+Wed Apr 14 17:08:39 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT gred_emp_bofors
+Wed Apr 14 17:09:12 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT gred_emp_m1mortar
+Wed Apr 14 17:09:39 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT gred_emp_grw34
+Wed Apr 14 17:10:11 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT gred_emp_zsu23
+Wed Apr 14 17:10:32 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT gred_emp_mg34
+Wed Apr 14 17:11:07 2021	Major Peter Steiner (STEAM_0:1:55197996): 
+Wed Apr 14 17:11:16 2021	Trainee Willhelm (STEAM_0:1:217228381): new medkit
+Wed Apr 14 17:11:16 2021	Trainee Willhelm (STEAM_0:1:217228381): :)
+Wed Apr 14 17:11:20 2021	Trainee Willhelm (STEAM_0:1:217228381): well not yet
+Wed Apr 14 17:11:21 2021	Trainee Willhelm (STEAM_0:1:217228381): but soon t,
+Wed Apr 14 17:11:35 2021	Trainee Willhelm (STEAM_0:1:217228381): im gonna commit war crimes and genocide if it doesn't work

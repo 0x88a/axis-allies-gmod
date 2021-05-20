@@ -1,0 +1,22 @@
+Sun Apr 11 02:25:10 2021	Jefff (STEAM_0:1:217228381) has joined the game
+Sun Apr 11 02:25:10 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 02:26:47 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 02:27:15 2021	Jefff was killed by Himself with a suicide trick
+Sun Apr 11 02:27:16 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 02:28:06 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 02:28:24 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 02:28:27 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 02:28:29 2021	Jefff (STEAM_0:1:217228381): /balance
+Sun Apr 11 02:29:21 2021	Jefff was killed by Himself with a suicide trick
+Sun Apr 11 02:29:27 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 02:29:36 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 02:30:11 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 02:31:18 2021	Jefff was killed by Himself with a suicide trick
+Sun Apr 11 02:31:19 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 02:32:53 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 02:35:47 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 02:35:48 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 02:40:19 2021	Jefff (STEAM_0:1:217228381): /g test
+Sun Apr 11 02:40:21 2021	Jefff (STEAM_0:1:217228381): /balance
+Sun Apr 11 02:40:42 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 02:40:45 2021	Jefff (STEAM_0:1:217228381): 

@@ -1,0 +1,8 @@
+Thu Apr 15 00:27:56 2021	Jefff (STEAM_0:1:217228381) has joined the game
+Thu Apr 15 00:27:56 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) spawned
+Thu Apr 15 00:29:36 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Thu Apr 15 00:31:04 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) spawned
+Thu Apr 15 00:31:22 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) spawned
+Thu Apr 15 00:31:27 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): /setspawn axis_ss_engineer
+Thu Apr 15 00:31:35 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): /setspawn axis_ss_panzerjager
+Thu Apr 15 00:38:18 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)

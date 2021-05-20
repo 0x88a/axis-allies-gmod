@@ -1,0 +1,1 @@
+{"Primary | ClipSize":9.0,"Damage":20.0,"FireDelay":0.145,"Primary | DefaultClip":9.0}

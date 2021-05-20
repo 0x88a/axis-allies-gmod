@@ -1,0 +1,45 @@
+Sun Apr 11 19:48:53 2021	Jefff (STEAM_0:1:217228381) has joined the game
+Sun Apr 11 19:48:53 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 19:49:44 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 19:49:55 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 19:50:09 2021	Jefff (STEAM_0:1:217228381): /setspawn allies_rec
+Sun Apr 11 19:50:23 2021	Jefff was killed by Entity [263][trigger_hurt] with a trigger_hurt
+Sun Apr 11 19:50:25 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 19:50:46 2021	Jefff was killed by Entity [263][trigger_hurt] with a trigger_hurt
+Sun Apr 11 19:50:48 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 19:50:50 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 19:51:37 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 19:51:41 2021	Jefff was killed by Entity [264][trigger_hurt] with a trigger_hurt
+Sun Apr 11 19:51:42 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 19:51:48 2021	Jefff was killed by Entity [264][trigger_hurt] with a trigger_hurt
+Sun Apr 11 19:51:50 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 19:52:05 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 19:52:20 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 19:52:24 2021	Jefff was killed by Entity [264][trigger_hurt] with a trigger_hurt
+Sun Apr 11 19:52:27 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 19:52:31 2021	Jefff was killed by Entity [264][trigger_hurt] with a trigger_hurt
+Sun Apr 11 19:52:32 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 19:52:37 2021	Jefff was killed by Entity [264][trigger_hurt] with a trigger_hurt
+Sun Apr 11 19:52:38 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 19:52:50 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 19:53:00 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 19:53:10 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 19:53:10 2021	Jefff was killed by Entity [264][trigger_hurt] with a trigger_hurt
+Sun Apr 11 19:53:11 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 19:53:11 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 19:53:15 2021	Jefff was killed by Entity [264][trigger_hurt] with a trigger_hurt
+Sun Apr 11 19:53:19 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 19:53:20 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 19:53:22 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 19:53:23 2021	Jefff was killed by Entity [264][trigger_hurt] with a trigger_hurt
+Sun Apr 11 19:53:23 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 19:53:24 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 19:53:27 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 19:53:27 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 19:53:56 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 19:54:08 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 19:54:24 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 19:54:28 2021	Jefff was killed by Entity [264][trigger_hurt] with a trigger_hurt
+Sun Apr 11 19:54:38 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 19:55:23 2021	Jefff was killed by Entity [264][trigger_hurt] with a trigger_hurt
+Sun Apr 11 19:55:34 2021	Jefff (STEAM_0:1:217228381) spawned

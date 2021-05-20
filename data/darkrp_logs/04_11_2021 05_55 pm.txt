@@ -1,0 +1,416 @@
+Sun Apr 11 17:55:33 2021	Jefff (STEAM_0:1:217228381) has joined the game
+Sun Apr 11 17:55:33 2021	Colonel John Birch (STEAM_0:1:217228381) spawned
+Sun Apr 11 17:57:15 2021	Colonel John Birch (STEAM_0:1:217228381) spawned
+Sun Apr 11 18:07:00 2021	Tronik (STEAM_0:1:104899979) has joined the game
+Sun Apr 11 18:07:00 2021	PVT Ehrenfried Stieglitz (STEAM_0:1:104899979) spawned
+Sun Apr 11 18:07:44 2021	PVT Ehrenfried Stieglitz (STEAM_0:1:104899979) spawned
+Sun Apr 11 18:08:04 2021	PVT Ehrenfried Stieglitz (STEAM_0:1:104899979): 
+Sun Apr 11 18:08:04 2021	PVT Ehrenfried Stieglitz (STEAM_0:1:104899979): 
+Sun Apr 11 18:08:13 2021	PVT Ehrenfried Stieglitz (STEAM_0:1:104899979): 
+Sun Apr 11 18:11:01 2021	Colonel John Birch (STEAM_0:1:217228381): Unterscharfuhrer Name
+Sun Apr 11 18:11:34 2021	Colonel John Birch (STEAM_0:1:217228381): !has
+Sun Apr 11 18:11:35 2021	Colonel John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 18:12:18 2021	PVT Ehrenfried Stieglitz (STEAM_0:1:104899979): /name Unterscharführer Erwin Stieglitz
+Sun Apr 11 18:12:22 2021	PVT Ehrenfried Stieglitz (STEAM_0:1:104899979): 
+Sun Apr 11 18:12:24 2021	PVT Ehrenfried Stieglitz (STEAM_0:1:104899979): 
+Sun Apr 11 18:12:38 2021	PVT Ehrenfried Stieglitz (STEAM_0:1:104899979): hi
+Sun Apr 11 18:12:53 2021	Colonel John Birch (STEAM_0:1:217228381): /frocerpname PVT Unterscharfuhrer Ehrenfried Stieglitz
+Sun Apr 11 18:12:57 2021	Colonel John Birch (STEAM_0:1:217228381): /forcerpname PVT Unterscharfuhrer Ehrenfried Stieglitz
+Sun Apr 11 18:12:57 2021	Colonel John Birch (STEAM_0:1:217228381) set Tronik's name to Unterscharfuhrer Ehrenfried Stieglitz
+Sun Apr 11 18:14:14 2021	Colonel John Birch (STEAM_0:1:217228381) spawned
+Sun Apr 11 18:14:45 2021	Unterscharfuhrer Ehrenfried Stieglitz (STEAM_0:1:104899979) spawned
+Sun Apr 11 18:15:55 2021	Colonel John Birch (STEAM_0:1:217228381) spawned SENT bodyman_closet
+Sun Apr 11 18:15:57 2021	Colonel John Birch (STEAM_0:1:217228381) spawned SENT bodyman_closet
+Sun Apr 11 18:16:25 2021	Colonel John Birch (STEAM_0:1:217228381): ,/balance
+Sun Apr 11 18:16:31 2021	Colonel John Birch (STEAM_0:1:217228381): /balance
+Sun Apr 11 18:17:03 2021	Colonel John Birch was killed by Unterscharfuhrer Ehrenfried Stieglitz with a doi_atow_mp40
+Sun Apr 11 18:17:06 2021	Colonel John Birch (STEAM_0:1:217228381) spawned
+Sun Apr 11 18:17:36 2021	Colonel John Birch was killed by Unterscharfuhrer Ehrenfried Stieglitz with a doi_atow_k98k
+Sun Apr 11 18:17:43 2021	Colonel John Birch (STEAM_0:1:217228381) spawned
+Sun Apr 11 18:18:42 2021	Unterscharfuhrer Ehrenfried Stieglitz (STEAM_0:1:104899979): 
+Sun Apr 11 18:20:42 2021	Colonel John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 18:20:44 2021	Colonel John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 18:20:54 2021	Unterscharfuhrer Ehrenfried Stieglitz was killed by Colonel John Birch with a doi_atow_m1garand
+Sun Apr 11 18:20:56 2021	Unterscharfuhrer Ehrenfried Stieglitz (STEAM_0:1:104899979) spawned
+Sun Apr 11 18:21:38 2021	Unterscharfuhrer Ehrenfried Stieglitz was killed by Colonel John Birch with a doi_atow_k98k
+Sun Apr 11 18:21:40 2021	Unterscharfuhrer Ehrenfried Stieglitz (STEAM_0:1:104899979) spawned
+Sun Apr 11 18:23:53 2021	Unterscharfuhrer Ehrenfried Stieglitz (STEAM_0:1:104899979): 
+Sun Apr 11 18:24:00 2021	Unterscharfuhrer Ehrenfried Stieglitz (STEAM_0:1:104899979): 
+Sun Apr 11 18:27:17 2021	Unterscharfuhrer Ehrenfried Stieglitz was killed by Colonel John Birch with a doi_atow_m1919a6
+Sun Apr 11 18:27:19 2021	Unterscharfuhrer Ehrenfried Stieglitz (STEAM_0:1:104899979) spawned
+Sun Apr 11 18:27:23 2021	Colonel John Birch was killed by Unterscharfuhrer Ehrenfried Stieglitz with a doi_atow_k98k
+Sun Apr 11 18:27:24 2021	Colonel John Birch (STEAM_0:1:217228381) spawned
+Sun Apr 11 18:27:34 2021	Colonel John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 18:31:42 2021	Ganilha (STEAM_0:1:80404459) has joined the game
+Sun Apr 11 18:31:42 2021	PVT Hans Ganilha (STEAM_0:1:80404459) spawned
+Sun Apr 11 18:31:48 2021	Unterscharfuhrer Ehrenfried Stieglitz (STEAM_0:1:104899979): 
+Sun Apr 11 18:31:51 2021	Unterscharfuhrer Ehrenfried Stieglitz (STEAM_0:1:104899979): e
+Sun Apr 11 18:32:31 2021	PVT Hans Ganilha (STEAM_0:1:80404459) disconnected
+Sun Apr 11 18:33:21 2021	Colonel John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 18:33:36 2021	Unterscharfuhrer Ehrenfried Stieglitz (STEAM_0:1:104899979): 
+Sun Apr 11 18:34:13 2021	Colonel John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 18:34:23 2021	Colonel John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 18:34:29 2021	Colonel John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 18:34:50 2021	Colonel John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 18:35:03 2021	Papa Stalin (STEAM_0:1:158574360) has joined the game
+Sun Apr 11 18:35:03 2021	Papa Stalin (STEAM_0:1:158574360) spawned
+Sun Apr 11 18:36:32 2021	Colonel John Birch (STEAM_0:1:217228381): do !content
+Sun Apr 11 18:37:04 2021	Ganilha (STEAM_0:1:80404459) has joined the game
+Sun Apr 11 18:37:04 2021	PVT Hans Ganilha (STEAM_0:1:80404459) spawned
+Sun Apr 11 18:38:05 2021	PVT Hans Ganilha (STEAM_0:1:80404459) spawned
+Sun Apr 11 18:38:11 2021	Colonel John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 18:38:34 2021	Unterscharfuhrer Ehrenfried Stieglitz was killed by PVT Hans Ganilha with a doi_atow_k98k
+Sun Apr 11 18:38:38 2021	Colonel John Birch was killed by Himself with a suicide trick
+Sun Apr 11 18:38:39 2021	Colonel John Birch (STEAM_0:1:217228381) spawned
+Sun Apr 11 18:38:54 2021	Unterscharfuhrer Ehrenfried Stieglitz (STEAM_0:1:104899979) spawned
+Sun Apr 11 18:39:00 2021	Papa Stalin was killed by Colonel John Birch with a doi_atow_bayonetus
+Sun Apr 11 18:39:05 2021	Unterscharfuhrer Ehrenfried Stieglitz was killed by PVT Hans Ganilha with a doi_atow_k98k
+Sun Apr 11 18:39:05 2021	Papa Stalin (STEAM_0:1:158574360) spawned
+Sun Apr 11 18:39:06 2021	Unterscharfuhrer Ehrenfried Stieglitz (STEAM_0:1:104899979) spawned
+Sun Apr 11 18:39:07 2021	Papa Stalin (STEAM_0:1:158574360) spawned
+Sun Apr 11 18:39:07 2021	Colonel John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 18:39:09 2021	Colonel John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 18:39:23 2021	Colonel John Birch (STEAM_0:1:217228381): do !discord
+Sun Apr 11 18:39:31 2021	Papa Stalin (STEAM_0:1:158574360): 
+Sun Apr 11 18:39:38 2021	Unterscharfuhrer Ehrenfried Stieglitz was killed by PVT Hans Ganilha with a weapon_fists
+Sun Apr 11 18:39:45 2021	Unterscharfuhrer Ehrenfried Stieglitz (STEAM_0:1:104899979): /name Unterscharfuhrer Wilhelm Barkhoff
+Sun Apr 11 18:39:45 2021	Papa Stalin (STEAM_0:1:158574360): /me salutes
+Sun Apr 11 18:39:46 2021	Unterscharfuhrer Ehrenfried Stieglitz (STEAM_0:1:104899979) spawned
+Sun Apr 11 18:39:56 2021	Colonel John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 18:40:14 2021	Colonel John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 18:40:28 2021	PVT Hans Ganilha was killed by Unterscharfuhrer Ehrenfried Stieglitz with a doi_atow_k98k
+Sun Apr 11 18:40:29 2021	PVT Hans Ganilha (STEAM_0:1:80404459) spawned
+Sun Apr 11 18:40:30 2021	Colonel John Birch (STEAM_0:1:217228381): !bwhitelist add
+Sun Apr 11 18:40:42 2021	Colonel John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 18:40:52 2021	PVT Hans Ganilha was killed by Unterscharfuhrer Ehrenfried Stieglitz with a doi_atow_mp40
+Sun Apr 11 18:40:54 2021	PVT Hans Ganilha (STEAM_0:1:80404459) spawned
+Sun Apr 11 18:40:59 2021	PVT Hans Ganilha was killed by Unterscharfuhrer Ehrenfried Stieglitz with a doi_atow_mp40
+Sun Apr 11 18:41:00 2021	PVT Hans Ganilha (STEAM_0:1:80404459) spawned
+Sun Apr 11 18:41:05 2021	Colonel John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 18:41:07 2021	PVT Hans Ganilha was killed by Unterscharfuhrer Ehrenfried Stieglitz with a doi_atow_mp40
+Sun Apr 11 18:41:08 2021	PVT Hans Ganilha (STEAM_0:1:80404459) spawned
+Sun Apr 11 18:41:17 2021	Unterscharfuhrer Ehrenfried Stieglitz was killed by PVT Hans Ganilha with a doi_atow_k98k
+Sun Apr 11 18:41:19 2021	Unterscharfuhrer Ehrenfried Stieglitz (STEAM_0:1:104899979) spawned
+Sun Apr 11 18:41:25 2021	Papa Stalin was killed by Colonel John Birch with a doi_atow_bayonetus
+Sun Apr 11 18:41:27 2021	Papa Stalin (STEAM_0:1:158574360) spawned
+Sun Apr 11 18:41:32 2021	PVT Hans Ganilha was killed by Unterscharfuhrer Ehrenfried Stieglitz with a doi_atow_mp40
+Sun Apr 11 18:41:33 2021	PVT Hans Ganilha (STEAM_0:1:80404459) spawned
+Sun Apr 11 18:41:37 2021	Colonel John Birch was killed by Unterscharfuhrer Ehrenfried Stieglitz with a doi_atow_mp40
+Sun Apr 11 18:41:38 2021	Colonel John Birch (STEAM_0:1:217228381) spawned
+Sun Apr 11 18:41:40 2021	PVT Hans Ganilha was killed by Unterscharfuhrer Ehrenfried Stieglitz with a doi_atow_mp40
+Sun Apr 11 18:41:41 2021	PVT Hans Ganilha (STEAM_0:1:80404459) spawned
+Sun Apr 11 18:41:45 2021	Unterscharfuhrer Ehrenfried Stieglitz was killed by Colonel John Birch with a cw_ak74
+Sun Apr 11 18:41:47 2021	PVT Hans Ganilha was killed by Colonel John Birch with a cw_ak74
+Sun Apr 11 18:41:48 2021	Unterscharfuhrer Ehrenfried Stieglitz (STEAM_0:1:104899979) spawned
+Sun Apr 11 18:41:48 2021	PVT Hans Ganilha (STEAM_0:1:80404459) spawned
+Sun Apr 11 18:41:56 2021	Unterscharfuhrer Ehrenfried Stieglitz was killed by PVT Hans Ganilha with a doi_atow_k98k
+Sun Apr 11 18:41:59 2021	Unterscharfuhrer Ehrenfried Stieglitz (STEAM_0:1:104899979) spawned
+Sun Apr 11 18:42:06 2021	Colonel John Birch (STEAM_0:1:217228381): schutze
+Sun Apr 11 18:42:23 2021	PVT Hans Ganilha (STEAM_0:1:80404459): /name schutze Hans Ganilha
+Sun Apr 11 18:42:27 2021	schutze Hans Ganilha was killed by Colonel John Birch with a doi_atow_bayonetus
+Sun Apr 11 18:42:29 2021	schutze Hans Ganilha (STEAM_0:1:80404459) spawned
+Sun Apr 11 18:42:35 2021	Unterscharfuhrer Ehrenfried Stieglitz was killed by schutze Hans Ganilha with a doi_atow_k98k
+Sun Apr 11 18:42:39 2021	Unterscharfuhrer Ehrenfried Stieglitz (STEAM_0:1:104899979) spawned
+Sun Apr 11 18:43:18 2021	Colonel John Birch (STEAM_0:1:217228381): /forcerpname Hans Schutze Hans Ganilha
+Sun Apr 11 18:43:18 2021	Colonel John Birch (STEAM_0:1:217228381) set Ganilha's name to Schutze Hans Ganilha
+Sun Apr 11 18:43:19 2021	Odin Dia (STEAM_0:0:196849441) has joined the game
+Sun Apr 11 18:43:19 2021	Odin Dia (STEAM_0:0:196849441) spawned
+Sun Apr 11 18:43:46 2021	Unterscharfuhrer Ehrenfried Stieglitz was killed by Schutze Hans Ganilha with a weapon_fists
+Sun Apr 11 18:44:00 2021	Unterscharfuhrer Ehrenfried Stieglitz (STEAM_0:1:104899979): /pm col hey change my name to unterscharführer Wilhelm Barkhoff
+Sun Apr 11 18:44:03 2021	Unterscharfuhrer Ehrenfried Stieglitz (STEAM_0:1:104899979) spawned
+Sun Apr 11 18:44:06 2021	Odin Dia (STEAM_0:0:196849441) spawned
+Sun Apr 11 18:44:21 2021	Colonel John Birch (STEAM_0:1:217228381): /forcerpname stieg Unterscharführer Wilhelm Barkhoff
+Sun Apr 11 18:44:21 2021	Colonel John Birch (STEAM_0:1:217228381) set Tronik's name to Unterscharführer Wilhelm Barkhoff
+Sun Apr 11 18:44:22 2021	Papa Stalin (STEAM_0:1:158574360) spawned
+Sun Apr 11 18:44:28 2021	Schutze Hans Ganilha was killed by Unterscharführer Wilhelm Barkhoff with a doi_atow_mp40
+Sun Apr 11 18:44:29 2021	Schutze Hans Ganilha (STEAM_0:1:80404459) spawned
+Sun Apr 11 18:44:35 2021	Schutze Hans Ganilha was killed by Unterscharführer Wilhelm Barkhoff with a doi_atow_mp40
+Sun Apr 11 18:44:37 2021	Schutze Hans Ganilha (STEAM_0:1:80404459) spawned
+Sun Apr 11 18:44:42 2021	Colonel John Birch (STEAM_0:1:217228381): /setspawn axis_recruit
+Sun Apr 11 18:44:46 2021	Colonel John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 18:44:46 2021	Odin Dia was killed by Entity [263][trigger_hurt] with a trigger_hurt
+Sun Apr 11 18:44:47 2021	Papa Stalin was killed by Entity [263][trigger_hurt] with a trigger_hurt
+Sun Apr 11 18:44:50 2021	Odin Dia (STEAM_0:0:196849441) spawned
+Sun Apr 11 18:44:54 2021	Odin Dia was killed by Entity [263][trigger_hurt] with a trigger_hurt
+Sun Apr 11 18:44:56 2021	Odin Dia (STEAM_0:0:196849441) spawned
+Sun Apr 11 18:45:01 2021	Odin Dia was killed by Entity [263][trigger_hurt] with a trigger_hurt
+Sun Apr 11 18:45:03 2021	Odin Dia (STEAM_0:0:196849441) spawned
+Sun Apr 11 18:45:07 2021	Odin Dia was killed by Entity [263][trigger_hurt] with a trigger_hurt
+Sun Apr 11 18:45:24 2021	Odin Dia (STEAM_0:0:196849441) spawned
+Sun Apr 11 18:45:24 2021	Colonel John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 18:45:26 2021	Odin Dia (STEAM_0:0:196849441): hallo ?
+Sun Apr 11 18:45:28 2021	Odin Dia was killed by Entity [263][trigger_hurt] with a trigger_hurt
+Sun Apr 11 18:45:32 2021	Odin Dia (STEAM_0:0:196849441) spawned
+Sun Apr 11 18:45:34 2021	Colonel John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 18:45:34 2021	Odin Dia was killed by Entity [263][trigger_hurt] with a trigger_hurt
+Sun Apr 11 18:45:43 2021	Odin Dia (STEAM_0:0:196849441): help
+Sun Apr 11 18:45:46 2021	Odin Dia (STEAM_0:0:196849441): help
+Sun Apr 11 18:45:48 2021	Odin Dia (STEAM_0:0:196849441) spawned
+Sun Apr 11 18:45:48 2021	Colonel John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 18:45:51 2021	Odin Dia was killed by Entity [263][trigger_hurt] with a trigger_hurt
+Sun Apr 11 18:45:58 2021	Odin Dia (STEAM_0:0:196849441) spawned
+Sun Apr 11 18:45:59 2021	Colonel John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 18:46:02 2021	Odin Dia was killed by Entity [263][trigger_hurt] with a trigger_hurt
+Sun Apr 11 18:46:09 2021	Odin Dia (STEAM_0:0:196849441) spawned
+Sun Apr 11 18:46:13 2021	Odin Dia was killed by Entity [263][trigger_hurt] with a trigger_hurt
+Sun Apr 11 18:46:19 2021	Odin Dia (STEAM_0:0:196849441) spawned
+Sun Apr 11 18:46:22 2021	Odin Dia was killed by Entity [263][trigger_hurt] with a trigger_hurt
+Sun Apr 11 18:46:23 2021	Schutze Hans Ganilha was killed by Unterscharführer Wilhelm Barkhoff with a weapon_fists
+Sun Apr 11 18:46:25 2021	Schutze Hans Ganilha (STEAM_0:1:80404459) spawned
+Sun Apr 11 18:46:26 2021	Colonel John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 18:46:26 2021	Odin Dia (STEAM_0:0:196849441) spawned
+Sun Apr 11 18:46:30 2021	Odin Dia was killed by Entity [263][trigger_hurt] with a trigger_hurt
+Sun Apr 11 18:46:41 2021	Odin Dia (STEAM_0:0:196849441) spawned
+Sun Apr 11 18:46:45 2021	Odin Dia was killed by Entity [263][trigger_hurt] with a trigger_hurt
+Sun Apr 11 18:46:48 2021	Odin Dia (STEAM_0:0:196849441) spawned
+Sun Apr 11 18:46:52 2021	Odin Dia was killed by Entity [263][trigger_hurt] with a trigger_hurt
+Sun Apr 11 18:46:54 2021	Odin Dia (STEAM_0:0:196849441) spawned
+Sun Apr 11 18:46:57 2021	Odin Dia was killed by Entity [263][trigger_hurt] with a trigger_hurt
+Sun Apr 11 18:46:59 2021	Colonel John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 18:47:16 2021	Papa Stalin (STEAM_0:1:158574360) spawned
+Sun Apr 11 18:47:16 2021	Colonel John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 18:47:19 2021	Papa Stalin was killed by Entity [263][trigger_hurt] with a trigger_hurt
+Sun Apr 11 18:47:28 2021	Papa Stalin (STEAM_0:1:158574360) spawned
+Sun Apr 11 18:47:31 2021	Papa Stalin was killed by Entity [263][trigger_hurt] with a trigger_hurt
+Sun Apr 11 18:47:33 2021	Papa Stalin (STEAM_0:1:158574360) spawned
+Sun Apr 11 18:47:37 2021	Papa Stalin was killed by Entity [263][trigger_hurt] with a trigger_hurt
+Sun Apr 11 18:47:38 2021	Papa Stalin (STEAM_0:1:158574360) spawned
+Sun Apr 11 18:47:38 2021	Odin Dia (STEAM_0:0:196849441) spawned
+Sun Apr 11 18:47:38 2021	Colonel John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 18:47:42 2021	Papa Stalin was killed by Entity [263][trigger_hurt] with a trigger_hurt
+Sun Apr 11 18:47:42 2021	Odin Dia was killed by Entity [263][trigger_hurt] with a trigger_hurt
+Sun Apr 11 18:48:05 2021	Odin Dia (STEAM_0:0:196849441) spawned
+Sun Apr 11 18:48:08 2021	Colonel John Birch (STEAM_0:1:217228381): /setjob STEAM_0:0:196849441
+Sun Apr 11 18:48:08 2021	Odin Dia was killed by Entity [263][trigger_hurt] with a trigger_hurt
+Sun Apr 11 18:48:14 2021	Colonel John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 18:48:30 2021	Odin Dia (STEAM_0:0:196849441) spawned
+Sun Apr 11 18:48:32 2021	Colonel John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 18:48:35 2021	Papa Stalin (STEAM_0:1:158574360) spawned
+Sun Apr 11 18:48:46 2021	Colonel John Birch (STEAM_0:1:217228381) spawned
+Sun Apr 11 18:48:50 2021	Schutze Hans Ganilha was killed by Papa Stalin with a doi_atow_k98k
+Sun Apr 11 18:48:50 2021	Colonel John Birch was killed by Entity [263][trigger_hurt] with a trigger_hurt
+Sun Apr 11 18:48:53 2021	Colonel John Birch (STEAM_0:1:217228381) spawned
+Sun Apr 11 18:48:53 2021	Papa Stalin was killed by Odin Dia with a doi_atow_k98k
+Sun Apr 11 18:48:54 2021	Papa Stalin (STEAM_0:1:158574360) spawned
+Sun Apr 11 18:48:57 2021	Colonel John Birch (STEAM_0:1:217228381) spawned
+Sun Apr 11 18:49:05 2021	Schutze Hans Ganilha (STEAM_0:1:80404459) spawned
+Sun Apr 11 18:49:26 2021	Unterscharführer Wilhelm Barkhoff was killed by Papa Stalin with a doi_atow_k98k
+Sun Apr 11 18:49:28 2021	Unterscharführer Wilhelm Barkhoff (STEAM_0:1:104899979) spawned
+Sun Apr 11 18:49:47 2021	Odin Dia (STEAM_0:0:196849441): gonna try fix my voice
+Sun Apr 11 18:49:50 2021	Odin Dia (STEAM_0:0:196849441): oki
+Sun Apr 11 18:49:59 2021	Odin Dia (STEAM_0:0:196849441): brb
+Sun Apr 11 18:50:32 2021	Unterscharführer Wilhelm Barkhoff was killed by Odin Dia with a doi_atow_k98k
+Sun Apr 11 18:50:34 2021	Papa Stalin (STEAM_0:1:158574360): hanus kefs
+Sun Apr 11 18:50:35 2021	Unterscharführer Wilhelm Barkhoff (STEAM_0:1:104899979) spawned
+Sun Apr 11 18:50:38 2021	Schutze Hans Ganilha (STEAM_0:1:80404459): /advert a
+Sun Apr 11 18:50:43 2021	Colonel John Birch (STEAM_0:1:217228381): !setname
+Sun Apr 11 18:50:44 2021	Colonel John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 18:50:57 2021	Colonel John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 18:51:00 2021	Unterscharführer Wilhelm Barkhoff (STEAM_0:1:104899979): !balance
+Sun Apr 11 18:51:04 2021	Colonel John Birch (STEAM_0:1:217228381): ,/balance
+Sun Apr 11 18:51:38 2021	Colonel John Birch (STEAM_0:1:217228381): /forcerpname Schutze Schutze Hanus Kefs
+Sun Apr 11 18:51:38 2021	Colonel John Birch (STEAM_0:1:217228381) set Papa Stalin's name to Schutze Hanus Kefs
+Sun Apr 11 18:52:37 2021	Unterscharführer Wilhelm Barkhoff (STEAM_0:1:104899979) spawned
+Sun Apr 11 18:52:49 2021	Colonel John Birch (STEAM_0:1:217228381) spawned
+Sun Apr 11 18:52:54 2021	Colonel John Birch (STEAM_0:1:217228381): /setspawn allies_recruit
+Sun Apr 11 18:52:59 2021	Schutze Hanus Kefs was killed by Schutze Hans Ganilha with a doi_atow_k98k
+Sun Apr 11 18:53:00 2021	Schutze Hanus Kefs (STEAM_0:1:158574360) spawned
+Sun Apr 11 18:53:00 2021	Colonel John Birch (STEAM_0:1:217228381): /setspawn allies_recruit
+Sun Apr 11 18:53:04 2021	Colonel John Birch (STEAM_0:1:217228381): /setspawn recruit_allies
+Sun Apr 11 18:53:24 2021	Colonel John Birch (STEAM_0:1:217228381): /setspawn allied_recruit
+Sun Apr 11 18:53:30 2021	Colonel John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 18:53:33 2021	Colonel John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 18:53:34 2021	Unterscharführer Wilhelm Barkhoff was killed by Entity [280][trigger_hurt] with a trigger_hurt
+Sun Apr 11 18:53:39 2021	Unterscharführer Wilhelm Barkhoff (STEAM_0:1:104899979) spawned
+Sun Apr 11 18:53:43 2021	Unterscharführer Wilhelm Barkhoff was killed by Entity [280][trigger_hurt] with a trigger_hurt
+Sun Apr 11 18:53:45 2021	Colonel John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 18:53:47 2021	Unterscharführer Wilhelm Barkhoff (STEAM_0:1:104899979) spawned
+Sun Apr 11 18:53:51 2021	Unterscharführer Wilhelm Barkhoff was killed by Entity [280][trigger_hurt] with a trigger_hurt
+Sun Apr 11 18:54:06 2021	Colonel John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 18:54:08 2021	Unterscharführer Wilhelm Barkhoff (STEAM_0:1:104899979) spawned
+Sun Apr 11 18:54:19 2021	Colonel John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 18:55:18 2021	Colonel John Birch (STEAM_0:1:217228381): /forcerpname birch MjrGen John Birch
+Sun Apr 11 18:55:18 2021	MjrGen John Birch (STEAM_0:1:217228381) set Jefff's name to MjrGen John Birch
+Sun Apr 11 18:55:33 2021	Schutze Hans Ganilha was killed by MjrGen John Birch with a doi_atow_m1911a1
+Sun Apr 11 18:55:34 2021	Schutze Hans Ganilha (STEAM_0:1:80404459) spawned
+Sun Apr 11 18:55:42 2021	Schutze Hanus Kefs was killed by Schutze Hans Ganilha with a doi_atow_k98k
+Sun Apr 11 18:55:45 2021	Odin Dia was killed by Schutze Hans Ganilha with a doi_atow_k98k
+Sun Apr 11 18:57:24 2021	Schutze Hans Ganilha was killed by Unterscharführer Wilhelm Barkhoff with a doi_atow_m1garand
+Sun Apr 11 18:57:25 2021	Schutze Hans Ganilha (STEAM_0:1:80404459) spawned
+Sun Apr 11 18:57:37 2021	MjrGen John Birch (STEAM_0:1:217228381): // you can use /g to commmunicate with the boys
+Sun Apr 11 18:57:44 2021	MjrGen John Birch (STEAM_0:1:217228381): /g Go capture the point
+Sun Apr 11 18:58:17 2021	Odin Dia (STEAM_0:0:196849441) spawned
+Sun Apr 11 18:58:17 2021	MjrGen John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 18:58:40 2021	MjrGen John Birch (STEAM_0:1:217228381): /advert We will win! Surrender now or be annihilated
+Sun Apr 11 18:58:56 2021	Schutze Hans Ganilha was killed by Unterscharführer Wilhelm Barkhoff with a doi_atow_m1garand
+Sun Apr 11 18:58:57 2021	Schutze Hans Ganilha (STEAM_0:1:80404459) spawned
+Sun Apr 11 18:59:04 2021	Odin Dia was killed by Schutze Hans Ganilha with a doi_atow_k98k
+Sun Apr 11 18:59:08 2021	MjrGen John Birch (STEAM_0:1:217228381): /balance
+Sun Apr 11 18:59:41 2021	Schutze Hanus Kefs (STEAM_0:1:158574360) spawned
+Sun Apr 11 18:59:41 2021	MjrGen John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 18:59:52 2021	MjrGen John Birch (STEAM_0:1:217228381): !repsawn STEAM_0:0:196849441
+Sun Apr 11 18:59:58 2021	Odin Dia (STEAM_0:0:196849441) spawned
+Sun Apr 11 18:59:58 2021	MjrGen John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 19:00:14 2021	Unterscharführer Wilhelm Barkhoff was killed by Schutze Hans Ganilha with a doi_atow_k98k
+Sun Apr 11 19:00:15 2021	Unterscharführer Wilhelm Barkhoff (STEAM_0:1:104899979) spawned
+Sun Apr 11 19:00:48 2021	MjrGen John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 19:01:16 2021	Schutze Hans Ganilha was killed by Unterscharführer Wilhelm Barkhoff with a doi_atow_m1garand
+Sun Apr 11 19:01:22 2021	Odin Dia was killed by MjrGen John Birch with a doi_atow_ithaca37
+Sun Apr 11 19:01:23 2021	Schutze Hans Ganilha (STEAM_0:1:80404459) spawned
+Sun Apr 11 19:01:26 2021	Odin Dia (STEAM_0:0:196849441) spawned
+Sun Apr 11 19:02:09 2021	Unterscharführer Wilhelm Barkhoff was killed by Schutze Hans Ganilha with a doi_atow_k98k
+Sun Apr 11 19:02:12 2021	Unterscharführer Wilhelm Barkhoff (STEAM_0:1:104899979) spawned
+Sun Apr 11 19:02:43 2021	Odin Dia was killed by MjrGen John Birch with a doi_atow_m1911a1
+Sun Apr 11 19:02:48 2021	Odin Dia (STEAM_0:0:196849441) spawned
+Sun Apr 11 19:03:05 2021	Odin Dia (STEAM_0:0:196849441): huh ?
+Sun Apr 11 19:03:07 2021	MjrGen John Birch (STEAM_0:1:217228381): !setname
+Sun Apr 11 19:03:11 2021	MjrGen John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 19:03:18 2021	Odin Dia (STEAM_0:0:196849441): who
+Sun Apr 11 19:03:20 2021	MjrGen John Birch (STEAM_0:1:217228381): You
+Sun Apr 11 19:03:24 2021	Schutze Hans Ganilha was killed by Unterscharführer Wilhelm Barkhoff with a prop_physics_multiplayer
+Sun Apr 11 19:03:25 2021	Odin Dia (STEAM_0:0:196849441): me ?
+Sun Apr 11 19:03:28 2021	MjrGen John Birch (STEAM_0:1:217228381): Yes
+Sun Apr 11 19:03:29 2021	Schutze Hans Ganilha (STEAM_0:1:80404459) spawned
+Sun Apr 11 19:03:31 2021	Odin Dia (STEAM_0:0:196849441): yes
+Sun Apr 11 19:03:31 2021	MjrGen John Birch was killed by Schutze Hans Ganilha with a doi_atow_k98k
+Sun Apr 11 19:03:34 2021	MjrGen John Birch (STEAM_0:1:217228381) spawned
+Sun Apr 11 19:03:36 2021	Schutze Hans Ganilha was killed by Odin Dia with a doi_atow_k98k
+Sun Apr 11 19:03:40 2021	Schutze Hans Ganilha (STEAM_0:1:80404459) spawned
+Sun Apr 11 19:03:52 2021	Odin Dia (STEAM_0:0:196849441): german
+Sun Apr 11 19:04:00 2021	Odin Dia (STEAM_0:0:196849441): hans
+Sun Apr 11 19:04:11 2021	Odin Dia (STEAM_0:0:196849441): kefla
+Sun Apr 11 19:04:24 2021	MjrGen John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 19:04:30 2021	MjrGen John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 19:04:51 2021	MjrGen John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 19:04:56 2021	MjrGen John Birch (STEAM_0:1:217228381): !unjaiul hanus
+Sun Apr 11 19:04:59 2021	MjrGen John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 19:05:08 2021	MjrGen John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 19:05:12 2021	'Schutze was killed by Unterscharführer Wilhelm Barkhoff with a doi_atow_m1garand
+Sun Apr 11 19:05:12 2021	MjrGen John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 19:05:18 2021	'Schutze (STEAM_0:0:196849441) spawned
+Sun Apr 11 19:05:28 2021	MjrGen John Birch (STEAM_0:1:217228381): /forcerpname STEAM_0:0:196849441 Schutze Hans Kefla
+Sun Apr 11 19:05:28 2021	MjrGen John Birch (STEAM_0:1:217228381) set Odin Dia's name to Schutze Hans Kefla
+Sun Apr 11 19:05:50 2021	Unterscharführer Wilhelm Barkhoff was killed by Schutze Hans Ganilha with a doi_atow_k98k
+Sun Apr 11 19:05:51 2021	Unterscharführer Wilhelm Barkhoff (STEAM_0:1:104899979) spawned
+Sun Apr 11 19:06:08 2021	MjrGen John Birch (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Sun Apr 11 19:06:54 2021	Schutze Hans Kefla was killed by MjrGen John Birch with a doi_atow_m1911a1
+Sun Apr 11 19:06:59 2021	Schutze Hans Kefla (STEAM_0:0:196849441) spawned
+Sun Apr 11 19:07:03 2021	MjrGen John Birch (STEAM_0:1:217228381) spawned SENT gred_emp_3inchmortar
+Sun Apr 11 19:07:12 2021	Unterscharführer Wilhelm Barkhoff was killed by Entity [59][env_explosion] with a env_explosion
+Sun Apr 11 19:07:14 2021	Unterscharführer Wilhelm Barkhoff (STEAM_0:1:104899979) spawned
+Sun Apr 11 19:07:21 2021	MjrGen John Birch was killed by Schutze Hans Ganilha with a doi_atow_k98k
+Sun Apr 11 19:07:25 2021	MjrGen John Birch (STEAM_0:1:217228381) spawned
+Sun Apr 11 19:07:41 2021	MjrGen John Birch (STEAM_0:1:217228381) spawned
+Sun Apr 11 19:08:21 2021	MjrGen John Birch was killed by Schutze Hans Ganilha with a doi_atow_k98k
+Sun Apr 11 19:08:22 2021	MjrGen John Birch (STEAM_0:1:217228381) spawned
+Sun Apr 11 19:08:32 2021	MjrGen John Birch (STEAM_0:1:217228381) spawned
+Sun Apr 11 19:08:39 2021	Schutze Hans Ganilha was killed by Unterscharführer Wilhelm Barkhoff with a doi_atow_m1garand
+Sun Apr 11 19:08:40 2021	Schutze Hans Ganilha (STEAM_0:1:80404459) spawned
+Sun Apr 11 19:09:01 2021	Schutze Hanus Kefs was killed by Schutze Hans Kefla with a weapon_fists
+Sun Apr 11 19:09:02 2021	Schutze Hanus Kefs (STEAM_0:1:158574360) spawned
+Sun Apr 11 19:09:03 2021	MjrGen John Birch (STEAM_0:1:217228381): // i will be needing to restart the sever in a bit
+Sun Apr 11 19:09:03 2021	MjrGen John Birch (STEAM_0:1:217228381) spawned
+Sun Apr 11 19:09:09 2021	Schutze Hanus Kefs was killed by Schutze Hans Ganilha with a doi_atow_k98k
+Sun Apr 11 19:09:11 2021	Schutze Hanus Kefs (STEAM_0:1:158574360) spawned
+Sun Apr 11 19:09:31 2021	Schutze Hans Kefla was killed by Schutze Hans Ganilha with a doi_atow_k98k
+Sun Apr 11 19:09:33 2021	Schutze Hans Kefla (STEAM_0:0:196849441) spawned
+Sun Apr 11 19:09:49 2021	Schutze Hans Ganilha was killed by Unterscharführer Wilhelm Barkhoff with a doi_atow_m1garand
+Sun Apr 11 19:09:50 2021	Schutze Hans Ganilha (STEAM_0:1:80404459) spawned
+Sun Apr 11 19:09:59 2021	MjrGen John Birch (STEAM_0:1:217228381): /me Salutes
+Sun Apr 11 19:10:19 2021	MjrGen John Birch was killed by Schutze Hans Ganilha with a doi_atow_k98k
+Sun Apr 11 19:10:21 2021	MjrGen John Birch (STEAM_0:1:217228381) spawned
+Sun Apr 11 19:10:23 2021	Schutze Hans Kefla was killed by Unterscharführer Wilhelm Barkhoff with a doi_atow_m1garand
+Sun Apr 11 19:10:25 2021	Schutze Hans Kefla (STEAM_0:0:196849441) spawned
+Sun Apr 11 19:10:27 2021	MjrGen John Birch (STEAM_0:1:217228381) spawned
+Sun Apr 11 19:10:33 2021	Schutze Hans Ganilha was killed by Unterscharführer Wilhelm Barkhoff with a doi_atow_m1garand
+Sun Apr 11 19:10:34 2021	Schutze Hans Ganilha (STEAM_0:1:80404459) spawned
+Sun Apr 11 19:10:38 2021	Schutze Hanus Kefs was killed by Schutze Hans Ganilha with a doi_atow_k98k
+Sun Apr 11 19:10:43 2021	MjrGen John Birch (STEAM_0:1:217228381): // capturing points means win
+Sun Apr 11 19:11:00 2021	Unterscharführer Wilhelm Barkhoff (STEAM_0:1:104899979): 
+Sun Apr 11 19:11:08 2021	Unterscharführer Wilhelm Barkhoff was killed by Schutze Hans Kefla with a doi_atow_k98k
+Sun Apr 11 19:11:13 2021	Unterscharführer Wilhelm Barkhoff (STEAM_0:1:104899979) spawned
+Sun Apr 11 19:11:27 2021	MjrGen John Birch was killed by Schutze Hans Ganilha with a doi_atow_k98k
+Sun Apr 11 19:11:29 2021	MjrGen John Birch (STEAM_0:1:217228381) spawned
+Sun Apr 11 19:11:30 2021	Schutze Hans Kefla was killed by Schutze Hans Ganilha with a doi_atow_k98k
+Sun Apr 11 19:11:34 2021	Schutze Hans Kefla (STEAM_0:0:196849441) spawned
+Sun Apr 11 19:11:57 2021	MjrGen John Birch (STEAM_0:1:217228381): // hopefully you're having fun, even though there are only 5 players.
+Sun Apr 11 19:12:10 2021	Unterscharführer Wilhelm Barkhoff was killed by Schutze Hans Ganilha with a doi_atow_k98k
+Sun Apr 11 19:12:13 2021	Unterscharführer Wilhelm Barkhoff (STEAM_0:1:104899979) spawned
+Sun Apr 11 19:12:19 2021	Schutze Hans Ganilha was killed by MjrGen John Birch with a doi_atow_m1919a6
+Sun Apr 11 19:12:21 2021	Schutze Hans Ganilha (STEAM_0:1:80404459) spawned
+Sun Apr 11 19:12:37 2021	Schutze Hans Kefla (STEAM_0:0:196849441): can i get a diffrent class ?
+Sun Apr 11 19:12:49 2021	MjrGen John Birch was killed by Schutze Hans Kefla with a doi_atow_k98k
+Sun Apr 11 19:12:58 2021	MjrGen John Birch (STEAM_0:1:217228381) spawned
+Sun Apr 11 19:13:23 2021	Schutze Hans Ganilha was killed by MjrGen John Birch with a doi_atow_sw1917
+Sun Apr 11 19:13:24 2021	Schutze Hans Ganilha (STEAM_0:1:80404459) spawned
+Sun Apr 11 19:13:30 2021	Schutze Hanus Kefs (STEAM_0:1:158574360) spawned
+Sun Apr 11 19:13:34 2021	Schutze Hanus Kefs was killed by Schutze Hans Ganilha with a doi_atow_k98k
+Sun Apr 11 19:13:35 2021	Schutze Hanus Kefs (STEAM_0:1:158574360) disconnected
+Sun Apr 11 19:13:59 2021	MjrGen John Birch (STEAM_0:1:217228381): /g ordered artilery!'
+Sun Apr 11 19:14:01 2021	MjrGen John Birch (STEAM_0:1:217228381): /g get back
+Sun Apr 11 19:14:17 2021	Papa Stalin (STEAM_0:1:158574360) has joined the game
+Sun Apr 11 19:14:17 2021	Schutze Hanus Kefs (STEAM_0:1:158574360) spawned
+Sun Apr 11 19:15:19 2021	Schutze Hanus Kefs (STEAM_0:1:158574360) disconnected
+Sun Apr 11 19:15:22 2021	MjrGen John Birch (STEAM_0:1:217228381) spawned SENT gred_emp_3inchmortar
+Sun Apr 11 19:15:40 2021	Unterscharführer Wilhelm Barkhoff was killed by Schutze Hans Kefla with a doi_atow_k98k
+Sun Apr 11 19:15:41 2021	Unterscharführer Wilhelm Barkhoff (STEAM_0:1:104899979) spawned
+Sun Apr 11 19:15:49 2021	MjrGen John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 19:16:21 2021	Schutze Hans Kefla was killed by MjrGen John Birch with a doi_atow_sw1917
+Sun Apr 11 19:16:27 2021	Schutze Hans Kefla (STEAM_0:0:196849441) spawned
+Sun Apr 11 19:16:39 2021	Schutze Hans Ganilha was killed by MjrGen John Birch with a doi_atow_sw1917
+Sun Apr 11 19:16:40 2021	Schutze Hans Ganilha (STEAM_0:1:80404459) spawned
+Sun Apr 11 19:17:09 2021	MjrGen John Birch (STEAM_0:1:217228381): // i think axis have better equpment tbh
+Sun Apr 11 19:17:17 2021	Schutze Hans Kefla was killed by Unterscharführer Wilhelm Barkhoff with a doi_atow_etoolus
+Sun Apr 11 19:17:22 2021	Schutze Hans Kefla (STEAM_0:0:196849441) spawned
+Sun Apr 11 19:17:26 2021	Unterscharführer Wilhelm Barkhoff was killed by Schutze Hans Ganilha with a doi_atow_k98k
+Sun Apr 11 19:17:28 2021	Unterscharführer Wilhelm Barkhoff (STEAM_0:1:104899979) spawned
+Sun Apr 11 19:17:43 2021	MjrGen John Birch was killed by Schutze Hans Ganilha with a doi_atow_k98k
+Sun Apr 11 19:17:44 2021	MjrGen John Birch (STEAM_0:1:217228381) spawned
+Sun Apr 11 19:18:03 2021	Schutze Hans Ganilha (STEAM_0:1:80404459) disconnected
+Sun Apr 11 19:18:41 2021	MjrGen John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 19:18:42 2021	Schutze Hans Kefla was killed by Unterscharführer Wilhelm Barkhoff with a doi_atow_bayonetus
+Sun Apr 11 19:18:52 2021	Schutze Hans Kefla (STEAM_0:0:196849441) spawned
+Sun Apr 11 19:19:47 2021	MjrGen John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 19:20:04 2021	Unterscharführer Wilhelm Barkhoff was killed by Schutze Hans Kefla with a doi_atow_k98k
+Sun Apr 11 19:20:06 2021	Unterscharführer Wilhelm Barkhoff (STEAM_0:1:104899979) spawned
+Sun Apr 11 19:20:21 2021	MjrGen John Birch (STEAM_0:1:217228381) spawned SENT gred_emp_3inchmortar
+Sun Apr 11 19:21:04 2021	Schutze Hans Kefla was killed by Unterscharführer Wilhelm Barkhoff with a doi_atow_m1garand
+Sun Apr 11 19:21:07 2021	MjrGen John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 19:21:12 2021	Schutze Hans Kefla (STEAM_0:0:196849441) spawned
+Sun Apr 11 19:21:15 2021	MjrGen John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 19:21:19 2021	MjrGen John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 19:21:25 2021	Unterscharführer Wilhelm Barkhoff (STEAM_0:1:104899979) spawned
+Sun Apr 11 19:21:29 2021	MjrGen John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 19:21:35 2021	MjrGen John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 19:21:38 2021	MjrGen John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 19:21:43 2021	MjrGen John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 19:21:54 2021	Unterscharführer Wilhelm Barkhoff (STEAM_0:1:104899979): 
+Sun Apr 11 19:21:54 2021	Unterscharführer Wilhelm Barkhoff (STEAM_0:1:104899979): 
+Sun Apr 11 19:21:54 2021	MjrGen John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 19:22:02 2021	MjrGen John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 19:22:17 2021	MjrGen John Birch (STEAM_0:1:217228381):  !bwhitelist
+Sun Apr 11 19:22:20 2021	MjrGen John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 19:22:35 2021	Schutze Hans Kefla (STEAM_0:0:196849441): repeat
+Sun Apr 11 19:23:00 2021	MjrGen John Birch (STEAM_0:1:217228381): /forcerpname Hans Obersoldat Hans Kefla
+Sun Apr 11 19:23:00 2021	MjrGen John Birch (STEAM_0:1:217228381) set Odin Dia's name to Obersoldat Hans Kefla
+Sun Apr 11 19:23:23 2021	MjrGen John Birch (STEAM_0:1:217228381): /forcerpname Hans Unterofficer Hans Kefla
+Sun Apr 11 19:23:23 2021	MjrGen John Birch (STEAM_0:1:217228381) set Odin Dia's name to Unterofficer Hans Kefla
+Sun Apr 11 19:23:38 2021	Unterofficer Hans Kefla (STEAM_0:0:196849441) spawned
+Sun Apr 11 19:23:48 2021	Unterscharführer Wilhelm Barkhoff was killed by Unterofficer Hans Kefla with a doi_atow_mg42
+Sun Apr 11 19:23:49 2021	Unterscharführer Wilhelm Barkhoff (STEAM_0:1:104899979) spawned
+Sun Apr 11 19:24:01 2021	Unterofficer Hans Kefla (STEAM_0:0:196849441): i will do XD
+Sun Apr 11 19:24:27 2021	MjrGen John Birch was killed by Himself with a suicide trick
+Sun Apr 11 19:24:29 2021	MjrGen John Birch (STEAM_0:1:217228381) spawned
+Sun Apr 11 19:25:01 2021	MjrGen John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 19:25:16 2021	MjrGen John Birch (STEAM_0:1:217228381): doing !discord
+Sun Apr 11 19:25:21 2021	Unterofficer Hans Kefla (STEAM_0:0:196849441): 
+Sun Apr 11 19:25:23 2021	Unterscharführer Wilhelm Barkhoff (STEAM_0:1:104899979) disconnected
+Sun Apr 11 19:25:36 2021	Unterofficer Hans Kefla (STEAM_0:0:196849441): didn't work ?
+Sun Apr 11 19:25:40 2021	MjrGen John Birch (STEAM_0:1:217228381): 
+Sun Apr 11 19:25:41 2021	Unterofficer Hans Kefla (STEAM_0:0:196849441): trying again
+Sun Apr 11 19:25:51 2021	Unterofficer Hans Kefla (STEAM_0:0:196849441): 
+Sun Apr 11 19:26:33 2021	Unterofficer Hans Kefla (STEAM_0:0:196849441): say again
+Sun Apr 11 19:26:58 2021	Unterofficer Hans Kefla (STEAM_0:0:196849441): i mean i  got bullied by my mates for like an hour lol so yhh XD
+Sun Apr 11 19:27:45 2021	Unterofficer Hans Kefla (STEAM_0:0:196849441): I reckon a map which could have ig more room ig for tanks and such 
+Sun Apr 11 19:28:09 2021	Unterofficer Hans Kefla (STEAM_0:0:196849441): sure lets have a look ?
+Sun Apr 11 19:28:13 2021	MjrGen John Birch (STEAM_0:1:217228381): 

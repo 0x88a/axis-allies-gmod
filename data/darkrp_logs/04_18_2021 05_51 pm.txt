@@ -1,0 +1,6 @@
+Sun Apr 18 17:51:10 2021	Jefff (STEAM_0:1:217228381) has joined the game
+Sun Apr 18 17:51:10 2021	Oberleutnant Willhelm Duseldorfg (STEAM_0:1:217228381) spawned
+Sun Apr 18 17:51:24 2021	Kvisten (STEAM_0:1:209890907) has joined the game
+Sun Apr 18 17:51:24 2021	Schutze Leopold Schneider (STEAM_0:1:209890907) spawned
+Sun Apr 18 17:52:12 2021	Schutze Leopold Schneider (STEAM_0:1:209890907) disconnected
+Sun Apr 18 17:52:30 2021	Oberleutnant Willhelm Duseldorfg (STEAM_0:1:217228381) disconnected

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/zp models/ice_cream/cream"
+	"$nocull" 1
+}

@@ -1,0 +1,5 @@
+Fri Apr 16 22:14:51 2021	Jefff (STEAM_0:1:217228381) has joined the game
+Fri Apr 16 22:14:51 2021	Staff Sergeant John Birch (STEAM_0:1:217228381) spawned
+Fri Apr 16 22:16:47 2021	Staff Sergeant John Birch (STEAM_0:1:217228381): 
+Fri Apr 16 22:16:59 2021	Staff Sergeant John Birch (STEAM_0:1:217228381) spawned
+Fri Apr 16 22:19:50 2021	Staff Sergeant John Birch (STEAM_0:1:217228381) disconnected

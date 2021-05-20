@@ -1,0 +1,272 @@
+Wed Apr 14 20:42:35 2021	some one (STEAM_0:1:465978133) has joined the game
+Wed Apr 14 20:42:35 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 20:42:37 2021	{VGN}Apis (STEAM_0:0:78717960) has joined the game
+Wed Apr 14 20:42:37 2021	Major Jacob Williams (STEAM_0:0:78717960) spawned
+Wed Apr 14 20:42:43 2021	Jefff (STEAM_0:1:217228381) has joined the game
+Wed Apr 14 20:42:43 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) spawned
+Wed Apr 14 20:43:17 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 20:43:59 2021	Major Jacob Williams (STEAM_0:0:78717960) spawned
+Wed Apr 14 20:48:18 2021	Major Jacob Williams (STEAM_0:0:78717960): 
+Wed Apr 14 20:48:28 2021	Private Fred Jones was killed by Entity [0][worldspawn] with a unknown
+Wed Apr 14 20:48:38 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 20:48:51 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 20:49:02 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 20:49:35 2021	Major Jacob Williams (STEAM_0:0:78717960): /ooc ez win gg
+Wed Apr 14 20:49:39 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): // bruh]
+Wed Apr 14 20:49:45 2021	Major Jacob Williams (STEAM_0:0:78717960): /ooc lmaooo
+Wed Apr 14 20:50:21 2021	General Dwight.D Eisenhower was killed by Entity [0][worldspawn] with a unknown
+Wed Apr 14 20:50:23 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) spawned
+Wed Apr 14 20:50:30 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) spawned
+Wed Apr 14 20:50:56 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): /me Salutes
+Wed Apr 14 20:50:57 2021	Major Jacob Williams (STEAM_0:0:78717960): /me Salute
+Wed Apr 14 20:51:01 2021	Major Jacob Williams (STEAM_0:0:78717960): /me Salute
+Wed Apr 14 20:51:56 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 20:52:23 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 20:52:54 2021	Major Jacob Williams (STEAM_0:0:78717960): 
+Wed Apr 14 20:53:52 2021	Private Fred Jones was killed by Himself with a suicide trick
+Wed Apr 14 20:53:53 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 20:54:01 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 20:55:16 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): stop being a virgin
+Wed Apr 14 20:55:19 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): if you want
+Wed Apr 14 20:55:26 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): you can use your '''stick''' if she misbehaves.
+Wed Apr 14 20:55:43 2021	Major Jacob Williams (STEAM_0:0:78717960): 
+Wed Apr 14 20:55:55 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 20:55:55 2021	Major Jacob Williams (STEAM_0:0:78717960): 
+Wed Apr 14 20:56:31 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) spawned
+Wed Apr 14 20:56:43 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 20:58:06 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 21:01:05 2021	Major Jacob Williams (STEAM_0:0:78717960): I WAS SHOWING THE FUCKING HOUSE
+Wed Apr 14 21:01:09 2021	Major Jacob Williams (STEAM_0:0:78717960): TF U CRACKING ON ABOUT
+Wed Apr 14 21:01:11 2021	Major Jacob Williams was killed by Himself with a suicide trick
+Wed Apr 14 21:01:17 2021	Private Fred Jones (STEAM_0:1:465978133): noooo
+Wed Apr 14 21:01:19 2021	Major Jacob Williams (STEAM_0:0:78717960) spawned
+Wed Apr 14 21:01:19 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 21:01:22 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 21:01:25 2021	Major Jacob Williams was killed by Himself with a suicide trick
+Wed Apr 14 21:01:27 2021	Major Jacob Williams (STEAM_0:0:78717960) spawned
+Wed Apr 14 21:01:30 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 21:01:32 2021	Major Jacob Williams was killed by Himself with a suicide trick
+Wed Apr 14 21:01:34 2021	Major Jacob Williams (STEAM_0:0:78717960) spawned
+Wed Apr 14 21:01:35 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 21:01:37 2021	Major Jacob Williams was killed by Himself with a suicide trick
+Wed Apr 14 21:01:38 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 21:01:42 2021	Major Jacob Williams (STEAM_0:0:78717960) spawned
+Wed Apr 14 21:01:42 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 21:01:43 2021	Major Jacob Williams was killed by Himself with a suicide trick
+Wed Apr 14 21:01:53 2021	Major Jacob Williams (STEAM_0:0:78717960) spawned
+Wed Apr 14 21:02:08 2021	Major Jacob Williams was killed by Himself with a suicide trick
+Wed Apr 14 21:02:12 2021	Major Jacob Williams (STEAM_0:0:78717960) spawned
+Wed Apr 14 21:02:28 2021	Private Fred Jones (STEAM_0:1:465978133): my ears
+Wed Apr 14 21:02:38 2021	Private Fred Jones was killed by Major Jacob Williams with a base_shell
+Wed Apr 14 21:02:39 2021	General Dwight.D Eisenhower was killed by Major Jacob Williams with a base_shell
+Wed Apr 14 21:02:41 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) spawned
+Wed Apr 14 21:02:42 2021	Private Fred Jones (STEAM_0:1:465978133): nooo
+Wed Apr 14 21:02:42 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 21:02:58 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 21:03:05 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 21:03:07 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 21:03:08 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 21:03:31 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): STEAM_0:0:78717960
+Wed Apr 14 21:03:36 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 21:03:43 2021	Major Jacob Williams (STEAM_0:0:78717960): mutes game
+Wed Apr 14 21:03:52 2021	Major Jacob Williams (STEAM_0:0:78717960): voice_enable 0
+Wed Apr 14 21:03:54 2021	Major Jacob Williams (STEAM_0:0:78717960): u can do shit
+Wed Apr 14 21:04:01 2021	Major Jacob Williams (STEAM_0:0:78717960): can hear u
+Wed Apr 14 21:04:09 2021	Major Jacob Williams was killed by Private Fred Jones with a doi_atow_m1garand
+Wed Apr 14 21:04:13 2021	Private Fred Jones was killed by Himself with a suicide trick
+Wed Apr 14 21:04:16 2021	Major Jacob Williams (STEAM_0:0:78717960) spawned
+Wed Apr 14 21:04:21 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 21:04:38 2021	Private Fred Jones was killed by Major Jacob Williams with a doi_atow_m1911a1
+Wed Apr 14 21:04:48 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 21:06:04 2021	Private Fred Jones (STEAM_0:1:465978133): dont listen
+Wed Apr 14 21:06:21 2021	Major Jacob Williams was killed by Private Fred Jones with a doi_atow_m1garand
+Wed Apr 14 21:06:22 2021	Major Jacob Williams (STEAM_0:0:78717960) spawned
+Wed Apr 14 21:08:37 2021	Private Fred Jones was killed by General Dwight.D Eisenhower with a doi_atow_m1a1
+Wed Apr 14 21:08:43 2021	Private Fred Jones (STEAM_0:1:465978133): -____-
+Wed Apr 14 21:08:45 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 21:08:50 2021	Private Fred Jones (STEAM_0:1:465978133): -_____-
+Wed Apr 14 21:09:41 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) spawned SENT gred_emp_3inchmortar
+Wed Apr 14 21:09:47 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) spawned SENT gred_emp_mg34
+Wed Apr 14 21:11:16 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) spawned
+Wed Apr 14 21:13:03 2021	Major Jacob Williams was killed by Private Fred Jones with a unknown
+Wed Apr 14 21:13:04 2021	Major Jacob Williams (STEAM_0:0:78717960) spawned
+Wed Apr 14 21:13:09 2021	Private Fred Jones was killed by Major Jacob Williams with a doi_atow_m1911a1
+Wed Apr 14 21:13:15 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 21:14:51 2021	Private Fred Jones was killed by General Dwight.D Eisenhower with a doi_atow_m1garand
+Wed Apr 14 21:14:54 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 21:15:15 2021	Private Fred Jones was killed by General Dwight.D Eisenhower with a doi_atow_bayonetus
+Wed Apr 14 21:15:18 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 21:15:24 2021	Major Jacob Williams was killed by Private Fred Jones with a doi_atow_m1garand
+Wed Apr 14 21:15:26 2021	Major Jacob Williams (STEAM_0:0:78717960) spawned
+Wed Apr 14 21:15:29 2021	Private Fred Jones was killed by General Dwight.D Eisenhower with a doi_atow_bayonetus
+Wed Apr 14 21:15:30 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 21:16:07 2021	Private Fred Jones (STEAM_0:1:465978133): get me out the bushes
+Wed Apr 14 21:16:13 2021	Private Fred Jones (STEAM_0:1:465978133): or i will cry :D
+Wed Apr 14 21:16:36 2021	General Dwight.D Eisenhower was killed by Private Fred Jones with a doi_atow_m1garand
+Wed Apr 14 21:16:38 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) spawned
+Wed Apr 14 21:16:40 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 21:16:41 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 21:16:56 2021	Private Fred Jones (STEAM_0:1:465978133): get me outtttt
+Wed Apr 14 21:17:00 2021	Private Fred Jones (STEAM_0:1:465978133) disconnected
+Wed Apr 14 21:17:09 2021	Major Jacob Williams (STEAM_0:0:78717960): https://steamcommunity.com/sharedfiles/filedetails/?id=841066734
+Wed Apr 14 21:17:14 2021	Major Jacob Williams (STEAM_0:0:78717960): 
+Wed Apr 14 21:17:20 2021	Major Jacob Williams (STEAM_0:0:78717960): 
+Wed Apr 14 21:18:12 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 21:18:38 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 21:19:44 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 21:19:55 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 21:20:07 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 3500
+Wed Apr 14 21:20:30 2021	some one (STEAM_0:1:465978133) has joined the game
+Wed Apr 14 21:20:30 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 21:20:37 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 1 sec
+Wed Apr 14 21:20:50 2021	Private Fred Jones (STEAM_0:1:465978133): missed me?
+Wed Apr 14 21:21:15 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 21:21:15 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 21:21:29 2021	Private Fred Jones (STEAM_0:1:465978133): back bitchessss
+Wed Apr 14 21:21:54 2021	Private Fred Jones was killed by General Dwight.D Eisenhower with a tankgewehr
+Wed Apr 14 21:21:56 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 21:21:58 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 21:22:08 2021	Private Fred Jones was killed by General Dwight.D Eisenhower with a doi_atow_bayonetus
+Wed Apr 14 21:22:09 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 21:22:23 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 21:22:26 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 1 sec
+Wed Apr 14 21:23:27 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 21:24:07 2021	Private Fred Jones (STEAM_0:1:465978133): 
+Wed Apr 14 21:24:46 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 21:24:50 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 21:24:52 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 21:24:55 2021	Private Fred Jones (STEAM_0:1:465978133): 
+Wed Apr 14 21:24:57 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 21:25:03 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 21:25:10 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 21:26:16 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 21:26:17 2021	Private Fred Jones was killed by Himself with a suicide trick
+Wed Apr 14 21:26:20 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 21:26:32 2021	Bot01 (BOT) has joined the game
+Wed Apr 14 21:26:32 2021	Bot01 (BOT) spawned
+Wed Apr 14 21:26:35 2021	Bot02 (BOT) has joined the game
+Wed Apr 14 21:26:35 2021	Bot02 (BOT) spawned
+Wed Apr 14 21:26:37 2021	Bot03 (BOT) has joined the game
+Wed Apr 14 21:26:37 2021	Bot03 (BOT) spawned
+Wed Apr 14 21:26:40 2021	Bot04 (BOT) has joined the game
+Wed Apr 14 21:26:40 2021	Bot04 (BOT) spawned
+Wed Apr 14 21:26:43 2021	Bot05 (BOT) has joined the game
+Wed Apr 14 21:26:43 2021	Bot05 (BOT) spawned
+Wed Apr 14 21:26:45 2021	Bot06 (BOT) has joined the game
+Wed Apr 14 21:26:45 2021	Bot06 (BOT) spawned
+Wed Apr 14 21:26:58 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) spawned SENT gb_bomb_2000gp
+Wed Apr 14 21:27:03 2021	Private Fred Jones was killed by Entity [882][gb_bomb_2000gp] with a gb_bomb_2000gp
+Wed Apr 14 21:27:03 2021	Major Jacob Williams was killed by Entity [882][gb_bomb_2000gp] with a gb_bomb_2000gp
+Wed Apr 14 21:27:04 2021	Major Jacob Williams (STEAM_0:0:78717960) spawned
+Wed Apr 14 21:27:08 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) spawned SENT gb_bomb_2000gp
+Wed Apr 14 21:27:10 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 21:27:21 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 21:27:25 2021	Bot03 was killed by Entity [311][gb_bomb_2000gp] with a gb_bomb_2000gp
+Wed Apr 14 21:27:25 2021	Bot02 was killed by Entity [311][gb_bomb_2000gp] with a gb_bomb_2000gp
+Wed Apr 14 21:27:25 2021	Bot06 was killed by Entity [311][gb_bomb_2000gp] with a gb_bomb_2000gp
+Wed Apr 14 21:27:25 2021	Bot01 was killed by Entity [311][gb_bomb_2000gp] with a gb_bomb_2000gp
+Wed Apr 14 21:27:25 2021	Private Fred Jones was killed by Entity [311][gb_bomb_2000gp] with a gb_bomb_2000gp
+Wed Apr 14 21:27:25 2021	Bot04 was killed by Entity [311][gb_bomb_2000gp] with a gb_bomb_2000gp
+Wed Apr 14 21:27:26 2021	Bot01 (BOT) spawned
+Wed Apr 14 21:27:26 2021	Bot02 (BOT) spawned
+Wed Apr 14 21:27:26 2021	Bot03 (BOT) spawned
+Wed Apr 14 21:27:26 2021	Bot04 (BOT) spawned
+Wed Apr 14 21:27:26 2021	Bot06 (BOT) spawned
+Wed Apr 14 21:27:34 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 21:28:09 2021	Bot01 (BOT) disconnected
+Wed Apr 14 21:28:11 2021	Bot06 (BOT) disconnected
+Wed Apr 14 21:28:18 2021	Bot04 (BOT) disconnected
+Wed Apr 14 21:28:20 2021	Major Jacob Williams (STEAM_0:0:78717960): 
+Wed Apr 14 21:28:21 2021	Bot03 (BOT) disconnected
+Wed Apr 14 21:28:23 2021	Bot02 (BOT) disconnected
+Wed Apr 14 21:28:26 2021	Major Jacob Williams (STEAM_0:0:78717960): 
+Wed Apr 14 21:28:29 2021	Private Fred Jones was killed by Entity [0][worldspawn] with a unknown
+Wed Apr 14 21:28:46 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 21:29:48 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 21:30:10 2021	Major Jacob Williams (STEAM_0:0:78717960): 
+Wed Apr 14 21:31:34 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 21:32:07 2021	Private Fred Jones was killed by Entity [0][worldspawn] with a unknown
+Wed Apr 14 21:32:17 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 21:32:19 2021	Major Jacob Williams (STEAM_0:0:78717960) disconnected
+Wed Apr 14 21:33:15 2021	Private Fred Jones was killed by Entity [0][worldspawn] with a unknown
+Wed Apr 14 21:33:16 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 21:34:46 2021	Private Fred Jones was killed by Entity [0][worldspawn] with a unknown
+Wed Apr 14 21:34:48 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 21:36:03 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 21:37:37 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) spawned SENT prop_dynamic
+Wed Apr 14 21:39:36 2021	{VGN}Apis (STEAM_0:0:78717960) has joined the game
+Wed Apr 14 21:39:36 2021	Major Jacob Williams (STEAM_0:0:78717960) spawned
+Wed Apr 14 21:40:08 2021	Private Fred Jones was killed by Entity [0][worldspawn] with a unknown
+Wed Apr 14 21:40:14 2021	Major Jacob Williams (STEAM_0:0:78717960) spawned
+Wed Apr 14 21:40:16 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 21:40:59 2021	Private Fred Jones was killed by General Dwight.D Eisenhower with a doi_atow_m1garand
+Wed Apr 14 21:41:01 2021	Major Jacob Williams (STEAM_0:0:78717960): 
+Wed Apr 14 21:41:04 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 21:43:18 2021	Major Jacob Williams (STEAM_0:0:78717960): 
+Wed Apr 14 21:45:06 2021	Private Fred Jones was killed by Entity [0][worldspawn] with a unknown
+Wed Apr 14 21:45:06 2021	Major Jacob Williams (STEAM_0:0:78717960): 
+Wed Apr 14 21:46:25 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 21:46:31 2021	Major Jacob Williams was killed by Himself with a suicide trick
+Wed Apr 14 21:46:32 2021	Major Jacob Williams (STEAM_0:0:78717960) spawned
+Wed Apr 14 21:48:42 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) spawned
+Wed Apr 14 21:48:49 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): Yes
+Wed Apr 14 21:48:51 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): ,!bwhitelist
+Wed Apr 14 21:48:52 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 21:48:55 2021	Major Jacob Williams (STEAM_0:0:78717960): 
+Wed Apr 14 21:48:56 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): stolen
+Wed Apr 14 21:49:01 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): u aint admin
+Wed Apr 14 21:49:06 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): u said no more admin stick
+Wed Apr 14 21:50:18 2021	Ronan (STEAM_0:1:55197996) has joined the game
+Wed Apr 14 21:50:18 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 21:50:34 2021	Major Jacob Williams (STEAM_0:0:78717960): 
+Wed Apr 14 21:50:55 2021	Private Fred Jones was killed by Himself with a suicide trick
+Wed Apr 14 21:50:58 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 21:51:07 2021	Snoopi | DFilm (STEAM_0:0:102201840) has joined the game
+Wed Apr 14 21:51:07 2021	Snoopi | DFilm (STEAM_0:0:102201840) spawned
+Wed Apr 14 21:51:08 2021	Private Fred Jones was killed by Himself with a suicide trick
+Wed Apr 14 21:51:11 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 21:51:33 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 21:52:05 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 21:52:08 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 21:52:11 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 21:52:12 2021	Private Fred Jones (STEAM_0:1:465978133): get moving
+Wed Apr 14 21:52:13 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): !ignote major
+Wed Apr 14 21:52:16 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 21:52:20 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 21:52:23 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 21:52:30 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 21:52:33 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 21:52:40 2021	Major Jacob Williams (STEAM_0:0:78717960): 
+Wed Apr 14 21:52:42 2021	Major Peter Steiner was killed by Entity [813][entityflame] with a entityflame
+Wed Apr 14 21:52:44 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 21:52:47 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 21:52:50 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 21:53:01 2021	Private Fred Jones (STEAM_0:1:465978133): -_-
+Wed Apr 14 21:53:05 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): One of us.
+Wed Apr 14 21:53:10 2021	Major Peter Steiner (STEAM_0:1:55197996): cant open console wtf
+Wed Apr 14 21:53:19 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 21:53:35 2021	Major Peter Steiner (STEAM_0:1:55197996): not eletting me plus the fire is annoying
+Wed Apr 14 21:53:41 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 21:53:44 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 21:53:48 2021	Snoopi | DFilm was killed by Major Peter Steiner with a doi_atow_p08
+Wed Apr 14 21:53:51 2021	Private Fred Jones (STEAM_0:1:465978133) spawned
+Wed Apr 14 21:53:51 2021	Major Jacob Williams (STEAM_0:0:78717960) spawned
+Wed Apr 14 21:53:51 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) spawned
+Wed Apr 14 21:53:51 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 21:53:51 2021	Snoopi | DFilm (STEAM_0:0:102201840) spawned
+Wed Apr 14 21:53:51 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 21:54:20 2021	Snoopi | DFilm (STEAM_0:0:102201840): 
+Wed Apr 14 21:54:51 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 21:54:58 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): ,!give ^ weapon_physgun
+Wed Apr 14 21:55:01 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): ,!give ^ gmod_tool
+Wed Apr 14 21:55:06 2021	Major Jacob Williams (STEAM_0:0:78717960): 
+Wed Apr 14 21:56:16 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): making big business boys.
+Wed Apr 14 21:56:47 2021	Private Fred Jones (STEAM_0:1:465978133): i may  need more chairs
+Wed Apr 14 21:56:47 2021	Major Jacob Williams (STEAM_0:0:78717960): 
+Wed Apr 14 21:56:59 2021	Major Jacob Williams (STEAM_0:0:78717960): my guy?
+Wed Apr 14 21:57:11 2021	Snoopi | DFilm (STEAM_0:0:102201840): 1 sec bud
+Wed Apr 14 21:57:19 2021	Major Jacob Williams (STEAM_0:0:78717960): .!content
+Wed Apr 14 21:57:37 2021	Major Jacob Williams (STEAM_0:0:78717960): 
+Wed Apr 14 21:58:55 2021	Major Jacob Williams (STEAM_0:0:78717960) disconnected
+Wed Apr 14 22:00:18 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Wed Apr 14 22:00:36 2021	Major Peter Steiner (STEAM_0:1:55197996) disconnected

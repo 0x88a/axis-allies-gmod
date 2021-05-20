@@ -1,0 +1,1 @@
+{"Damage":18.0,"FireDelay":0.1,"Recoil":1.15}

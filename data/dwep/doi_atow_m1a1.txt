@@ -1,0 +1,1 @@
+{"ReloadSpeed":1.5,"Recoil":1.85,"MuzzleEffect":"muzzleflash_pistol","Damage":21.0,"FireDelay":0.12,"ReloadTime":2.8}

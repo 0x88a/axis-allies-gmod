@@ -1,0 +1,6 @@
+Sat Apr 10 23:03:16 2021	Jefff (STEAM_0:1:217228381) has joined the game
+Sat Apr 10 23:03:16 2021	Jefff (STEAM_0:1:217228381) spawned
+Sat Apr 10 23:04:14 2021	Jefff (STEAM_0:1:217228381): /conquest
+Sat Apr 10 23:04:40 2021	Jefff (STEAM_0:1:217228381): /conquest
+Sat Apr 10 23:06:16 2021	Jefff (STEAM_0:1:217228381): /conquest
+Sat Apr 10 23:06:27 2021	Jefff (STEAM_0:1:217228381): /advert test

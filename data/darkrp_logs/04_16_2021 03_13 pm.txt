@@ -1,0 +1,4 @@
+Fri Apr 16 15:13:21 2021	Staff Sergeant John Birch was killed by Himself with a suicide trick
+Fri Apr 16 15:13:23 2021	Staff Sergeant John Birch (STEAM_0:1:217228381) spawned
+Fri Apr 16 15:14:01 2021	Staff Sergeant John Birch (STEAM_0:1:217228381): /rp_lookup
+Fri Apr 16 15:14:04 2021	Staff Sergeant John Birch (STEAM_0:1:217228381): /rplookup

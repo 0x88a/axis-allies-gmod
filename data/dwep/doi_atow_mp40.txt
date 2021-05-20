@@ -1,0 +1,1 @@
+{"ReloadSpeed":1.2,"Recoil":1.4,"RecoilToSpread":0.9,"Damage":17.0,"FireDelay":0.12153271028}

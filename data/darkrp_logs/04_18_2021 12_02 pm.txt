@@ -1,0 +1,18 @@
+Sun Apr 18 12:02:03 2021	Jefff (STEAM_0:1:217228381) has joined the game
+Sun Apr 18 12:02:03 2021	Captain John Birch (STEAM_0:1:217228381) spawned
+Sun Apr 18 12:05:03 2021	Kvisten (STEAM_0:1:209890907) has joined the game
+Sun Apr 18 12:05:03 2021	Kvisten (STEAM_0:1:209890907) spawned
+Sun Apr 18 12:05:30 2021	Kvisten (STEAM_0:1:209890907): 
+Sun Apr 18 12:08:01 2021	Captain John Birch (STEAM_0:1:217228381) spawned SENT wac_pl_whitley
+Sun Apr 18 12:08:06 2021	Captain John Birch was killed by Entity [245][wac_pl_whitley] with a wac_pl_whitley
+Sun Apr 18 12:08:08 2021	Captain John Birch (STEAM_0:1:217228381) spawned
+Sun Apr 18 12:08:11 2021	Captain John Birch (STEAM_0:1:217228381) spawned SENT wac_pl_whitley
+Sun Apr 18 12:08:20 2021	Captain John Birch (STEAM_0:1:217228381) spawned SENT wac_seat_connector
+Sun Apr 18 12:08:24 2021	Captain John Birch (STEAM_0:1:217228381) spawned SENT wac_hc_blackhawk_uh60
+Sun Apr 18 12:08:38 2021	Captain John Birch (STEAM_0:1:217228381) spawned SENT wac_pl_ju87
+Sun Apr 18 12:09:18 2021	Captain John Birch (STEAM_0:1:217228381) spawned SENT wac_pl_ju87
+Sun Apr 18 12:10:07 2021	Captain John Birch (STEAM_0:1:217228381) spawned SENT wac_pl_p40
+Sun Apr 18 12:10:21 2021	Captain John Birch was killed by Entity [239][wac_pl_p40] with a wac_pl_p40
+Sun Apr 18 12:10:23 2021	Captain John Birch (STEAM_0:1:217228381) spawned
+Sun Apr 18 12:12:00 2021	Kvisten (STEAM_0:1:209890907): G
+Sun Apr 18 12:12:09 2021	Kvisten (STEAM_0:1:209890907): /looc g

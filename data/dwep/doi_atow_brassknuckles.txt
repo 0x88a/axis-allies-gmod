@@ -1,0 +1,1 @@
+{"SecondaryAttackDamage | 2":70.0,"SecondaryAttackDamage | 1":70.0}

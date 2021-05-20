@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"Williams Shop System"
+	"version"			"1.4.1"
+	"up_date"			"20/03/2017"
+	"author_name"			"William"
+	"author_email"			""
+	"author_url"			""
+	"info"				"Extra"
+	"override"			"0"
+}

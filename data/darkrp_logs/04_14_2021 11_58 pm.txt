@@ -1,0 +1,53 @@
+Wed Apr 14 23:58:27 2021	{VGN}Apis (STEAM_0:0:78717960) has joined the game
+Wed Apr 14 23:58:27 2021	Colonel Jacob Williams (STEAM_0:0:78717960) spawned
+Wed Apr 14 23:58:28 2021	Jefff (STEAM_0:1:217228381) has joined the game
+Wed Apr 14 23:58:28 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) spawned
+Wed Apr 14 23:58:41 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) disconnected
+Wed Apr 14 23:58:57 2021	Colonel Jacob Williams (STEAM_0:0:78717960): /name
+Wed Apr 14 23:59:46 2021	Colonel Jacob Williams (STEAM_0:0:78717960) spawned
+Thu Apr 15 00:00:27 2021	Colonel Jacob Williams (STEAM_0:0:78717960) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Thu Apr 15 00:00:34 2021	Colonel Jacob Williams (STEAM_0:0:78717960) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Thu Apr 15 00:00:38 2021	Colonel Jacob Williams (STEAM_0:0:78717960) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Thu Apr 15 00:00:43 2021	Colonel Jacob Williams (STEAM_0:0:78717960) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Thu Apr 15 00:00:47 2021	Colonel Jacob Williams (STEAM_0:0:78717960) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Thu Apr 15 00:01:26 2021	Colonel Jacob Williams (STEAM_0:0:78717960): 
+Thu Apr 15 00:01:33 2021	Colonel Jacob Williams (STEAM_0:0:78717960) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Thu Apr 15 00:01:37 2021	Colonel Jacob Williams (STEAM_0:0:78717960) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Thu Apr 15 00:02:17 2021	Jefff (STEAM_0:1:217228381) has joined the game
+Thu Apr 15 00:02:17 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) spawned
+Thu Apr 15 00:02:49 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) spawned
+Thu Apr 15 00:03:02 2021	Colonel Jacob Williams (STEAM_0:0:78717960): 
+Thu Apr 15 00:03:06 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): /setspawn allies_gb_colonel
+Thu Apr 15 00:03:54 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) spawned
+Thu Apr 15 00:04:09 2021	Colonel Jacob Williams (STEAM_0:0:78717960): 
+Thu Apr 15 00:04:41 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) spawned
+Thu Apr 15 00:04:48 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): /setspawn allies_gb_enlisted
+Thu Apr 15 00:04:51 2021	Colonel Jacob Williams (STEAM_0:0:78717960): 
+Thu Apr 15 00:04:51 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): /setspawn allies_gb_nco
+Thu Apr 15 00:04:55 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): /setspawn allies_gb_officer
+Thu Apr 15 00:04:59 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): /setspawn allies_gb_paratrooper
+Thu Apr 15 00:05:07 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): /setspawn allies_gb_paratrooper_officer
+Thu Apr 15 00:05:29 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) spawned
+Thu Apr 15 00:05:52 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) spawned
+Thu Apr 15 00:06:01 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): /setspawn allies_gb_reme
+Thu Apr 15 00:06:18 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) spawned
+Thu Apr 15 00:06:29 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) spawned
+Thu Apr 15 00:07:31 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): /balance
+Thu Apr 15 00:08:06 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381) spawned SENT doi_atow_attpack_boltactions
+Thu Apr 15 00:08:12 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Thu Apr 15 00:08:26 2021	Colonel Jacob Williams (STEAM_0:0:78717960): /name apis
+Thu Apr 15 00:08:38 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): ,!forcename
+Thu Apr 15 00:08:41 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): ,/forcerpname
+Thu Apr 15 00:08:50 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): !eidtshop
+Thu Apr 15 00:08:51 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Thu Apr 15 00:09:00 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): doi_atow_attpack_boltactions
+Thu Apr 15 00:09:02 2021	General Dwight.D Eisenhower (STEAM_0:1:217228381): 
+Thu Apr 15 00:09:50 2021	Colonel Jacob Williams (STEAM_0:0:78717960): 
+Thu Apr 15 00:09:59 2021	Colonel Jacob Williams (STEAM_0:0:78717960): 
+Thu Apr 15 00:11:03 2021	Colonel Jacob Williams was killed by Himself with a suicide trick
+Thu Apr 15 00:11:03 2021	Colonel Jacob Williams (STEAM_0:0:78717960): 
+Thu Apr 15 00:11:04 2021	Colonel Jacob Williams (STEAM_0:0:78717960) spawned
+Thu Apr 15 00:11:14 2021	Colonel Jacob Williams (STEAM_0:0:78717960): 
+Thu Apr 15 00:14:29 2021	Colonel Jacob Williams was killed by General Dwight.D Eisenhower with a doi_atow_owen
+Thu Apr 15 00:14:30 2021	Colonel Jacob Williams (STEAM_0:0:78717960) spawned
+Thu Apr 15 00:14:33 2021	General Dwight.D Eisenhower was killed by Colonel Jacob Williams with a doi_atow_m1911a1

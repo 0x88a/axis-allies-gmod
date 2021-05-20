@@ -1,0 +1,42 @@
+{
+	"ProgressBar": false,
+	"IconBackgroundColor": {
+		"r": 255.0,
+		"b": 255.0,
+		"a": 255.0,
+		"g": 255.0
+	},
+	"BorderWidth": 0.0,
+	"Blur": false,
+	"BorderColor": {
+		"r": 0.0,
+		"b": 0.0,
+		"a": 255.0,
+		"g": 0.0
+	},
+	"BorderRounding": 2.0,
+	"CornerRounding": 4.0,
+	"BackgroundColor": {
+		"r": 0.0,
+		"b": 0.0,
+		"a": 255.0,
+		"g": 0.0
+	},
+	"UseBorders": false,
+	"IconPack": "nolan",
+	"ProgressHeight": 0.2,
+	"TextColor": {
+		"r": 255.0,
+		"b": 255.0,
+		"a": 255.0,
+		"g": 255.0
+	},
+	"Font": "Roboto",
+	"ShowIcon": true,
+	"ProgressColor": {
+		"r": 255.0,
+		"b": 255.0,
+		"a": 255.0,
+		"g": 255.0
+	}
+}

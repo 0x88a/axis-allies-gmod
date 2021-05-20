@@ -1,0 +1,657 @@
+Sun Apr 11 13:42:32 2021	Jefff (STEAM_0:1:217228381) has joined the game
+Sun Apr 11 13:42:32 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 13:44:16 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 13:45:27 2021	Jefff was killed by Himself with a suicide trick
+Sun Apr 11 13:45:28 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 13:48:52 2021	Jefff was killed by Himself with a suicide trick
+Sun Apr 11 13:48:53 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 13:49:15 2021	Jefff (STEAM_0:1:217228381): /setspawn axis_brigadefuhrer
+Sun Apr 11 13:49:19 2021	Jefff (STEAM_0:1:217228381): /setspawn axis_generalmajor
+Sun Apr 11 13:49:22 2021	Jefff (STEAM_0:1:217228381): /setspawn axis_oberst
+Sun Apr 11 13:49:28 2021	Jefff (STEAM_0:1:217228381): /setspawn axis_oberfuhrer
+Sun Apr 11 14:00:06 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 14:01:42 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 14:02:06 2021	neflictus (STEAM_0:1:59789080) has joined the game
+Sun Apr 11 14:02:06 2021	neflictus (STEAM_0:1:59789080) spawned
+Sun Apr 11 14:02:16 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 14:02:29 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 14:04:09 2021	neflictus (STEAM_0:1:59789080): Hello there
+Sun Apr 11 14:04:31 2021	neflictus (STEAM_0:1:59789080): this is already decent
+Sun Apr 11 14:04:53 2021	neflictus (STEAM_0:1:59789080): Either works
+Sun Apr 11 14:05:06 2021	neflictus (STEAM_0:1:59789080): Allies, I guess?
+Sun Apr 11 14:05:16 2021	Jefff (STEAM_0:1:217228381): !whitelist
+Sun Apr 11 14:05:21 2021	neflictus (STEAM_0:1:59789080): .!bwhitelist
+Sun Apr 11 14:05:24 2021	Jefff was killed by Entity [45][env_explosion] with a env_explosion
+Sun Apr 11 14:05:24 2021	neflictus (STEAM_0:1:59789080): or Whitelist_menu in console
+Sun Apr 11 14:05:26 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 14:05:35 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 14:05:51 2021	neflictus (STEAM_0:1:59789080) spawned
+Sun Apr 11 14:06:11 2021	neflictus (STEAM_0:1:59789080): /rpname US 4th INF PVT Sam Johnson
+Sun Apr 11 14:06:30 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): This is fine
+Sun Apr 11 14:06:44 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /me Strips all weapons, comms, and gear, then disables all cloaks and jetpacks/boots, before applying force shackles
+Sun Apr 11 14:06:54 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): juicy
+Sun Apr 11 14:06:54 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 14:06:57 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): 
+Sun Apr 11 14:07:07 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Not exactly much one can do with allies vs axis
+Sun Apr 11 14:07:10 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): It's a PVP, enough said
+Sun Apr 11 14:07:16 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): At worst, probably a tank division
+Sun Apr 11 14:07:34 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): OOOH
+Sun Apr 11 14:07:39 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): New NPC spawner for PVE?
+Sun Apr 11 14:07:45 2021	Jefff (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Sun Apr 11 14:07:50 2021	Jefff (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Sun Apr 11 14:08:00 2021	Jefff (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Sun Apr 11 14:08:23 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): The only real thing that can be changed is the SS' FG job
+Sun Apr 11 14:08:31 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): The Waffen-SS didn't have Felgdendarmerie per se'
+Sun Apr 11 14:08:34 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): They had simply Gendarmerie
+Sun Apr 11 14:08:44 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): FG was Wehrmacht
+Sun Apr 11 14:08:50 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Fair ig
+Sun Apr 11 14:09:16 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Not as of yet
+Sun Apr 11 14:09:21 2021	Francis (STEAM_0:1:48150892) has joined the game
+Sun Apr 11 14:09:21 2021	Francis (STEAM_0:1:48150892) spawned
+Sun Apr 11 14:09:21 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): That may be because
+Sun Apr 11 14:09:27 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): I have played this shit of a game for over 4000 hours
+Sun Apr 11 14:09:40 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): And I have every single imaginable addon installed
+Sun Apr 11 14:09:56 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Well for starters just keep it simple
+Sun Apr 11 14:09:59 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Always works
+Sun Apr 11 14:09:59 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 14:10:05 2021	Francis (STEAM_0:1:48150892): yo
+Sun Apr 11 14:10:21 2021	Francis (STEAM_0:1:48150892) disconnected
+Sun Apr 11 14:10:39 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 14:10:42 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Well they're just paratrooper boys
+Sun Apr 11 14:10:48 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 14:10:53 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 14:11:00 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 14:11:01 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): It ain't that bad
+Sun Apr 11 14:11:06 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Unless you take into consideration their beautiful A-pose
+Sun Apr 11 14:11:27 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): This model is
+Sun Apr 11 14:11:28 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Brilliant
+Sun Apr 11 14:11:41 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): To be fair
+Sun Apr 11 14:11:47 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): You wouldn't really see a general out in the field that often
+Sun Apr 11 14:11:56 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Not even Colonel
+Sun Apr 11 14:12:03 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 14:12:05 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): At best they give out VERY ABSTRACT orders
+Sun Apr 11 14:12:09 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Like capture this point
+Sun Apr 11 14:12:17 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): The CO's get in the action with their subordinates and actually coordinate stuff
+Sun Apr 11 14:12:22 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Fair
+Sun Apr 11 14:12:28 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 14:12:34 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Any CO beyond Company Grade wouldn't really see combat, unless in exceptional scenarios
+Sun Apr 11 14:12:41 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 14:12:59 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): High Command would really only be for passive RP
+Sun Apr 11 14:13:00 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): If you have like
+Sun Apr 11 14:13:02 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Radios or /comms
+Sun Apr 11 14:13:04 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /comms test
+Sun Apr 11 14:13:05 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /radio test
+Sun Apr 11 14:13:07 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /advert test
+Sun Apr 11 14:13:08 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): nevermind
+Sun Apr 11 14:13:11 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Advert works
+Sun Apr 11 14:13:16 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /g test
+Sun Apr 11 14:13:20 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): True
+Sun Apr 11 14:13:23 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 14:13:42 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 14:13:49 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Sure
+Sun Apr 11 14:14:18 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Don't go to Berlin
+Sun Apr 11 14:14:20 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Berlin's kinda boring
+Sun Apr 11 14:14:25 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Everyone knows Berlin
+Sun Apr 11 14:14:33 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): It can be fun but 
+Sun Apr 11 14:14:38 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): More custom and weird maps nobody's seen like this
+Sun Apr 11 14:14:41 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Brings new experiences
+Sun Apr 11 14:14:53 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 14:14:54 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Every single person has seen or played in 1942 Berlin by Mike
+Sun Apr 11 14:14:56 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Or alternate versions
+Sun Apr 11 14:15:03 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): But I can guarantee very few people have seen
+Sun Apr 11 14:15:04 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): ALL THE VARIATIONS
+Sun Apr 11 14:15:08 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): of the WW2 battle maps
+Sun Apr 11 14:15:13 2021	Jefff was killed by Himself with a suicide trick
+Sun Apr 11 14:15:15 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 14:15:16 2021	US 4th INF PVT Sam Johnson was killed by Himself with a suicide trick
+Sun Apr 11 14:15:18 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080) spawned
+Sun Apr 11 14:15:27 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): God help us all
+Sun Apr 11 14:15:39 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Do they actually get arty strikes?
+Sun Apr 11 14:15:48 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Oh GOd.
+Sun Apr 11 14:15:55 2021	Jefff (STEAM_0:1:217228381) spawned SENT gred_emp_3inchmortar
+Sun Apr 11 14:16:01 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): We'll be seeying Major Generals rushing in the frontlines to call in airstrikes
+Sun Apr 11 14:16:02 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): :pog:
+Sun Apr 11 14:16:08 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Getting fucking
+Sun Apr 11 14:16:09 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Sniped
+Sun Apr 11 14:16:12 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): in 3 seconds
+Sun Apr 11 14:16:18 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): well
+Sun Apr 11 14:16:21 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Now they'll get sniped
+Sun Apr 11 14:16:22 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): And be useless
+Sun Apr 11 14:16:24 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): At the same time
+Sun Apr 11 14:16:31 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): That is cool
+Sun Apr 11 14:16:37 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Albeit mortars are rather hard to use efficiently
+Sun Apr 11 14:16:43 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): OH NOW IT COMES
+Sun Apr 11 14:16:53 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Yeah
+Sun Apr 11 14:17:01 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): But this is like a huge hedge and urban map
+Sun Apr 11 14:17:05 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Can hardly see someone use a mortar efficiently
+Sun Apr 11 14:17:15 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /ooc Werwelsburg castle?
+Sun Apr 11 14:17:24 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): AW MAN
+Sun Apr 11 14:17:33 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): if you give them shotguns
+Sun Apr 11 14:17:34 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Don't
+Sun Apr 11 14:17:35 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Give
+Sun Apr 11 14:17:36 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Them
+Sun Apr 11 14:17:37 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Slug
+Sun Apr 11 14:17:38 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Rounds
+Sun Apr 11 14:17:42 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Those shits are SNIPERS
+Sun Apr 11 14:17:51 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): YOU CAN USE THE SHOTGUN WITH SLUG ROUNDS AS A SNIPER
+Sun Apr 11 14:18:01 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Fair
+Sun Apr 11 14:18:10 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 14:18:11 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): But you'll probably get grenade'd 100 times before you capture that point anyway
+Sun Apr 11 14:18:14 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Guess teamwork will work best here
+Sun Apr 11 14:18:19 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): To be fair
+Sun Apr 11 14:18:27 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): I don't see where you'll be able to effectively use tanks on this map
+Sun Apr 11 14:18:28 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): sure
+Sun Apr 11 14:18:30 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): sthese little
+Sun Apr 11 14:18:32 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): alleyways
+Sun Apr 11 14:18:34 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): maybe holding them down
+Sun Apr 11 14:18:40 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): but if the tank's going up against infantry
+Sun Apr 11 14:18:41 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Good luck
+Sun Apr 11 14:18:54 2021	Jefff (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Sun Apr 11 14:18:56 2021	Jefff (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Sun Apr 11 14:19:04 2021	Jefff (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Sun Apr 11 14:19:06 2021	Jefff (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Sun Apr 11 14:19:13 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Let's go inside the enemy occupied city with a porsche, Hanz!
+Sun Apr 11 14:19:21 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): We'll show off on those american pigs
+Sun Apr 11 14:19:41 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): a crate
+Sun Apr 11 14:19:49 2021	Jefff (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Sun Apr 11 14:20:07 2021	Jefff (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Sun Apr 11 14:20:38 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Ultimate Pogchamp position?
+Sun Apr 11 14:20:56 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 14:21:09 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /ooc Escape from Tarkov but it's Gmod
+Sun Apr 11 14:21:14 2021	Jefff (STEAM_0:1:217228381): // yea exactly
+Sun Apr 11 14:21:23 2021	Jefff (STEAM_0:1:217228381): // I hope the gunplay is at least decent
+Sun Apr 11 14:21:32 2021	Jefff (STEAM_0:1:217228381): // its max 32 players on purpose, to prevent lag as much as possible
+Sun Apr 11 14:21:35 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): 
+Sun Apr 11 14:21:42 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /ooc depends on your server hoster
+Sun Apr 11 14:21:50 2021	Jefff (STEAM_0:1:217228381): // my hosting is chill asf
+Sun Apr 11 14:21:56 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /ooc I'm a GM on a SW RP server, we get about 60 players a day, no problemos
+Sun Apr 11 14:22:05 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /ooc Albeit the server hosting does cost 80$ per week, cough
+Sun Apr 11 14:22:06 2021	Jefff (STEAM_0:1:217228381): // oh nice, what server?
+Sun Apr 11 14:22:09 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /ooc Solaris
+Sun Apr 11 14:22:13 2021	Jefff (STEAM_0:1:217228381): // never playedd
+Sun Apr 11 14:22:16 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /ooc Same.
+Sun Apr 11 14:22:30 2021	Jefff (STEAM_0:1:217228381): // pretty sure you get moeny for points
+Sun Apr 11 14:22:32 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 14:22:36 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /ooc No we don't really get shit
+Sun Apr 11 14:22:40 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): It's just
+Sun Apr 11 14:22:42 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 14:22:43 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Painful existence
+Sun Apr 11 14:22:51 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): get made to do 3 events per day
+Sun Apr 11 14:22:54 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Really uncoolio
+Sun Apr 11 14:22:58 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): But the somewhat
+Sun Apr 11 14:23:03 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Satisfaction you get from hosting Debriefs
+Sun Apr 11 14:23:09 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Having 50 retards listen to you as you explain to them
+Sun Apr 11 14:23:13 2021	Jefff (STEAM_0:1:217228381): lmao
+Sun Apr 11 14:23:15 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): That they've just killed metal inanimate objects
+Sun Apr 11 14:23:24 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): And left an entire planet's worth of civliians homeless
+Sun Apr 11 14:23:29 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): There's just a fucking satisfaction to it
+Sun Apr 11 14:23:40 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): FAX
+Sun Apr 11 14:23:41 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): FAAAAAAX
+Sun Apr 11 14:24:05 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): I have learned from the SW RP server I GM on that you **CANNOT** rely on players to RP
+Sun Apr 11 14:24:10 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Hear me out
+Sun Apr 11 14:24:13 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): I had these 4 retards
+Sun Apr 11 14:24:16 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): SPECIAL FORCES, MIND YOU
+Sun Apr 11 14:24:19 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Hack into a console
+Sun Apr 11 14:24:19 2021	Jefff (STEAM_0:1:217228381): https://darklight.xyz/panel/sharex/dyj3s2Hg.jpg
+Sun Apr 11 14:24:22 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Took em 13 minutes
+Sun Apr 11 14:24:24 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): The dumbasses
+Sun Apr 11 14:24:30 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Said it took to long and kicked the door
+Sun Apr 11 14:24:33 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Kicked the console*
+Sun Apr 11 14:24:37 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Event Manager goes like:
+Sun Apr 11 14:24:41 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Okay the 13 minute timer is reset
+Sun Apr 11 14:24:50 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Sure
+Sun Apr 11 14:24:57 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Sure
+Sun Apr 11 14:25:01 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): I'll just explore
+Sun Apr 11 14:25:04 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): The
+Sun Apr 11 14:25:08 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): SUSPICIOUSLY detailed map
+Sun Apr 11 14:25:15 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Forreal 1942 Berlin is less detailed than this shit
+Sun Apr 11 14:25:25 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): True
+Sun Apr 11 14:25:26 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 14:25:33 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): 
+Sun Apr 11 14:25:50 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): I mean this is kind of what WW2 looked like
+Sun Apr 11 14:25:59 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): yup
+Sun Apr 11 14:26:25 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): To be fair for mostly Combat Servers
+Sun Apr 11 14:26:30 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): You really only just need someone to heal
+Sun Apr 11 14:26:32 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): And someone to command
+Sun Apr 11 14:26:36 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Heal=Medic
+Sun Apr 11 14:26:38 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): NCO's and CO's command
+Sun Apr 11 14:26:51 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): But for this to be effective you just kinda need 2-3 competent people
+Sun Apr 11 14:26:53 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): And you're just bueno
+Sun Apr 11 14:26:58 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Ooh
+Sun Apr 11 14:27:00 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): I know this one, it's cool
+Sun Apr 11 14:27:26 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Trueeee
+Sun Apr 11 14:27:27 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 14:27:37 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): uh
+Sun Apr 11 14:27:44 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): meteor?
+Sun Apr 11 14:27:49 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): The
+Sun Apr 11 14:27:51 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): What
+Sun Apr 11 14:28:08 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): wtf
+Sun Apr 11 14:28:27 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): THis is fine
+Sun Apr 11 14:28:30 2021	Jefff was killed by Entity [369][sw_meteor] with a sw_meteor
+Sun Apr 11 14:28:32 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): 
+Sun Apr 11 14:28:34 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 14:28:35 2021	Jefff (STEAM_0:1:217228381): // bruh
+Sun Apr 11 14:28:46 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): LET ME IN
+Sun Apr 11 14:28:48 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): LEEET ME IN
+Sun Apr 11 14:28:55 2021	Jefff (STEAM_0:1:217228381): /advert We declare war! 
+Sun Apr 11 14:29:05 2021	Jefff (STEAM_0:1:217228381): !men
+Sun Apr 11 14:29:07 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /advert Aren't we already at war mate?
+Sun Apr 11 14:29:13 2021	Jefff (STEAM_0:1:217228381): /advert Shut up PVT
+Sun Apr 11 14:29:14 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 14:29:25 2021	Jefff was killed by Entity [0][worldspawn] with a unknown
+Sun Apr 11 14:29:32 2021	Jefff (STEAM_0:1:217228381): // i just got fucking struck by lightning
+Sun Apr 11 14:29:33 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 14:29:34 2021	Jefff (STEAM_0:1:217228381): // i just got fucking struck by lightning
+Sun Apr 11 14:29:36 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 14:29:42 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /ooc JESUS THIS MAP IS DETAILED
+Sun Apr 11 14:30:22 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /ooc this map is insanity
+Sun Apr 11 14:30:30 2021	Jefff (STEAM_0:1:217228381): // theres a bunch more- its great
+Sun Apr 11 14:30:33 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /ooc COD Camper's wet dream
+Sun Apr 11 14:31:17 2021	Jefff was killed by US 4th INF PVT Sam Johnson with a doi_atow_m1garand
+Sun Apr 11 14:31:19 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 14:31:27 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 14:31:34 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /ooc it's so easy to just lose someone that's chasing you I love it
+Sun Apr 11 14:31:42 2021	Jefff (STEAM_0:1:217228381): // its acc great
+Sun Apr 11 14:31:43 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /ooc makes people actually use their brain to survive
+Sun Apr 11 14:31:50 2021	Jefff (STEAM_0:1:217228381): // ima make the points like 30 seconds to cap
+Sun Apr 11 14:31:51 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /ooc Thing which many Gmod players don't like to do sadly
+Sun Apr 11 14:31:53 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 14:32:03 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 14:32:10 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 14:32:18 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 14:33:06 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /ooc there's 50 ways to enter 1 building this is insane
+Sun Apr 11 14:33:10 2021	Jefff (STEAM_0:1:217228381): // ikr
+Sun Apr 11 14:33:24 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /ooc It's both anti camper and promotes camping
+Sun Apr 11 14:33:42 2021	Jefff (STEAM_0:1:217228381): // and lots of different playstyles
+Sun Apr 11 14:33:50 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /ooc best one is Nomad, by far
+Sun Apr 11 14:34:08 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /ooc The only real way you'll do teamwork is, ironically, by splitting up
+Sun Apr 11 14:34:10 2021	Jefff (STEAM_0:1:217228381): // i ordered too many
+Sun Apr 11 14:34:28 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /ooc There's waaaaaay too less space for a team to move in this town without getting capped
+Sun Apr 11 14:34:40 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /ooc but if you move in groups of 2, mmm, juicy
+Sun Apr 11 14:35:06 2021	Jefff (STEAM_0:1:217228381): // tryna fix that annoying ass fog
+Sun Apr 11 14:35:08 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /ooc There's also the paradox of the ,,secluded roads''
+Sun Apr 11 14:35:22 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /ooc This map has a lot of secluded roads, but most of them connect to a main road
+Sun Apr 11 14:35:24 2021	Jefff (STEAM_0:1:217228381): /advert The Fountain is ours! Surrender now
+Sun Apr 11 14:35:33 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /ooc Which begs the question, are the secluded roads really secluded?
+Sun Apr 11 14:35:49 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /advert Go on, go on, there's still quite a lotta road you gotta travel to get to America
+Sun Apr 11 14:35:52 2021	Jefff (STEAM_0:1:217228381): // i need to remove all the darkrp  stuff for non-admins
+Sun Apr 11 14:35:58 2021	Jefff (STEAM_0:1:217228381): // like q menu and context menu
+Sun Apr 11 14:36:06 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /ooc nooo
+Sun Apr 11 14:36:11 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /ooc let people watch something if they're bored or alone
+Sun Apr 11 14:36:19 2021	Jefff (STEAM_0:1:217228381): // wdym
+Sun Apr 11 14:36:20 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /ooc as long as they can't spawn anything, there's no harm done
+Sun Apr 11 14:36:30 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 14:36:30 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): 
+Sun Apr 11 14:36:47 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /ooc context menu for modyfying their character , Q menu for just fucking about looking at whatcha server's got
+Sun Apr 11 14:36:57 2021	Jefff (STEAM_0:1:217228381): // oh yeah, ill remove all but bodygroupr
+Sun Apr 11 14:37:04 2021	Jefff (STEAM_0:1:217228381): // and thirdpersonw
+Sun Apr 11 14:37:08 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /ooc there you go
+Sun Apr 11 14:37:17 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 14:37:36 2021	Jefff (STEAM_0:1:217228381): // where in the heck are you
+Sun Apr 11 14:37:44 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /ooc look, this town is big
+Sun Apr 11 14:37:49 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /ooc I memorised it already
+Sun Apr 11 14:37:56 2021	Jefff (STEAM_0:1:217228381): // l mao
+Sun Apr 11 14:37:58 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /ooc it ain't exactly hard to avoid someone
+Sun Apr 11 14:38:00 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): 
+Sun Apr 11 14:38:15 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /ooc even if you're not trying
+Sun Apr 11 14:38:18 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 14:38:22 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 14:38:27 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /ooc the soldiers blend really well with the enviorment
+Sun Apr 11 14:38:30 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 14:38:55 2021	Jefff (STEAM_0:1:217228381): /advert Surrender your base now!
+Sun Apr 11 14:39:11 2021	US 4th INF PVT Sam Johnson was killed by Jefff with a doi_atow_p08
+Sun Apr 11 14:39:12 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080) spawned
+Sun Apr 11 14:39:20 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): 
+Sun Apr 11 14:39:22 2021	Jefff (STEAM_0:1:217228381): // gold luger with heavy bullets is deadky
+Sun Apr 11 14:39:33 2021	Jefff was killed by US 4th INF PVT Sam Johnson with a doi_atow_m1garand
+Sun Apr 11 14:39:36 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 14:39:46 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /ooc I've got no idea how you managed to take 6-8 garand shots and survive
+Sun Apr 11 14:39:50 2021	Jefff (STEAM_0:1:217228381): // i gotta change the notifications
+Sun Apr 11 14:39:58 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): 
+Sun Apr 11 14:40:04 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): 
+Sun Apr 11 14:40:05 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): 
+Sun Apr 11 14:40:07 2021	Jefff (STEAM_0:1:217228381): // i had nice ones but they fucked the server
+Sun Apr 11 14:40:13 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): 
+Sun Apr 11 14:40:19 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /ooc pog
+Sun Apr 11 14:40:41 2021	Jefff (STEAM_0:1:217228381): /advert I AM THE MILKMAN
+Sun Apr 11 14:41:30 2021	US 4th INF PVT Sam Johnson was killed by Entity [0][worldspawn] with a unknown
+Sun Apr 11 14:41:31 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080) spawned
+Sun Apr 11 14:42:17 2021	Jefff (STEAM_0:1:217228381): // im sorry but its over for you
+Sun Apr 11 14:42:50 2021	Jefff was killed by US 4th INF PVT Sam Johnson with a doi_atow_m1garand
+Sun Apr 11 14:42:52 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 14:42:54 2021	Jefff (STEAM_0:1:217228381): // NOOOOO
+Sun Apr 11 14:43:04 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /ooc Remember Starwars RP?
+Sun Apr 11 14:44:04 2021	Jefff (STEAM_0:1:217228381): // you should prolly capture points
+Sun Apr 11 14:44:15 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /ooc Is there a lose mechanic if you don;t
+Sun Apr 11 14:44:21 2021	Jefff (STEAM_0:1:217228381): // no
+Sun Apr 11 14:44:40 2021	US 4th INF PVT Sam Johnson was killed by Jefff with a cw_ak74
+Sun Apr 11 14:44:41 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080) spawned
+Sun Apr 11 14:44:57 2021	Jefff (STEAM_0:1:217228381): // most poggers gun
+Sun Apr 11 14:45:02 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080) disconnected
+Sun Apr 11 14:47:35 2021	Bot01 (BOT) has joined the game
+Sun Apr 11 14:47:35 2021	Bot01 (BOT) spawned
+Sun Apr 11 14:47:39 2021	Bot02 (BOT) has joined the game
+Sun Apr 11 14:47:39 2021	Bot02 (BOT) spawned
+Sun Apr 11 14:47:50 2021	neflictus (STEAM_0:1:59789080) has joined the game
+Sun Apr 11 14:47:50 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080) spawned
+Sun Apr 11 14:48:17 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): If I go outside of this spawn area
+Sun Apr 11 14:48:18 2021	Jefff (STEAM_0:1:217228381): /dropweapon
+Sun Apr 11 14:48:20 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): As a black man
+Sun Apr 11 14:48:22 2021	US 4th INF PVT Sam Johnson was killed by Jefff with a cw_ak74
+Sun Apr 11 14:48:25 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Do I get PK'd by Waffen-SS forces
+Sun Apr 11 14:48:25 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080) spawned
+Sun Apr 11 14:48:29 2021	Bot01 was killed by Jefff with a cw_ak74
+Sun Apr 11 14:48:30 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): do I get PK'd by Waffen-SS forces?
+Sun Apr 11 14:48:31 2021	Bot01 (BOT) spawned
+Sun Apr 11 14:48:31 2021	Bot02 was killed by Jefff with a cw_ak74
+Sun Apr 11 14:48:32 2021	Bot02 (BOT) spawned
+Sun Apr 11 14:48:43 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Lmfao
+Sun Apr 11 14:48:54 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): at least we spawn
+Sun Apr 11 14:48:58 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Next to the allied base
+Sun Apr 11 14:49:02 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): SO we don't get warcrimed
+Sun Apr 11 14:49:03 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Too oftne
+Sun Apr 11 14:49:13 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): I love me some warcrimes
+Sun Apr 11 14:49:14 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Tho
+Sun Apr 11 14:49:49 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /ooc the sheer amount of places you can hide in
+Sun Apr 11 14:49:58 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080) spawned
+Sun Apr 11 14:50:20 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): nop
+Sun Apr 11 14:50:31 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): I'll just vibe as a PVT for now
+Sun Apr 11 14:51:00 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): OOOOH
+Sun Apr 11 14:51:01 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): THOSE ARE
+Sun Apr 11 14:51:10 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): You are using what was his name
+Sun Apr 11 14:51:23 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): yep
+Sun Apr 11 14:51:37 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): You have Allermand.......I forgot his name
+Sun Apr 11 14:51:42 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): I don't think it's Allermand tho
+Sun Apr 11 14:51:49 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): There's this guy I knew from NaziRP
+Sun Apr 11 14:51:52 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): On Ultimate Networks
+Sun Apr 11 14:51:56 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): He made a fully custom SS Model
+Sun Apr 11 14:51:58 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Pack
+Sun Apr 11 14:52:04 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): And your model look a lot like his
+Sun Apr 11 14:52:18 2021	Jefff (STEAM_0:1:217228381): PM0V3
+Sun Apr 11 14:52:21 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Ahhh
+Sun Apr 11 14:52:22 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Those ones
+Sun Apr 11 14:52:32 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 14:52:34 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 14:52:37 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 14:52:44 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): I'd have given you Allermand's ones but I wasn't there when they were subsequently leaked
+Sun Apr 11 14:52:47 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): THose
+Sun Apr 11 14:52:49 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Were INSANITY
+Sun Apr 11 14:52:56 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Generals got so many modification options
+Sun Apr 11 14:52:58 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): THEY COULD HAVE CAPES
+Sun Apr 11 14:53:00 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): CAPES
+Sun Apr 11 14:53:03 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Imagine how cool that'd be
+Sun Apr 11 14:53:13 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 14:53:19 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): ooh
+Sun Apr 11 14:53:22 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): shiny
+Sun Apr 11 14:53:36 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Missing thou iron cross
+Sun Apr 11 14:53:56 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Second Class is good too
+Sun Apr 11 14:54:09 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Party Golden Badgeee
+Sun Apr 11 14:54:10 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): daym
+Sun Apr 11 14:54:17 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Isn't that the
+Sun Apr 11 14:54:21 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Circular NSDAP one?
+Sun Apr 11 14:54:23 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): with diamonds
+Sun Apr 11 14:54:28 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): CLOSE
+Sun Apr 11 14:54:30 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): I suppose
+Sun Apr 11 14:55:04 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): I don't even have a money slot that shows me how much cash I got
+Sun Apr 11 14:55:10 2021	Jefff (STEAM_0:1:217228381): ,/balance
+Sun Apr 11 14:55:12 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /balance
+Sun Apr 11 14:55:14 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): 600
+Sun Apr 11 14:55:34 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /me Strips all weapons, comms, and gear, then disables all cloaks and jetpacks/boots, before applying force shackles
+Sun Apr 11 14:55:36 2021	US 4th INF PVT Sam Johnson was killed by Himself with a suicide trick
+Sun Apr 11 14:55:37 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080) spawned
+Sun Apr 11 14:55:39 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /me Strips all weapons, comms, and gear, then disables all cloaks and jetpacks/boots, before applying force shackles
+Sun Apr 11 14:55:57 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /me Strips all weapons, comms, and gear, then disables all cloaks and jetpacks/boots, before applying force shackles
+Sun Apr 11 14:55:58 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /me Strips all weapons, comms, and gear, then disables all cloaks and jetpacks/boots, before applying force shackles
+Sun Apr 11 14:55:59 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /me Strips all weapons, comms, and gear, then disables all cloaks and jetpacks/boots, before applying force shackles
+Sun Apr 11 14:56:06 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): They actually used capes
+Sun Apr 11 14:56:09 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): To cover their uniforms
+Sun Apr 11 14:56:17 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): The Captain?
+Sun Apr 11 14:56:24 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Yeah
+Sun Apr 11 14:56:36 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): You now have one of the rarest awards
+Sun Apr 11 14:56:39 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): By simply pressing C
+Sun Apr 11 14:56:42 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): And a few clicks
+Sun Apr 11 14:56:43 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Congratulations
+Sun Apr 11 14:57:35 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): nop
+Sun Apr 11 14:57:43 2021	Jefff (STEAM_0:1:217228381): fuck
+Sun Apr 11 14:57:47 2021	Jefff (STEAM_0:1:217228381): i'm stuckl
+Sun Apr 11 14:57:48 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): owo what's this
+Sun Apr 11 14:57:53 2021	Jefff (STEAM_0:1:217228381): in the fucking tab menu
+Sun Apr 11 14:57:56 2021	Jefff (STEAM_0:1:217228381): im using consolee to write
+Sun Apr 11 14:58:09 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): OWO WHAT'S THIS NOTICES GENERALMAJOR OF THE WEHRMACHT ON THE GROUND UNABLE TO MOEV
+Sun Apr 11 14:58:20 2021	Jefff (STEAM_0:1:217228381): oh for fucks sake
+Sun Apr 11 14:58:21 2021	Jefff was killed by Himself with a suicide trick
+Sun Apr 11 14:58:22 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): lmao
+Sun Apr 11 14:58:28 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 14:58:37 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): lmao
+Sun Apr 11 14:58:46 2021	Jefff (STEAM_0:1:217228381): fly
+Sun Apr 11 14:58:58 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /ooc pogchamp
+Sun Apr 11 14:59:06 2021	Jefff (STEAM_0:1:217228381): im golnnna rejoin
+Sun Apr 11 14:59:08 2021	Jefff (STEAM_0:1:217228381) disconnected
+Sun Apr 11 14:59:14 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): /ooc STEP OWNER I'M STUCK
+Sun Apr 11 14:59:29 2021	Jefff (STEAM_0:1:217228381) has joined the game
+Sun Apr 11 14:59:29 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 15:00:02 2021	Jefff (STEAM_0:1:217228381): // oh ffs
+Sun Apr 11 15:00:23 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 15:00:27 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 15:00:42 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 15:00:46 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 15:00:49 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 15:00:58 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 15:01:02 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Mehgic
+Sun Apr 11 15:01:10 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 15:01:14 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 15:01:25 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Sick
+Sun Apr 11 15:03:23 2021	Jefff (STEAM_0:1:217228381): ko
+Sun Apr 11 15:03:25 2021	Jefff (STEAM_0:1:217228381): ok
+Sun Apr 11 15:03:27 2021	Jefff (STEAM_0:1:217228381): im stuck again
+Sun Apr 11 15:03:29 2021	Jefff (STEAM_0:1:217228381): HOWEVER
+Sun Apr 11 15:03:33 2021	Jefff (STEAM_0:1:217228381): can you come right next to me
+Sun Apr 11 15:03:42 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): How are you even typing if you're in the console
+Sun Apr 11 15:04:01 2021	Jefff (STEAM_0:1:217228381): by typing say mystuff
+Sun Apr 11 15:04:04 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): mystuff
+Sun Apr 11 15:04:07 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): say mystuff
+Sun Apr 11 15:04:09 2021	Jefff (STEAM_0:1:217228381): :)
+Sun Apr 11 15:04:19 2021	Jefff (STEAM_0:1:217228381): BRUH o]
+Sun Apr 11 15:05:04 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Your name is now
+Sun Apr 11 15:05:06 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Horizontal
+Sun Apr 11 15:05:09 2021	Jefff (STEAM_0:1:217228381): I KNOW
+Sun Apr 11 15:05:12 2021	Jefff (STEAM_0:1:217228381): iTS PISSSING ME OFF
+Sun Apr 11 15:05:22 2021	Jefff (STEAM_0:1:217228381): i want it above peoples heads
+Sun Apr 11 15:06:16 2021	Jefff (STEAM_0:1:217228381): im so confused
+Sun Apr 11 15:06:43 2021	Jefff (STEAM_0:1:217228381): OK PROGRESS
+Sun Apr 11 15:06:54 2021	Jefff (STEAM_0:1:217228381): how does mine look
+Sun Apr 11 15:07:00 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): normal
+Sun Apr 11 15:07:03 2021	Jefff (STEAM_0:1:217228381): mkkay
+Sun Apr 11 15:07:10 2021	Jefff (STEAM_0:1:217228381): can you look at me directly hea don
+Sun Apr 11 15:07:16 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Vertical
+Sun Apr 11 15:07:23 2021	Jefff (STEAM_0:1:217228381): like right in front of me
+Sun Apr 11 15:07:31 2021	Jefff (STEAM_0:1:217228381): ok good
+Sun Apr 11 15:07:34 2021	Jefff (STEAM_0:1:217228381): stay like dat
+Sun Apr 11 15:07:35 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): 
+Sun Apr 11 15:08:15 2021	Jefff (STEAM_0:1:217228381): oko
+Sun Apr 11 15:08:19 2021	Jefff (STEAM_0:1:217228381): how it look on me
+Sun Apr 11 15:08:32 2021	Jefff (STEAM_0:1:217228381): acc stay put i rejoin
+Sun Apr 11 15:08:34 2021	Jefff (STEAM_0:1:217228381) disconnected
+Sun Apr 11 15:08:55 2021	Jefff (STEAM_0:1:217228381) has joined the game
+Sun Apr 11 15:08:55 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 15:09:19 2021	Jefff (STEAM_0:1:217228381): its shambles
+Sun Apr 11 15:09:23 2021	US 4th INF PVT Sam Johnson (STEAM_0:1:59789080): Yes.
+Sun Apr 11 15:09:31 2021	Jefff (STEAM_0:1:217228381): /rpname 9oiuento9iasntgoiasdnokandtgnadsgtn
+Sun Apr 11 15:09:38 2021	Jefff (STEAM_0:1:217228381): !menuj
+Sun Apr 11 15:09:40 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 15:09:56 2021	Jefff (STEAM_0:1:217228381): h,
+Sun Apr 11 15:09:59 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): poggers?
+Sun Apr 11 15:10:06 2021	Jefff (STEAM_0:1:217228381): 
+Sun Apr 11 15:10:18 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): Superior Gmod Technology
+Sun Apr 11 15:10:22 2021	Jefff (STEAM_0:1:217228381): my slaves
+Sun Apr 11 15:10:27 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): Doesn't that make you racist
+Sun Apr 11 15:10:29 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): They're black
+Sun Apr 11 15:10:31 2021	Jefff (STEAM_0:1:217228381): flushed
+Sun Apr 11 15:10:42 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 15:10:46 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): Bro y'know racism is bad, it's plaguing our society 
+Sun Apr 11 15:10:54 2021	Jefff (STEAM_0:1:217228381): i dont really mind
+Sun Apr 11 15:11:02 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): come on man they're innocent blacks
+Sun Apr 11 15:11:09 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): everyone should be fighting racism
+Sun Apr 11 15:11:36 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): Hmm
+Sun Apr 11 15:11:43 2021	Jefff (STEAM_0:1:217228381): hm
+Sun Apr 11 15:12:51 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): Ype
+Sun Apr 11 15:12:52 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): gud
+Sun Apr 11 15:13:05 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): A bit
+Sun Apr 11 15:13:28 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): A biiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiit smaller but otherwise it's ok
+Sun Apr 11 15:14:03 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): gud
+Sun Apr 11 15:14:10 2021	Jefff (STEAM_0:1:217228381): /name Generalmajor Der Infantrie Jefff
+Sun Apr 11 15:14:19 2021	Jefff (STEAM_0:1:217228381): /name Generalmajor Willhelm Duseldorf
+Sun Apr 11 15:14:26 2021	Jefff (STEAM_0:1:217228381): /forcerpname Generalmajor Willhelm Duseldorf
+Sun Apr 11 15:14:30 2021	Jefff (STEAM_0:1:217228381): /forcerpname ^ Generalmajor Willhelm Duseldorf
+Sun Apr 11 15:14:34 2021	Jefff (STEAM_0:1:217228381): /forcerpname Jef Generalmajor Willhelm Duseldorf
+Sun Apr 11 15:14:34 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381) set Jefff's name to Generalmajor Willhelm Duseldorf
+Sun Apr 11 15:14:55 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): You can see it rather decently from even the max distance
+Sun Apr 11 15:15:37 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): wut
+Sun Apr 11 15:16:03 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): How'd he snitch?
+Sun Apr 11 15:16:14 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): /me Shows SOBDE ID
+Sun Apr 11 15:16:18 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): binds
+Sun Apr 11 15:16:21 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): I have way too many binds
+Sun Apr 11 15:16:23 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): /me Strips weapons, communications.
+Sun Apr 11 15:16:24 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): /me Salutes
+Sun Apr 11 15:16:25 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): /me Salutes
+Sun Apr 11 15:16:26 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): /me Strips all weapons, comms, and gear, then disables all cloaks and jetpacks/boots, before applying force shackles
+Sun Apr 11 15:16:27 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): /me Shows SOBDE ID
+Sun Apr 11 15:16:28 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): /me Shows SOBDE ID
+Sun Apr 11 15:16:29 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): 
+Sun Apr 11 15:16:29 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): 
+Sun Apr 11 15:16:30 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): 
+Sun Apr 11 15:16:34 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): /yell Tactical Retreat, everyone form up a firing line, and one by one retreat slowly, from right to left!
+Sun Apr 11 15:16:37 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): /yell Clear Left!
+Sun Apr 11 15:16:43 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): There's also like
+Sun Apr 11 15:16:47 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): 3 admin commands that I can't do
+Sun Apr 11 15:17:32 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): gud
+Sun Apr 11 15:17:40 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): Suit thousely
+Sun Apr 11 15:18:19 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): But they're black, that's racist you can't kill them, worldwide equality 
+Sun Apr 11 15:18:33 2021	Bot02 was killed by Generalmajor Willhelm Duseldorf with a doi_atow_mg42
+Sun Apr 11 15:18:34 2021	Bot02 (BOT) spawned
+Sun Apr 11 15:18:35 2021	Bot01 was killed by Generalmajor Willhelm Duseldorf with a doi_atow_mg42
+Sun Apr 11 15:18:36 2021	Bot01 (BOT) spawned
+Sun Apr 11 15:18:36 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): that's racist
+Sun Apr 11 15:18:43 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): BLM doe
+Sun Apr 11 15:18:57 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): BLM is good
+Sun Apr 11 15:19:12 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): fair
+Sun Apr 11 15:19:31 2021	US 4th INF PVT PVT SAM NASFASFASFASF was killed by NPC [380][npc_manhack] with a npc_manhack
+Sun Apr 11 15:19:32 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080) spawned
+Sun Apr 11 15:20:27 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): THE WARDROBE
+Sun Apr 11 15:20:28 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): LMAO
+Sun Apr 11 15:20:38 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 15:20:41 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): /ooc poggers?
+Sun Apr 11 15:20:55 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): /ooc POGGERS
+Sun Apr 11 15:21:12 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): AW MAN
+Sun Apr 11 15:21:14 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): AW MAN
+Sun Apr 11 15:21:19 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): JUMPING ON HEDGES WAS MY FAVORITE THING TO DO
+Sun Apr 11 15:21:37 2021	US 4th INF PVT PVT SAM NASFASFASFASF was killed by Generalmajor Willhelm Duseldorf with a doi_atow_p38
+Sun Apr 11 15:21:38 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080) spawned
+Sun Apr 11 15:21:43 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): // this means waR!
+Sun Apr 11 15:21:49 2021	Generalmajor Willhelm Duseldorf was killed by Himself with a suicide trick
+Sun Apr 11 15:21:51 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381) spawned
+Sun Apr 11 15:22:25 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Sun Apr 11 15:22:37 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): /ooc I have ascended
+Sun Apr 11 15:23:06 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Sun Apr 11 15:23:09 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Sun Apr 11 15:23:15 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Sun Apr 11 15:23:33 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): /ooc you are never gonna find me without noclip
+Sun Apr 11 15:23:40 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): /ooc or without a good eye
+Sun Apr 11 15:23:42 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): // i got a tank nigge
+Sun Apr 11 15:23:48 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): /ooc bro you can't say the nword
+Sun Apr 11 15:23:56 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): // rule 1. allow racism
+Sun Apr 11 15:24:08 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): /ooc this server's racist bro, we shouldn't be encouraging that
+Sun Apr 11 15:24:15 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): // bruhj
+Sun Apr 11 15:24:22 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): // idek if you being sarcastic...
+Sun Apr 11 15:24:26 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381) spawned SENT gred_emp_gpf155
+Sun Apr 11 15:24:31 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): /ooc I'm not
+Sun Apr 11 15:24:58 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): /advert come out and fight coward
+Sun Apr 11 15:25:01 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381) spawned SENT gred_emp_3inchmortar
+Sun Apr 11 15:25:15 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): /advert Coward? You're the one hiding in a tank, not me
+Sun Apr 11 15:25:20 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): /advert Im not in a tank!
+Sun Apr 11 15:25:30 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381) spawned SENT gred_emp_flak37
+Sun Apr 11 15:25:32 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): /advert You're the one hiding behind an altillery piece
+Sun Apr 11 15:25:40 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): /advert its actually a flak gun
+Sun Apr 11 15:25:46 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): /advert Altillery piece
+Sun Apr 11 15:25:58 2021	Generalmajor Willhelm Duseldorf was killed by Himself with a suicide trick
+Sun Apr 11 15:25:59 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): /ooc bro I found the perfect hiding spot
+Sun Apr 11 15:26:00 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381) spawned
+Sun Apr 11 15:26:02 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): /ooc Vietnameese US soldier
+Sun Apr 11 15:26:03 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 15:26:30 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): // i know exac how to solve this
+Sun Apr 11 15:26:34 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381) spawned SENT gb_bomb_2000gp
+Sun Apr 11 15:26:38 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 15:26:49 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381) spawned SENT gb_bomb_2000gp
+Sun Apr 11 15:26:49 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): /ooc I'm still alive
+Sun Apr 11 15:26:53 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381) spawned SENT gb_bomb_2000gp
+Sun Apr 11 15:27:04 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): /ooc still alive
+Sun Apr 11 15:27:08 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381) spawned SENT gb_bomb_2000gp
+Sun Apr 11 15:27:10 2021	Bot01 was killed by Entity [109][gb_bomb_2000gp] with a gb_bomb_2000gp
+Sun Apr 11 15:27:11 2021	Bot01 (BOT) spawned
+Sun Apr 11 15:27:12 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): /ooc still alive
+Sun Apr 11 15:27:13 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381) spawned SENT gb_bomb_gbu12
+Sun Apr 11 15:27:17 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): /ooc still alive
+Sun Apr 11 15:27:23 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 15:27:28 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): /ooc think I'm gonna need to bind this
+Sun Apr 11 15:27:33 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 15:27:42 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): /ooc now I'm stuck
+Sun Apr 11 15:27:43 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): /ooc shit
+Sun Apr 11 15:27:45 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): !silent
+Sun Apr 11 15:27:46 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 15:27:57 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 15:28:01 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 15:28:02 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): /ooc anyway
+Sun Apr 11 15:28:06 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): /ooc I'mma go like
+Sun Apr 11 15:28:12 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381) spawned SENT gb_bomb_2000gp
+Sun Apr 11 15:28:13 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): /ooc Troll some shitty 1942 RP servers
+Sun Apr 11 15:28:16 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): // mky
+Sun Apr 11 15:28:18 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381) spawned SENT gb_bomb_2000gp
+Sun Apr 11 15:28:25 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): /ooc Tell them I'm a BLM activist and that I love anti-racialism
+Sun Apr 11 15:28:28 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): // you deaD?
+Sun Apr 11 15:28:29 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): /ooc Heil Hitler brother!
+Sun Apr 11 15:28:32 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): /ooc nope
+Sun Apr 11 15:28:36 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381) spawned SENT gb_bomb_2000gp
+Sun Apr 11 15:28:42 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381) spawned SENT gb_bomb_2000gp
+Sun Apr 11 15:28:43 2021	US 4th INF PVT PVT SAM NASFASFASFASF was killed by Entity [157][gb_bomb_2000gp] with a gb_bomb_2000gp
+Sun Apr 11 15:28:44 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080) spawned
+Sun Apr 11 15:28:47 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): /ooc now I'm dead
+Sun Apr 11 15:29:02 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): /ooc oiii
+Sun Apr 11 15:29:05 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 15:29:24 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): Give me the discord
+Sun Apr 11 15:29:27 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): /y !discord
+Sun Apr 11 15:29:29 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): 
+Sun Apr 11 15:29:42 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381) spawned SENT gb_bomb_sc500
+Sun Apr 11 15:29:46 2021	Bot01 was killed by Entity [109][gb_bomb_sc500] with a gb_bomb_sc500
+Sun Apr 11 15:29:46 2021	Bot02 was killed by Entity [109][gb_bomb_sc500] with a gb_bomb_sc500
+Sun Apr 11 15:29:46 2021	Generalmajor Willhelm Duseldorf was killed by Entity [109][gb_bomb_sc500] with a gb_bomb_sc500
+Sun Apr 11 15:29:46 2021	US 4th INF PVT PVT SAM NASFASFASFASF was killed by Entity [109][gb_bomb_sc500] with a gb_bomb_sc500
+Sun Apr 11 15:29:47 2021	Bot01 (BOT) spawned
+Sun Apr 11 15:29:47 2021	Bot02 (BOT) spawned
+Sun Apr 11 15:29:52 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381) spawned
+Sun Apr 11 15:29:53 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080) spawned
+Sun Apr 11 15:30:02 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): interesting discord
+Sun Apr 11 15:30:21 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): Fascinating
+Sun Apr 11 15:30:26 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): If you ever wanna make a discord server
+Sun Apr 11 15:30:30 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): Go with something rare and self sustaining
+Sun Apr 11 15:30:36 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): Like WW2 Axis RP as you did now
+Sun Apr 11 15:30:43 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): But WW2 stuff is regretably dying
+Sun Apr 11 15:31:00 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): I've no idea how to allign names pog
+Sun Apr 11 15:31:18 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): opa
+Sun Apr 11 15:31:19 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): there we go
+Sun Apr 11 15:31:27 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080):  t e s t
+Sun Apr 11 15:31:50 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): 
+Sun Apr 11 15:32:09 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): The name is behind the speaking icon
+Sun Apr 11 15:32:27 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): A bit yes
+Sun Apr 11 15:32:39 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): Now it's above
+Sun Apr 11 15:32:52 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): Your name actually dissapears
+Sun Apr 11 15:32:56 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): When you're talking
+Sun Apr 11 15:33:04 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): Now it's back again
+Sun Apr 11 15:33:11 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): Now the name stays still forever
+Sun Apr 11 15:33:22 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): Seems to me at least
+Sun Apr 11 15:33:29 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080): 
+Sun Apr 11 15:34:45 2021	US 4th INF PVT PVT SAM NASFASFASFASF (STEAM_0:1:59789080) disconnected
+Sun Apr 11 15:35:53 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 15:35:53 2021	Bot01 (BOT) disconnected
+Sun Apr 11 15:35:54 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 
+Sun Apr 11 15:35:54 2021	Bot02 (BOT) disconnected
+Sun Apr 11 16:01:32 2021	Generalmajor Willhelm Duseldorf (STEAM_0:1:217228381): 

@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"		"Administration Stick”
+	"version"	“1.5.8”
+	"up_date"	"2020"
+	"author_name"	"Crap-Head"
+	"author_url"	"https://www.gmodstore.com/users/crap-head"
+	"info"		"This weapon makes the lives of your moderators a lot easier. With a simple weapon your moderators can now perform actions, that would require typing ULX commands or other admin commands out. It has never been easier!"
+}

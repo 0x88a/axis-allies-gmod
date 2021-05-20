@@ -1,0 +1,1 @@
+{"WorldModel":"models/weapons/w_toolgun.mdl","ViewModel":"models/weapons/v_toolgun.mdl","Base":"weapon_base","PrintName":"Repair Tool","ViewModelFOV":74.0,"Instructions":"Repair Tool","Author":"","UseHands":true,"Purpose":"","HoldType":"revolver"}

@@ -1,0 +1,1 @@
+{"Primary | Cone":3.0,"Primary | Ammo":"13×92MM","Primary | Recoil":3.0,"Sprint":0.0,"Primary | DefaultClip":5.0,"Primary | NumberofShots":1.0,"Primary | Spread":100.0,"DrawAmmo":true,"Secondary | ClipSize":5.0,"Secondary | Ammo":"none","Primary | Force":1.0,"Primary | ClipSize":5.0,"Primary | Delay":7.0,"Primary | TakeAmmo":1.0,"Secondary | DefaultClip":5.0}

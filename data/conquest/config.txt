@@ -1,0 +1,1 @@
+{"chatCommand":"!conq","intRenderDist":2000.0,"enabledMap":true,"annouceCaptures":true,"rewardTickAmount":30.0,"useRenderDist":true}

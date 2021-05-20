@@ -1,0 +1,12 @@
+Sun Apr 11 20:51:31 2021	Jefff (STEAM_0:1:217228381) has joined the game
+Sun Apr 11 20:51:32 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 20:52:34 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 20:53:16 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 20:53:24 2021	Jefff (STEAM_0:1:217228381): /setspawn axis_ss_colonel
+Sun Apr 11 20:53:39 2021	Jefff (STEAM_0:1:217228381): /setspawn axis_w_oberst
+Sun Apr 11 20:53:46 2021	Jefff (STEAM_0:1:217228381): /setspawn axis_ss_oberfuhrer
+Sun Apr 11 20:53:51 2021	Jefff (STEAM_0:1:217228381): /setspawn axis_ss_sturmbannfuhrer
+Sun Apr 11 20:53:54 2021	Jefff (STEAM_0:1:217228381): /setspawn axis_w_major
+Sun Apr 11 20:54:02 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 20:54:37 2021	Jefff (STEAM_0:1:217228381): /setspawn allies_us_major
+Sun Apr 11 20:54:41 2021	Jefff (STEAM_0:1:217228381): /setspawn allies_us_colonel

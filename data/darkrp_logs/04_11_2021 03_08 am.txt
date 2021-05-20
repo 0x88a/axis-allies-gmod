@@ -1,0 +1,35 @@
+Sun Apr 11 03:08:26 2021	Jefff (STEAM_0:1:217228381) has joined the game
+Sun Apr 11 03:08:27 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 03:09:10 2021	Jefff (STEAM_0:1:217228381) spawned SENT lfs_vehicle_spammer
+Sun Apr 11 03:09:14 2021	Jefff (STEAM_0:1:217228381) spawned SENT lfs_vehicle_spammer
+Sun Apr 11 03:10:15 2021	Jefff (STEAM_0:1:217228381) spawned SENT lunasflightschool_p47d
+Sun Apr 11 03:10:25 2021	Jefff (STEAM_0:1:217228381) spawned SENT lunasflightschool_cessna
+Sun Apr 11 03:10:29 2021	Jefff (STEAM_0:1:217228381) spawned SENT lunasflightschool_bf109
+Sun Apr 11 03:10:33 2021	Jefff (STEAM_0:1:217228381) spawned SENT lunasflightschool_bf109
+Sun Apr 11 03:11:12 2021	Jefff (STEAM_0:1:217228381) spawned SENT lunasflightschool_spitfire
+Sun Apr 11 03:11:30 2021	Jefff (STEAM_0:1:217228381) spawned SENT lunasflightschool_spitfire
+Sun Apr 11 03:13:20 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 03:13:31 2021	Jefff (STEAM_0:1:217228381): /setspawn axis_ss_enlisted
+Sun Apr 11 03:13:35 2021	Jefff (STEAM_0:1:217228381): /setspawn axis_ss_nco
+Sun Apr 11 03:13:40 2021	Jefff (STEAM_0:1:217228381): /setspawn axis_ss_officer
+Sun Apr 11 03:13:49 2021	Jefff (STEAM_0:1:217228381): /setspawn axis_ss_feld
+Sun Apr 11 03:13:54 2021	Jefff (STEAM_0:1:217228381): /setspawn axis_ss_feld_nco
+Sun Apr 11 03:14:01 2021	Jefff (STEAM_0:1:217228381): /setspawn axis_ss_feld_officer
+Sun Apr 11 03:14:17 2021	Jefff (STEAM_0:1:217228381): /setspawn axis_w_enlisted
+Sun Apr 11 03:14:24 2021	Jefff (STEAM_0:1:217228381): /setspawn alles_w_nco
+Sun Apr 11 03:14:30 2021	Jefff (STEAM_0:1:217228381): /setspawn allies_w_nco
+Sun Apr 11 03:14:35 2021	Jefff (STEAM_0:1:217228381): /setspawn allies_w_officer
+Sun Apr 11 03:14:44 2021	Jefff (STEAM_0:1:217228381): /setspawn allies_w_officer
+Sun Apr 11 03:15:10 2021	Jefff (STEAM_0:1:217228381): /setspawn axis_ss_officer
+Sun Apr 11 03:15:16 2021	Jefff (STEAM_0:1:217228381): /setspawn axis_ss_feld
+Sun Apr 11 03:15:28 2021	Jefff (STEAM_0:1:217228381): /setspawn axis_w_officer
+Sun Apr 11 03:15:33 2021	Jefff (STEAM_0:1:217228381): /setspawn axis_w_mg
+Sun Apr 11 03:15:38 2021	Jefff (STEAM_0:1:217228381): /setspawn axis_w_medic
+Sun Apr 11 03:15:46 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 03:15:56 2021	Jefff (STEAM_0:1:217228381) spawned
+Sun Apr 11 03:16:06 2021	Jefff (STEAM_0:1:217228381): /setspawn allies_us_medic
+Sun Apr 11 03:16:20 2021	Jefff (STEAM_0:1:217228381): /setspawn allies_us_mp
+Sun Apr 11 03:16:58 2021	Jefff (STEAM_0:1:217228381): test
+Sun Apr 11 03:18:06 2021	Jefff (STEAM_0:1:217228381): tst
+Sun Apr 11 03:18:28 2021	Jefff (STEAM_0:1:217228381): pog
+Sun Apr 11 03:18:39 2021	Jefff (STEAM_0:1:217228381): this chat is pog

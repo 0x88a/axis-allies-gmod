@@ -1,0 +1,1 @@
+{"Damage":500.0,"MuzzleEffect":"muzzleflash_pistol","EffectiveRange_Orig":6000.0}

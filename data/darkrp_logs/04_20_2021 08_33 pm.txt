@@ -1,0 +1,20 @@
+Tue Apr 20 20:33:42 2021	Jefff (STEAM_0:1:217228381) has joined the game
+Tue Apr 20 20:33:42 2021	Oberleutnant Willhelm Duseldorfg (STEAM_0:1:217228381) spawned
+Tue Apr 20 20:36:39 2021	Oberleutnant Willhelm Duseldorfg (STEAM_0:1:217228381): 
+Tue Apr 20 20:36:41 2021	Oberleutnant Willhelm Duseldorfg (STEAM_0:1:217228381): 
+Tue Apr 20 20:39:48 2021	Oberleutnant Willhelm Duseldorfg (STEAM_0:1:217228381) spawned
+Tue Apr 20 20:40:38 2021	Oberleutnant Willhelm Duseldorfg (STEAM_0:1:217228381) spawned Vehicle wac_pl_ju87
+Tue Apr 20 20:40:39 2021	Oberleutnant Willhelm Duseldorfg was killed by Entity [238][wac_pl_ju87] with a wac_pl_ju87
+Tue Apr 20 20:40:41 2021	Oberleutnant Willhelm Duseldorfg (STEAM_0:1:217228381) spawned
+Tue Apr 20 20:40:51 2021	Oberleutnant Willhelm Duseldorfg (STEAM_0:1:217228381) spawned Vehicle wac_pl_he111
+Tue Apr 20 20:40:54 2021	Oberleutnant Willhelm Duseldorfg was killed by Entity [0][worldspawn] with a unknown
+Tue Apr 20 20:40:55 2021	Oberleutnant Willhelm Duseldorfg (STEAM_0:1:217228381) spawned
+Tue Apr 20 20:40:57 2021	Oberleutnant Willhelm Duseldorfg (STEAM_0:1:217228381): 
+Tue Apr 20 20:41:16 2021	Oberleutnant Willhelm Duseldorfg (STEAM_0:1:217228381) spawned Vehicle wac_pl_he111
+Tue Apr 20 20:41:34 2021	Oberleutnant Willhelm Duseldorfg (STEAM_0:1:217228381) spawned Vehicle wac_pl_ju87
+Tue Apr 20 20:41:47 2021	Oberleutnant Willhelm Duseldorfg was killed by Entity [0][worldspawn] with a wac_pl_ju87
+Tue Apr 20 20:41:49 2021	Oberleutnant Willhelm Duseldorfg (STEAM_0:1:217228381) spawned
+Tue Apr 20 20:42:29 2021	Oberleutnant Willhelm Duseldorfg (STEAM_0:1:217228381) spawned Vehicle wac_pl_he111
+Tue Apr 20 20:43:18 2021	Oberleutnant Willhelm Duseldorfg was killed by Entity [0][worldspawn] with a unknown
+Tue Apr 20 20:43:19 2021	Oberleutnant Willhelm Duseldorfg (STEAM_0:1:217228381) spawned
+Tue Apr 20 20:46:00 2021	Oberleutnant Willhelm Duseldorfg (STEAM_0:1:217228381) spawned

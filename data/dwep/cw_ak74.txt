@@ -1,0 +1,1 @@
+{"HipSpread":0.0,"CSMuzzleFlashes":false,"Primary | DefaultClip":100.0,"FireDelay":0.05,"LuaViewmodelRecoil":false,"MuzzleEffect":"muzzleflash_pistol","Recoil":0.0,"Primary | ClipSize":100.0,"Damage":35.0}

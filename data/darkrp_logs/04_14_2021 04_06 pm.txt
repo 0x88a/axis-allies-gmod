@@ -1,0 +1,43 @@
+Wed Apr 14 16:06:02 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 16:06:03 2021	Trainee Willhelm (STEAM_0:1:217228381): // ok i've fixed demotions.
+Wed Apr 14 16:06:07 2021	Major Peter Steiner (STEAM_0:1:55197996): :(
+Wed Apr 14 16:06:09 2021	Trainee Willhelm (STEAM_0:1:217228381): 
+Wed Apr 14 16:06:16 2021	Trainee Willhelm (STEAM_0:1:217228381): 
+Wed Apr 14 16:06:18 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 16:06:28 2021	Major Peter Steiner (STEAM_0:1:55197996): /demote will test
+Wed Apr 14 16:06:35 2021	Trainee Willhelm (STEAM_0:1:217228381): 
+Wed Apr 14 16:06:36 2021	Trainee Willhelm (STEAM_0:1:217228381): /vote
+Wed Apr 14 16:06:40 2021	Major Peter Steiner (STEAM_0:1:55197996): /vote
+Wed Apr 14 16:06:50 2021	Trainee Willhelm (STEAM_0:1:217228381): /dropweapon
+Wed Apr 14 16:06:59 2021	Major Peter Steiner (STEAM_0:1:55197996): /dropweapon
+Wed Apr 14 16:07:01 2021	Trainee Willhelm (STEAM_0:1:217228381): /lgos
+Wed Apr 14 16:07:01 2021	Major Peter Steiner (STEAM_0:1:55197996): /drop
+Wed Apr 14 16:07:02 2021	Trainee Willhelm (STEAM_0:1:217228381): /logs
+Wed Apr 14 16:07:06 2021	Trainee Willhelm (STEAM_0:1:217228381): /givemoney
+Wed Apr 14 16:07:06 2021	Major Peter Steiner (STEAM_0:1:55197996): .logs
+Wed Apr 14 16:07:07 2021	Trainee Willhelm (STEAM_0:1:217228381): /give
+Wed Apr 14 16:07:09 2021	Major Peter Steiner (STEAM_0:1:55197996): /logs
+Wed Apr 14 16:07:10 2021	Trainee Willhelm (STEAM_0:1:217228381): /give 10
+Wed Apr 14 16:07:14 2021	Trainee Willhelm (STEAM_0:1:217228381): /give 100
+Wed Apr 14 16:07:15 2021	Trainee Willhelm (STEAM_0:1:217228381) has given $100 to Major Peter Steiner (STEAM_0:1:55197996)
+Wed Apr 14 16:07:44 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 16:09:11 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 16:09:14 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 16:10:09 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 16:10:11 2021	Trainee Willhelm (STEAM_0:1:217228381): // @ me on discord if anything heppsn
+Wed Apr 14 16:10:22 2021	Major Peter Steiner (STEAM_0:1:55197996): /ooc yeah will do bro
+Wed Apr 14 16:10:29 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 16:10:37 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 16:10:37 2021	Major Peter Steiner was killed by Entity [0][worldspawn] with a unknown
+Wed Apr 14 16:10:38 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned
+Wed Apr 14 16:10:51 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 16:11:03 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 16:11:41 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 16:11:44 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 16:12:17 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 16:12:57 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned Vehicle gmod_sent_vehicle_fphysics_base (these are not the droids you are looking for)
+Wed Apr 14 16:13:31 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT gred_emp_flak40z
+Wed Apr 14 16:14:00 2021	Trainee Willhelm (STEAM_0:1:217228381): /moneydrop 1
+Wed Apr 14 16:14:06 2021	Trainee Willhelm (STEAM_0:1:217228381): /check 10
+Wed Apr 14 16:14:07 2021	Major Peter Steiner (STEAM_0:1:55197996) spawned SENT gred_emp_zpu4_1949
+Wed Apr 14 16:14:09 2021	Trainee Willhelm (STEAM_0:1:217228381): /check major 10

