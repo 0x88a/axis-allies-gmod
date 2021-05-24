@@ -248,8 +248,12 @@ hook.Add("CanTool", "gP:CanToolHandeler", function(ply, tr, tool)
 	if tr.Entity.sppghosted and tool ~= "remover" then return false end
 
 	if toolgunsettingsresult == false then return false end
-	local finalresult = toolgunsettingsresult ~= nil and (toolgunsettingsresult or gProtect.HandlePermissions(ply, tr.Entity, "gmod_tool")) or nil
 
+	local hasPerm = gProtect.HandlePermissions(ply, tr.Entity, "gmod_tool")
+
+	if !hasPerm then return false end
+
+	local finalresult = toolgunsettingsresult ~= nil and (toolgunsettingsresult or hasPerm) or nil
 	if finalresult then
 		hook.Run("OnTool", ply, tr, tool)
 	end

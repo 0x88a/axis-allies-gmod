@@ -46,11 +46,11 @@ gProtect.HandlePermissions = function(ply, ent, permission)
 		if owner and IsValid(owner) and owner:IsPlayer() then
 			local touchtbl = gProtect.TouchPermission["targetPlayerOwned"] and gProtect.TouchPermission["targetPlayerOwned"][weapon]
 			if !touchtbl then return false end
-			if touchtbl["*"] or touchtbl[ply:GetUserGroup()] then return true end
+			if touchtbl and touchtbl["*"] or touchtbl[ply:GetUserGroup()] then return true end
 		else
 			local touchtbl = gProtect.TouchPermission["targetWorld"] and gProtect.TouchPermission["targetWorld"][weapon]
 			if !touchtbl then return false end
-			if touchtbl["*"] or touchtbl[ply:GetUserGroup()] then return true end
+			if touchtbl and touchtbl["*"] or touchtbl[ply:GetUserGroup()] then return true end
 		end
 	end
 	
